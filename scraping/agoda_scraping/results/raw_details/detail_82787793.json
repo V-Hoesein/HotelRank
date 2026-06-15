@@ -1,0 +1,928 @@
+{
+  "propertyId": 82787793,
+  "name": "Hotel Grand Permata Hati",
+  "propertyPage": "/hotel-grand-permata-hati-h76825336/hotel/aceh-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 82787793,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": null
+            },
+            "contentDetail": {
+              "propertyId": 82787793,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1304016011,
+                    "providerId": 29305,
+                    "typeId": 6,
+                    "uploadedDate": "2025-12-09T03:28:25.177+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a1ef20140cafd7e1456ec7504c5feed.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a1ef20140cafd7e1456ec7504c5feed.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a1ef20140cafd7e1456ec7504c5feed.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a1ef20140cafd7e1456ec7504c5feed.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Superior Room - Guestroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1306282629,
+                    "providerId": 29305,
+                    "typeId": 7,
+                    "uploadedDate": "2025-12-10T05:43:46.767+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/bc4b11d29ef61382a95817c90d68759d.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/bc4b11d29ef61382a95817c90d68759d.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/bc4b11d29ef61382a95817c90d68759d.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/bc4b11d29ef61382a95817c90d68759d.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1304016013,
+                    "providerId": 29305,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-09T03:28:25.180+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/0/e402e725e141123231d72ca1103198a1.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/0/e402e725e141123231d72ca1103198a1.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/0/e402e725e141123231d72ca1103198a1.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/0/e402e725e141123231d72ca1103198a1.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1304016009,
+                    "providerId": 29305,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-09T03:28:25.173+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/0/9da2f749be3605d0d3f53d46e95beb0f.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/0/9da2f749be3605d0d3f53d46e95beb0f.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/0/9da2f749be3605d0d3f53d46e95beb0f.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/0/9da2f749be3605d0d3f53d46e95beb0f.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1304016012,
+                    "providerId": 29305,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-09T03:28:25.177+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/0/de30760562e54df4652d13b3651a5b66.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/0/de30760562e54df4652d13b3651a5b66.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/0/de30760562e54df4652d13b3651a5b66.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/0/de30760562e54df4652d13b3651a5b66.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1304016010,
+                    "providerId": 29305,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-09T03:28:25.177+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a80ce5af6ee1906a5d2a56317bc5da7.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a80ce5af6ee1906a5d2a56317bc5da7.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a80ce5af6ee1906a5d2a56317bc5da7.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/0/3a80ce5af6ee1906a5d2a56317bc5da7.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Superior Room - Guestroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1306282630,
+                    "providerId": 29305,
+                    "typeId": 7,
+                    "uploadedDate": "2025-12-10T05:43:46.770+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/606c49bdc1ffad56a678d29b2791ce84.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/606c49bdc1ffad56a678d29b2791ce84.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/606c49bdc1ffad56a678d29b2791ce84.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/1290532385/606c49bdc1ffad56a678d29b2791ce84.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Deluxe Room - Guestroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1306282640,
+                    "providerId": 29305,
+                    "typeId": 7,
+                    "uploadedDate": "2025-12-10T05:43:47.687+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/82787793/1290532382/c9012cae6b2dc5b83348fb05441dc909.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/82787793/1290532382/c9012cae6b2dc5b83348fb05441dc909.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/82787793/1290532382/c9012cae6b2dc5b83348fb05441dc909.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/82787793/1290532382/c9012cae6b2dc5b83348fb05441dc909.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Baiturrahman Grand Mosque - 600 m from property",
+                    "groupEntityId": null,
+                    "groupId": "nearby",
+                    "group": "Nearby attraction",
+                    "id": 0,
+                    "providerId": 999979,
+                    "typeId": 5,
+                    "uploadedDate": null,
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=160x120"
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": null,
+                  "cumulativeForHost": null
+                },
+                "providerReviewScore": null,
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 82787793,
+                "displayName": "Hotel Grand Permata Hati",
+                "defaultName": "Hotel Grand Permata Hati",
+                "localeName": "Hotel Grand Permata Hati",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 34,
+                  "accommodationName": "Hotel"
+                },
+                "propertyType": "Hotel",
+                "address": {
+                  "address1": "Jalan Sultan Iskandar Muda No. 17",
+                  "address2": "",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 57556,
+                    "name": "Banda Aceh"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "23233",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": false,
+                "geoInfo": {
+                  "latitude": 5.548556804656982,
+                  "longitude": 95.31507110595703
+                },
+                "rating": 0.0,
+                "isInfantCotAvailable": false
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "property-facility",
+                    "id": 351,
+                    "images": [],
+                    "name": "Breakfast [free]",
+                    "symbol": "free-breakfast",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 124,
+                    "images": [],
+                    "name": "Luggage storage",
+                    "symbol": "luggage-storage",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": {
+                  "title": "Inside city center"
+                },
+                "locationHighlights": [
+                  {
+                    "distanceKm": 0.0,
+                    "highlightType": "city-center",
+                    "message": "Inside city center"
+                  }
+                ],
+                "locations": [
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-culture",
+                    "name": "Local Culture",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-sightseeing",
+                    "name": "Sights and Monuments",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-religious",
+                    "name": "Religious Places and Icons",
+                    "images": []
+                  }
+                ],
+                "atfPropertyHighlights": [
+                  {
+                    "id": 719,
+                    "name": "Inside city center",
+                    "symbol": "location.svg",
+                    "icon": null,
+                    "category": "city-center",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Location"
+                  },
+                  {
+                    "id": 351,
+                    "name": "Breakfast [free]",
+                    "symbol": "like.svg",
+                    "icon": "fill.food.croissant",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 124,
+                    "name": "Luggage storage",
+                    "symbol": "like.svg",
+                    "icon": "fill.amenity.luggage",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": null,
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.08,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.547818,
+                      "longitude": 95.314879,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 128476,
+                    "name": "The Aceh Tsunami Museum",
+                    "typeId": 14,
+                    "typeName": "Museums and Art Galleries",
+                    "landMarkGroup": {
+                      "name": "Cultural",
+                      "sortOrder": 2
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.24,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.550436149999999,
+                      "longitude": 95.31404476908688,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004084,
+                    "name": "Blang Padang",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.24,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5495317,
+                      "longitude": 95.31700105320348,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003838,
+                    "name": "Taman Bustanussalatin",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.33,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.546855,
+                      "longitude": 95.3175633414096,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003835,
+                    "name": "Putro Phang Park",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.36,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5466,
+                      "longitude": 95.317686,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 280498,
+                    "name": "Taman Sari Gunongan Historical Park",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.41,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55027705,
+                      "longitude": 95.31181419525711,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003997,
+                    "name": "Rumah Sakit Ibu dan Anak",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.41,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.550886999999999,
+                      "longitude": 95.31214934537614,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004016,
+                    "name": "Rumah Sakit Gigi dan Mulut Unsyiah",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.44,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5445607,
+                      "longitude": 95.31488322321023,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003829,
+                    "name": "Taman Budaya Aceh",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5518697,
+                      "longitude": 95.3190195,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003904,
+                    "name": "Barata Shopping Center",
+                    "typeId": 48,
+                    "typeName": "Supermarkets",
+                    "landMarkGroup": {
+                      "name": "Shopping",
+                      "sortOrder": 3
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.61,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.553571,
+                      "longitude": 95.317285,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 128475,
+                    "name": "Baiturrahman Grand Mosque",
+                    "typeId": 29,
+                    "typeName": "Places of Worship",
+                    "landMarkGroup": {
+                      "name": "Cultural",
+                      "sortOrder": 2
+                    }
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5518697,
+                      "longitude": 95.3190195,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Barata Shopping Center",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.64,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5521555,
+                      "longitude": 95.3195893,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Cherry Mart",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.65,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5522379,
+                      "longitude": 95.3195829,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Mizi Toserba",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  }
+                ],
+                "popularLandmarkNumber": 2,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": null
+                },
+                "description": {
+                  "short": "Conveniently situated in the Banda Aceh part of Aceh, this property puts you close to attractions and interesting dining options."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": null,
+                  "minAge": [],
+                  "adult": [],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "childAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": false
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Breakfast [free]",
+                        "featureNameLocalizationList": null,
+                        "id": 351,
+                        "order": 160,
+                        "symbol": "free-breakfast",
+                        "images": []
+                      }
+                    ],
+                    "id": 44,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 1,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Luggage storage",
+                        "featureNameLocalizationList": null,
+                        "id": 124,
+                        "order": 121,
+                        "symbol": "luggage-storage",
+                        "images": []
+                      }
+                    ],
+                    "id": 38,
+                    "name": "Services and conveniences",
+                    "order": 2,
+                    "symbol": "room-service"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 124,
+                    "name": null
+                  },
+                  {
+                    "id": 351,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": null
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 124,
+                    "facilityName": "Luggage storage",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 351,
+                    "facilityName": "Breakfast",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "enrichment": {
+                "bookingHistory": {
+                  "bookingCount": {
+                    "count": 0,
+                    "timeFrame": "PastTwentyFourHours"
+                  }
+                }
+              },
+              "contentTopics": {
+                "topics": []
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": false,
+      "pageSize": 5,
+      "hotelId": 82787793,
+      "hotelName": "Hotel Grand Permata Hati",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/hotel-grand-permata-hati-h76825336/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 82787793,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [],
+        "reviewFilterAndSort": [],
+        "providerList": [],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/hotel-grand-permata-hati-h76825336/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 82787793,
+        "hotelName": "Hotel Grand Permata Hati",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 332,
+        "demographics": [],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    }
+  ]
+}

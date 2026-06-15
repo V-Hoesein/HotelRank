@@ -1,0 +1,1670 @@
+{
+  "propertyId": 89070206,
+  "name": "WISMA JEUMPA TAKENGON",
+  "propertyPage": "/wisma-jeumpa-takengon/hotel/takengon-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 89070206,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": null
+            },
+            "contentDetail": {
+              "propertyId": 89070206,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "Attractions",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164582,
+                    "providerId": 332,
+                    "typeId": 6,
+                    "uploadedDate": "2026-06-12T15:49:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/bc2b2c8b6d57c49281155698ae8926ea.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/bc2b2c8b6d57c49281155698ae8926ea.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/bc2b2c8b6d57c49281155698ae8926ea.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/bc2b2c8b6d57c49281155698ae8926ea.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Twin Standard - Bedroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 198937160,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2026-05-31T19:13:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/fd5559fbc86c796f0fc818ec0e9a1e71.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/fd5559fbc86c796f0fc818ec0e9a1e71.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/fd5559fbc86c796f0fc818ec0e9a1e71.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/fd5559fbc86c796f0fc818ec0e9a1e71.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Smoking area",
+                    "groupEntityId": 83,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 198936892,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Smoking area",
+                    "groupEntityId": 83,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 198936894,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Parking lot",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 198937144,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-05-31T19:11:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/b2b430c500ae35d6132c4c590a292680.png?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/b2b430c500ae35d6132c4c590a292680.png?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/b2b430c500ae35d6132c4c590a292680.png?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/b2b430c500ae35d6132c4c590a292680.png?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Twin Standard - Bedroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 198937165,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2026-05-31T19:13:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/81b4c0532698ed85accb64a9b3c275b4.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/81b4c0532698ed85accb64a9b3c275b4.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/81b4c0532698ed85accb64a9b3c275b4.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/81b4c0532698ed85accb64a9b3c275b4.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Smoking area",
+                    "groupEntityId": 83,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164698,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Facilities",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164699,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/d9c5ff4e3079101550b09eedb41d96dd.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/d9c5ff4e3079101550b09eedb41d96dd.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/d9c5ff4e3079101550b09eedb41d96dd.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/d9c5ff4e3079101550b09eedb41d96dd.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Smoking area",
+                    "groupEntityId": 83,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 198936893,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Public areas",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164704,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5cca0e2ec3333e17c090c79379690b53.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5cca0e2ec3333e17c090c79379690b53.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5cca0e2ec3333e17c090c79379690b53.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5cca0e2ec3333e17c090c79379690b53.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Smoking area",
+                    "groupEntityId": 83,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164697,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Public areas",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164701,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ebb81d9d231cbee16b0f4851a22edf8e.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ebb81d9d231cbee16b0f4851a22edf8e.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ebb81d9d231cbee16b0f4851a22edf8e.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/ebb81d9d231cbee16b0f4851a22edf8e.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Public areas",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164702,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/7ff6318b4efaa46c39b8e96eab2e6fd9.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/7ff6318b4efaa46c39b8e96eab2e6fd9.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/7ff6318b4efaa46c39b8e96eab2e6fd9.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/7ff6318b4efaa46c39b8e96eab2e6fd9.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Surrounding environment",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 200164705,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5815f928fd361bde82d86e6525dcded1.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5815f928fd361bde82d86e6525dcded1.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5815f928fd361bde82d86e6525dcded1.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/5815f928fd361bde82d86e6525dcded1.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Lobby",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 200164700,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/4b1621bdb56cd76d37e428b9ec4b2c6d.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/4b1621bdb56cd76d37e428b9ec4b2c6d.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/4b1621bdb56cd76d37e428b9ec4b2c6d.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/89070206/0/4b1621bdb56cd76d37e428b9ec4b2c6d.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": null,
+                  "cumulativeForHost": {
+                    "reviewCount": 0
+                  }
+                },
+                "providerReviewScore": null,
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 89070206,
+                "displayName": "WISMA JEUMPA TAKENGON",
+                "defaultName": "WISMA JEUMPA TAKENGON",
+                "localeName": "WISMA JEUMPA TAKENGON",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 34,
+                  "accommodationName": "Hotel"
+                },
+                "propertyType": "Hotel",
+                "address": {
+                  "address1": "Jl. MAN I Takengon, Blang Kolak I, Kec. Bebesen",
+                  "address2": "WISMA JEUMPA TAKENGON",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 483954,
+                    "name": "Takengon"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "24552",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": {
+                    "logo": "https://cdn6.agoda.net/images/MIN-11586/default/agoda_preferred_logo.png",
+                    "description": "Agoda Preferred recommends trusted and verified properties that have a long-standing relationship with Agoda and meet certain criteria."
+                  }
+                },
+                "remarks": {
+                  "renovationInfo": {
+                    "year": 2024,
+                    "renovationType": 0
+                  }
+                },
+                "hasHostExperience": false,
+                "geoInfo": {
+                  "latitude": 4.6285543,
+                  "longitude": 96.844025
+                },
+                "rating": 2.0,
+                "isInfantCotAvailable": true
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "property-facility",
+                    "id": 109,
+                    "images": [],
+                    "name": "Free Wi-Fi in all rooms!",
+                    "symbol": "free-wifi-in-all-rooms",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 240,
+                    "images": [],
+                    "name": "Daily housekeeping",
+                    "symbol": "daily-housekeeping",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 83,
+                    "images": [
+                      {
+                        "id": 198936892,
+                        "urls": [
+                          {
+                            "key": "main",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=360x270"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 198936893,
+                        "urls": [
+                          {
+                            "key": "main",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=360x270"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 198936894,
+                        "urls": [
+                          {
+                            "key": "main",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=360x270"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 200164697,
+                        "urls": [
+                          {
+                            "key": "main",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=360x270"
+                          }
+                        ]
+                      },
+                      {
+                        "id": 200164698,
+                        "urls": [
+                          {
+                            "key": "main",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=360x270"
+                          }
+                        ]
+                      }
+                    ],
+                    "name": "Smoking area",
+                    "symbol": "smoking-area",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 127,
+                    "images": [],
+                    "name": "Shared kitchen",
+                    "symbol": "",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 80,
+                    "images": [],
+                    "name": "Car park",
+                    "symbol": "car-park",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": null,
+                "locationHighlights": [],
+                "locations": [],
+                "atfPropertyHighlights": [
+                  {
+                    "id": 116,
+                    "name": "Front desk [24-hour]",
+                    "symbol": "door.svg",
+                    "icon": null,
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Check-in/Out"
+                  },
+                  {
+                    "id": -1,
+                    "name": "Newly built",
+                    "symbol": "hotel.svg",
+                    "icon": null,
+                    "category": "newlyBuiltOrRenovated",
+                    "images": null,
+                    "tooltip": "Built in 2024",
+                    "topicName": null
+                  },
+                  {
+                    "id": 109,
+                    "name": "Free Wi-Fi in all rooms!",
+                    "symbol": "like.svg",
+                    "icon": "fill.electrics.wifi",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 240,
+                    "name": "Daily housekeeping",
+                    "symbol": "like.svg",
+                    "icon": "fill.service.clean",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 83,
+                    "name": "Smoking area",
+                    "symbol": "like.svg",
+                    "icon": "fill.facility.smoke",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": null,
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6234643,
+                      "longitude": 96.84319328109129,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004131,
+                    "name": "Musara Alun",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.2,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6363029,
+                      "longitude": 96.8515929,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004137,
+                    "name": "Rumah Sakit Datu Beru",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.43,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6170267,
+                      "longitude": 96.84980612100219,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004138,
+                    "name": "Lapangan Bola Voli",
+                    "typeId": 128,
+                    "typeName": "Sport Centers and Swimming Pools",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 2.09,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6122083,
+                      "longitude": 96.8534082,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004139,
+                    "name": "gaya highland sign hollywood style",
+                    "typeId": 20,
+                    "typeName": "Things to do",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 4.82,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6449,
+                      "longitude": 96.8038,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004133,
+                    "name": "Bur Pepanyi",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 5.32,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6577,
+                      "longitude": 96.806,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004136,
+                    "name": "Bur Salahnama",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 5.99,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.5751,
+                      "longitude": 96.8506,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004134,
+                    "name": "Bur Mulo",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.15,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.629,
+                      "longitude": 96.7705,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004132,
+                    "name": "Bur Bies",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.48,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6151,
+                      "longitude": 96.919279,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 280496,
+                    "name": "Lake Laut Tawar",
+                    "typeId": 16,
+                    "typeName": "Rivers, Reservoirs, and Lakes",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.95,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.5807,
+                      "longitude": 96.7791,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004135,
+                    "name": "Bur Nikalapegaseng",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [],
+                "popularLandmarkNumber": 1,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 1,
+                    "name": "Check-in/Check-out",
+                    "usefulInfo": [
+                      {
+                        "id": 8,
+                        "name": "Check-in from",
+                        "description": "02:00"
+                      },
+                      {
+                        "id": 9,
+                        "name": "Check-out until",
+                        "description": "11:00"
+                      },
+                      {
+                        "id": 38,
+                        "name": "Reception open until",
+                        "description": "23:00"
+                      },
+                      {
+                        "id": 44,
+                        "name": "Check-out from",
+                        "description": "08:00"
+                      },
+                      {
+                        "id": 45,
+                        "name": "Check-in until",
+                        "description": "00:00"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 2,
+                    "name": "Getting around",
+                    "usefulInfo": [
+                      {
+                        "id": 1,
+                        "name": "Distance from city center",
+                        "description": "1km"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 4,
+                    "name": "The property",
+                    "usefulInfo": [
+                      {
+                        "id": 4,
+                        "name": "Year property opened",
+                        "description": "2024"
+                      },
+                      {
+                        "id": 5,
+                        "name": "Number of floors",
+                        "description": "2"
+                      },
+                      {
+                        "id": 28,
+                        "name": "Number of rooms ",
+                        "description": "1"
+                      },
+                      {
+                        "id": 33,
+                        "name": "Most recent renovation",
+                        "description": "2026"
+                      },
+                      {
+                        "id": 34,
+                        "name": "Non-smoking rooms/floors",
+                        "description": "no"
+                      },
+                      {
+                        "id": 46,
+                        "name": "License Id / Local Tax ID/ Entity Name",
+                        "description": "1173014508700003"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": true
+                },
+                "description": {
+                  "short": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Conveniently situated in the Takengon part of Aceh, this property puts you close to attractions and interesting dining options."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": {
+                    "stayFreeAgeRange": {
+                      "min": 0,
+                      "max": 1
+                    },
+                    "details": [
+                      {
+                        "isInfant": false,
+                        "title": "Children 0-1 year(s)",
+                        "description": "Stay for free if using existing bedding."
+                      }
+                    ]
+                  },
+                  "minAge": [],
+                  "adult": [],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "childAges": {
+                      "min": 0,
+                      "max": 1
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": true
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "English",
+                        "featureNameLocalizationList": null,
+                        "id": 151,
+                        "order": 1,
+                        "symbol": "flag-gb",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Indonesian",
+                        "featureNameLocalizationList": null,
+                        "id": 169,
+                        "order": 21,
+                        "symbol": "flag-id",
+                        "images": []
+                      }
+                    ],
+                    "id": 12,
+                    "name": "Languages spoken",
+                    "order": 1,
+                    "symbol": "global"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Free Wi-Fi in all rooms!",
+                        "featureNameLocalizationList": null,
+                        "id": 109,
+                        "order": 38,
+                        "symbol": "free-wifi-in-all-rooms",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Internet",
+                        "featureNameLocalizationList": null,
+                        "id": 90,
+                        "order": 0,
+                        "symbol": "internet",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Internet services",
+                        "featureNameLocalizationList": null,
+                        "id": 2578,
+                        "order": 264,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Wi-Fi in public areas",
+                        "featureNameLocalizationList": null,
+                        "id": 79,
+                        "order": 122,
+                        "symbol": "wifi-in-public-areas",
+                        "images": []
+                      }
+                    ],
+                    "id": 41,
+                    "name": "Internet access",
+                    "order": 2,
+                    "symbol": "wifi"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Shared kitchen",
+                        "featureNameLocalizationList": null,
+                        "id": 127,
+                        "order": 153,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 44,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 4,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Daily housekeeping",
+                        "featureNameLocalizationList": null,
+                        "id": 240,
+                        "order": 105,
+                        "symbol": "daily-housekeeping",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Luggage storage",
+                        "featureNameLocalizationList": null,
+                        "id": 124,
+                        "order": 121,
+                        "symbol": "luggage-storage",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Smoking area",
+                        "featureNameLocalizationList": null,
+                        "id": 83,
+                        "order": 150,
+                        "symbol": "smoking-area",
+                        "images": [
+                          {
+                            "id": 198936892,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=150x100"
+                              }
+                            ],
+                            "groupId": "facility",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Smoking area",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 198936893,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=150x100"
+                              }
+                            ],
+                            "groupId": "facility",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Smoking area",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 198936894,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=150x100"
+                              }
+                            ],
+                            "groupId": "facility",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Smoking area",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 200164697,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=150x100"
+                              }
+                            ],
+                            "groupId": "facility",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Smoking area",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 200164698,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=150x100"
+                              }
+                            ],
+                            "groupId": "facility",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Smoking area",
+                            "highResolutionSizes": []
+                          }
+                        ]
+                      }
+                    ],
+                    "id": 38,
+                    "name": "Services and conveniences",
+                    "order": 5,
+                    "symbol": "room-service"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Couple's room",
+                        "featureNameLocalizationList": null,
+                        "id": 2735,
+                        "order": 305,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Front desk [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 116,
+                        "order": 119,
+                        "symbol": "24hour-frontdesk",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Security [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 235,
+                        "order": 100,
+                        "symbol": "24hour-security",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Soundproof rooms",
+                        "featureNameLocalizationList": null,
+                        "id": 2536,
+                        "order": 252,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 37,
+                    "name": "Access",
+                    "order": 6,
+                    "symbol": "number-of-rooms"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Car park [on-site]",
+                        "featureNameLocalizationList": null,
+                        "id": 354,
+                        "order": 163,
+                        "symbol": "car-park-onsite",
+                        "images": []
+                      }
+                    ],
+                    "id": 39,
+                    "name": "Getting around",
+                    "order": 7,
+                    "symbol": "car-hire"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 2735,
+                    "name": null
+                  },
+                  {
+                    "id": 116,
+                    "name": null
+                  },
+                  {
+                    "id": 169,
+                    "name": null
+                  },
+                  {
+                    "id": 109,
+                    "name": null
+                  },
+                  {
+                    "id": 124,
+                    "name": null
+                  },
+                  {
+                    "id": 2536,
+                    "name": null
+                  },
+                  {
+                    "id": 240,
+                    "name": null
+                  },
+                  {
+                    "id": 2578,
+                    "name": null
+                  },
+                  {
+                    "id": 80,
+                    "name": null
+                  },
+                  {
+                    "id": 127,
+                    "name": null
+                  },
+                  {
+                    "id": 235,
+                    "name": null
+                  },
+                  {
+                    "id": 151,
+                    "name": null
+                  },
+                  {
+                    "id": 79,
+                    "name": null
+                  },
+                  {
+                    "id": 90,
+                    "name": null
+                  },
+                  {
+                    "id": 83,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": null
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 109,
+                    "facilityName": "Free Wi-Fi ",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 80,
+                    "facilityName": "Car park",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 116,
+                    "facilityName": "Front desk [24-hour]",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 127,
+                    "facilityName": "Shared kitchen",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 124,
+                    "facilityName": "Luggage storage",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 83,
+                    "facilityName": "Smoking area",
+                    "images": [
+                      {
+                        "id": 198936892,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/9433016acc1a68391323f396507a4dc3.jpg?ce=3&s=150x100"
+                          }
+                        ],
+                        "groupId": "facility",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Smoking area",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 198936893,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/acea4afa1c76568cf75eb4c87b3eb4c4.jpg?ce=3&s=150x100"
+                          }
+                        ],
+                        "groupId": "facility",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Smoking area",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 198936894,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/72c87aa5f13bcbec89c8c4d94da3fcc5.jpg?ce=3&s=150x100"
+                          }
+                        ],
+                        "groupId": "facility",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2026-05-31T19:07:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Smoking area",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 200164697,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/ef6c63b2ce8b1408af512857d7df9154.jpg?ce=3&s=150x100"
+                          }
+                        ],
+                        "groupId": "facility",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Smoking area",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 200164698,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/89070206/0/1d5cacd713ab912fbffdaf5bb37aa05e.jpg?ce=3&s=150x100"
+                          }
+                        ],
+                        "groupId": "facility",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2026-06-12T15:50:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Smoking area",
+                        "highResolutionSizes": []
+                      }
+                    ]
+                  },
+                  {
+                    "facilityId": 240,
+                    "facilityName": "Daily housekeeping",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2735,
+                    "facilityName": "Themed rooms",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "enrichment": {
+                "bookingHistory": {
+                  "bookingCount": {
+                    "count": 0,
+                    "timeFrame": "PastTwentyFourHours"
+                  }
+                }
+              },
+              "contentTopics": {
+                "topics": []
+              }
+            },
+            "growthProgramInfo": {
+              "badges": [
+                "AGODA_PREFERRED"
+              ]
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "true",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 3,
+                  "dataType": "BOOLEAN",
+                  "value": "true",
+                  "version": "V2"
+                },
+                {
+                  "attributeId": 8,
+                  "dataType": "BOOLEAN",
+                  "value": "true",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": false,
+      "pageSize": 5,
+      "hotelId": 89070206,
+      "hotelName": "WISMA JEUMPA TAKENGON",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/wisma-jeumpa-takengon/reviews/takengon-id.html",
+        "currentPage": 1,
+        "hotelID": 89070206,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [],
+        "reviewFilterAndSort": [],
+        "providerList": [],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/wisma-jeumpa-takengon/reviews/takengon-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 89070206,
+        "hotelName": "WISMA JEUMPA TAKENGON",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 332,
+        "demographics": [],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    }
+  ]
+}

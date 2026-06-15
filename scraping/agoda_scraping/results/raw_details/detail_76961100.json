@@ -1,0 +1,1202 @@
+{
+  "propertyId": 76961100,
+  "name": "Abaka Hotel Banda Aceh",
+  "propertyPage": "/abaka-hotel-h76961100/hotel/all/aceh-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 76961100,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": null
+            },
+            "contentDetail": {
+              "propertyId": 76961100,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 999218718,
+                    "providerId": 3038,
+                    "typeId": 6,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389280.jpg?k=66dd7f4b5dd56f85798be607a95a7ba177d9b8c5beca5f82463486c64d26b282&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389280.jpg?k=66dd7f4b5dd56f85798be607a95a7ba177d9b8c5beca5f82463486c64d26b282&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389280.jpg?k=66dd7f4b5dd56f85798be607a95a7ba177d9b8c5beca5f82463486c64d26b282&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389280.jpg?k=66dd7f4b5dd56f85798be607a95a7ba177d9b8c5beca5f82463486c64d26b282&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 999218708,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389538.jpg?k=a92b73416177b3f971fcaeeb0b9fe83098cd7d4f68514652037cf0758d3f2f40&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389538.jpg?k=a92b73416177b3f971fcaeeb0b9fe83098cd7d4f68514652037cf0758d3f2f40&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389538.jpg?k=a92b73416177b3f971fcaeeb0b9fe83098cd7d4f68514652037cf0758d3f2f40&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389538.jpg?k=a92b73416177b3f971fcaeeb0b9fe83098cd7d4f68514652037cf0758d3f2f40&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 999218700,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389567.jpg?k=26d6c1efed87d21503231f645ee207b8bacf908faffcf147202c111a9a2d4a23&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389567.jpg?k=26d6c1efed87d21503231f645ee207b8bacf908faffcf147202c111a9a2d4a23&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389567.jpg?k=26d6c1efed87d21503231f645ee207b8bacf908faffcf147202c111a9a2d4a23&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389567.jpg?k=26d6c1efed87d21503231f645ee207b8bacf908faffcf147202c111a9a2d4a23&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "dining",
+                    "group": "Dining",
+                    "id": 999218716,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389473.jpg?k=72aa6c14af0cc20adb0f4a8ae9c619ff8072dd3d98f11a50fe16057a9879e1ca&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389473.jpg?k=72aa6c14af0cc20adb0f4a8ae9c619ff8072dd3d98f11a50fe16057a9879e1ca&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389473.jpg?k=72aa6c14af0cc20adb0f4a8ae9c619ff8072dd3d98f11a50fe16057a9879e1ca&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389473.jpg?k=72aa6c14af0cc20adb0f4a8ae9c619ff8072dd3d98f11a50fe16057a9879e1ca&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 999218704,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389512.jpg?k=135ab72bcfd785eb40172dd3724356da170154291d1765787622a135178f8e7c&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389512.jpg?k=135ab72bcfd785eb40172dd3724356da170154291d1765787622a135178f8e7c&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389512.jpg?k=135ab72bcfd785eb40172dd3724356da170154291d1765787622a135178f8e7c&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389512.jpg?k=135ab72bcfd785eb40172dd3724356da170154291d1765787622a135178f8e7c&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 999218699,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389594.jpg?k=e0fb0b9f09fcc9589372da8d310cded3e25e13717961ff72737ce5426a6acb46&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389594.jpg?k=e0fb0b9f09fcc9589372da8d310cded3e25e13717961ff72737ce5426a6acb46&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389594.jpg?k=e0fb0b9f09fcc9589372da8d310cded3e25e13717961ff72737ce5426a6acb46&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389594.jpg?k=e0fb0b9f09fcc9589372da8d310cded3e25e13717961ff72737ce5426a6acb46&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 999218715,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389578.jpg?k=9de466263b63fb1c3f28a1bd20aa47e068ecafb8f27180abe2a6e000d8757d3c&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389578.jpg?k=9de466263b63fb1c3f28a1bd20aa47e068ecafb8f27180abe2a6e000d8757d3c&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389578.jpg?k=9de466263b63fb1c3f28a1bd20aa47e068ecafb8f27180abe2a6e000d8757d3c&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389578.jpg?k=9de466263b63fb1c3f28a1bd20aa47e068ecafb8f27180abe2a6e000d8757d3c&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 999218709,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389554.jpg?k=4cdfe75e04062b42066c7b800dc30ba7d513da782ce15b4e957ef25584185ec1&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389554.jpg?k=4cdfe75e04062b42066c7b800dc30ba7d513da782ce15b4e957ef25584185ec1&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389554.jpg?k=4cdfe75e04062b42066c7b800dc30ba7d513da782ce15b4e957ef25584185ec1&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389554.jpg?k=4cdfe75e04062b42066c7b800dc30ba7d513da782ce15b4e957ef25584185ec1&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 999218712,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389545.jpg?k=b5db86c42cde78ac8d4eebd3a691bcc092542fb14c3c83d545413d0b77a1c551&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389545.jpg?k=b5db86c42cde78ac8d4eebd3a691bcc092542fb14c3c83d545413d0b77a1c551&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389545.jpg?k=b5db86c42cde78ac8d4eebd3a691bcc092542fb14c3c83d545413d0b77a1c551&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389545.jpg?k=b5db86c42cde78ac8d4eebd3a691bcc092542fb14c3c83d545413d0b77a1c551&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 999218702,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-07-19T21:16:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389527.jpg?k=701a29f8340dd3ad172fccf443ea57e1d9acd1439716671699b2192c0f663f6e&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389527.jpg?k=701a29f8340dd3ad172fccf443ea57e1d9acd1439716671699b2192c0f663f6e&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389527.jpg?k=701a29f8340dd3ad172fccf443ea57e1d9acd1439716671699b2192c0f663f6e&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/717389527.jpg?k=701a29f8340dd3ad172fccf443ea57e1d9acd1439716671699b2192c0f663f6e&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Baiturrahman Grand Mosque - 3.93 km from property",
+                    "groupEntityId": null,
+                    "groupId": "nearby",
+                    "group": "Nearby attraction",
+                    "id": 0,
+                    "providerId": 999979,
+                    "typeId": 5,
+                    "uploadedDate": null,
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=160x120"
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": null,
+                  "cumulativeForHost": null
+                },
+                "providerReviewScore": [
+                  {
+                    "isDefault": true,
+                    "providerId": 3038,
+                    "trendingScore": null,
+                    "cumulative": null,
+                    "demographics": null
+                  }
+                ],
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 76961100,
+                "displayName": "Abaka Hotel Banda Aceh",
+                "defaultName": "Abaka Hotel Banda Aceh",
+                "localeName": "Abaka Hotel Banda Aceh",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 34,
+                  "accommodationName": "Hotel"
+                },
+                "propertyType": "Hotel",
+                "address": {
+                  "address1": "Jalan Shalihin No.9 Lamglumpang Ulee Kareng",
+                  "address2": "",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 57556,
+                    "name": "Banda Aceh"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "23127",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": false,
+                "geoInfo": {
+                  "latitude": 5.551060199737549,
+                  "longitude": 95.35265350341797
+                },
+                "rating": 2.0,
+                "isInfantCotAvailable": false
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "room-facility",
+                    "id": 25,
+                    "images": [],
+                    "name": "Air conditioning",
+                    "symbol": "air-conditioning",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 80,
+                    "images": [],
+                    "name": "Car park",
+                    "symbol": "car-park",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "room-facility",
+                    "id": 220,
+                    "images": [],
+                    "name": "Linens",
+                    "symbol": "linens",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": {
+                  "title": "2.95 kilometers from city center"
+                },
+                "locationHighlights": [
+                  {
+                    "distanceKm": 2.95,
+                    "highlightType": "city-center",
+                    "message": "2.95 kilometers from city center"
+                  }
+                ],
+                "locations": [
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-culture",
+                    "name": "Local Culture",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-sightseeing",
+                    "name": "Sights and Monuments",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-religious",
+                    "name": "Religious Places and Icons",
+                    "images": []
+                  }
+                ],
+                "atfPropertyHighlights": [
+                  {
+                    "id": 25,
+                    "name": "Air conditioning",
+                    "symbol": "like.svg",
+                    "icon": "fill.electrics.air-purifier",
+                    "category": "room-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 80,
+                    "name": "Car park",
+                    "symbol": "like.svg",
+                    "icon": "fill.transportation.car-park",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 220,
+                    "name": "Linens",
+                    "symbol": "like.svg",
+                    "icon": "fill.amenity.linen",
+                    "category": "room-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": null,
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.35,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5515371,
+                      "longitude": 95.3557742,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003907,
+                    "name": "Ulee Kareng Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets",
+                    "landMarkGroup": {
+                      "name": "Shopping",
+                      "sortOrder": 3
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.43,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55021205,
+                      "longitude": 95.3564751,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004014,
+                    "name": "Puskesmas Ulee Kareng",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.48,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5521385,
+                      "longitude": 95.3484878,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003873,
+                    "name": "Lamglumpang Dua",
+                    "typeId": 48,
+                    "typeName": "Supermarkets",
+                    "landMarkGroup": {
+                      "name": "Shopping",
+                      "sortOrder": 3
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.55,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55495385,
+                      "longitude": 95.35566412510013,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003967,
+                    "name": "polindes ie masen ulee kareng",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.56,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5483464,
+                      "longitude": 95.35695270061447,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003998,
+                    "name": "klinik babus salamah",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5502992,
+                      "longitude": 95.357785,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003857,
+                    "name": "Cut Nun Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets",
+                    "landMarkGroup": {
+                      "name": "Shopping",
+                      "sortOrder": 3
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.66,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5566103,
+                      "longitude": 95.35055559967694,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003988,
+                    "name": "UP2K gampong doy",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.66,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5514573,
+                      "longitude": 95.34669565,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003989,
+                    "name": "POSYANDU",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.67,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55131325,
+                      "longitude": 95.34664565,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004022,
+                    "name": "POSKESDES",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.69,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.552326,
+                      "longitude": 95.3465721,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003910,
+                    "name": "Mahli Baru Mandiri",
+                    "typeId": 48,
+                    "typeName": "Supermarkets",
+                    "landMarkGroup": {
+                      "name": "Shopping",
+                      "sortOrder": 3
+                    }
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.35,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5515371,
+                      "longitude": 95.3557742,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Ulee Kareng Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.48,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5521385,
+                      "longitude": 95.3484878,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Lamglumpang Dua",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5502992,
+                      "longitude": 95.357785,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Cut Nun Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  }
+                ],
+                "popularLandmarkNumber": 0,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 1,
+                    "name": "Check-in/Check-out",
+                    "usefulInfo": [
+                      {
+                        "id": 8,
+                        "name": "Check-in from",
+                        "description": "12:00"
+                      },
+                      {
+                        "id": 9,
+                        "name": "Check-out until",
+                        "description": "22:00"
+                      },
+                      {
+                        "id": 44,
+                        "name": "Check-out from",
+                        "description": "08:00"
+                      },
+                      {
+                        "id": 45,
+                        "name": "Check-in until",
+                        "description": "12:00"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": null
+                },
+                "description": {
+                  "short": "Conveniently situated in the Banda Aceh part of Aceh, this property puts you close to attractions and interesting dining options."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": null,
+                  "minAge": [],
+                  "adult": [],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "childAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": false
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Indonesian",
+                        "featureNameLocalizationList": null,
+                        "id": 169,
+                        "order": 21,
+                        "symbol": "flag-id",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Malay",
+                        "featureNameLocalizationList": null,
+                        "id": 174,
+                        "order": 29,
+                        "symbol": "flag-my",
+                        "images": []
+                      }
+                    ],
+                    "id": 12,
+                    "name": "Languages spoken",
+                    "order": 1,
+                    "symbol": "global"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Smoke-free property",
+                        "featureNameLocalizationList": null,
+                        "id": 364,
+                        "order": 173,
+                        "symbol": "non-smoking",
+                        "images": []
+                      }
+                    ],
+                    "id": 38,
+                    "name": "Services and conveniences",
+                    "order": 3,
+                    "symbol": "room-service"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Car park [free of charge]",
+                        "featureNameLocalizationList": null,
+                        "id": 357,
+                        "order": 166,
+                        "symbol": "car-park-free-charge",
+                        "images": []
+                      }
+                    ],
+                    "id": 39,
+                    "name": "Getting around",
+                    "order": 9,
+                    "symbol": "car-hire"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Air conditioning",
+                        "featureNameLocalizationList": null,
+                        "id": 25,
+                        "order": 114,
+                        "symbol": "air-conditioning",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Closet",
+                        "featureNameLocalizationList": null,
+                        "id": 232,
+                        "order": 62,
+                        "symbol": "closet",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Linens",
+                        "featureNameLocalizationList": null,
+                        "id": 220,
+                        "order": 44,
+                        "symbol": "linens",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Private bathroom",
+                        "featureNameLocalizationList": null,
+                        "id": 338,
+                        "order": 338,
+                        "symbol": "Bathroom",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Shower",
+                        "featureNameLocalizationList": null,
+                        "id": 38,
+                        "order": 144,
+                        "symbol": "shower",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Toiletries",
+                        "featureNameLocalizationList": null,
+                        "id": 141,
+                        "order": 142,
+                        "symbol": "toiletries",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Towels",
+                        "featureNameLocalizationList": null,
+                        "id": 230,
+                        "order": 60,
+                        "symbol": "towels",
+                        "images": null
+                      }
+                    ],
+                    "id": 66094,
+                    "name": "Available in all rooms",
+                    "order": 22,
+                    "symbol": "room-promotion"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 174,
+                    "name": null
+                  },
+                  {
+                    "id": 357,
+                    "name": null
+                  },
+                  {
+                    "id": 169,
+                    "name": null
+                  },
+                  {
+                    "id": 80,
+                    "name": null
+                  },
+                  {
+                    "id": 364,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": null
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 357,
+                    "facilityName": "Free parking",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 364,
+                    "facilityName": "Smoke-free property",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 169,
+                    "facilityName": "Indonesian",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 174,
+                    "facilityName": "Malay",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "enrichment": {
+                "bookingHistory": {
+                  "bookingCount": {
+                    "count": 0,
+                    "timeFrame": "PastTwentyFourHours"
+                  }
+                }
+              },
+              "contentTopics": {
+                "topics": [
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389538.jpg?k=a92b73416177b3f971fcaeeb0b9fe83098cd7d4f68514652037cf0758d3f2f40&o=",
+                        "imageId": 999218708,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389594.jpg?k=e0fb0b9f09fcc9589372da8d310cded3e25e13717961ff72737ce5426a6acb46&o=",
+                        "imageId": 999218699,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389280.jpg?k=66dd7f4b5dd56f85798be607a95a7ba177d9b8c5beca5f82463486c64d26b282&o=",
+                        "imageId": 999218718,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389578.jpg?k=9de466263b63fb1c3f28a1bd20aa47e068ecafb8f27180abe2a6e000d8757d3c&o=",
+                        "imageId": 999218715,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389554.jpg?k=4cdfe75e04062b42066c7b800dc30ba7d513da782ce15b4e957ef25584185ec1&o=",
+                        "imageId": 999218709,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Room Comfort"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389545.jpg?k=b5db86c42cde78ac8d4eebd3a691bcc092542fb14c3c83d545413d0b77a1c551&o=",
+                        "imageId": 999218712,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389527.jpg?k=701a29f8340dd3ad172fccf443ea57e1d9acd1439716671699b2192c0f663f6e&o=",
+                        "imageId": 999218702,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Bathroom"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/717389473.jpg?k=72aa6c14af0cc20adb0f4a8ae9c619ff8072dd3d98f11a50fe16057a9879e1ca&o=",
+                        "imageId": 999218716,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "On-site Restaurant"
+                  }
+                ]
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": false,
+      "pageSize": 5,
+      "hotelId": 76961100,
+      "hotelName": "Abaka Hotel Banda Aceh",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/abaka-hotel-h76961100/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 76961100,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": false,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [],
+        "reviewFilterAndSort": [],
+        "providerList": [],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/abaka-hotel-h76961100/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+        "hotelId": 76961100,
+        "hotelName": "Abaka Hotel Banda Aceh",
+        "providerIdForSeoReviewScore": 3038,
+        "providerId": 3038,
+        "demographics": [],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 3038
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    }
+  ]
+}

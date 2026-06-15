@@ -1,0 +1,4309 @@
+{
+  "propertyId": 28272295,
+  "name": "Capital O 90682 Hotel Bayu Hill",
+  "propertyPage": "/capital-o-90682-hotel-bayu-hill/hotel/takengon-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 28272295,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": {
+                "numberOfProperty": 176,
+                "metrics": [
+                  {
+                    "metricName": "rating_value_for_money_all_type",
+                    "rank": 52,
+                    "absoluteValue": 8.0
+                  },
+                  {
+                    "metricName": "rating_location_all_type",
+                    "rank": 43,
+                    "absoluteValue": 8.67
+                  },
+                  {
+                    "metricName": "rating_staff_performance_all_type",
+                    "rank": 78,
+                    "absoluteValue": 7.33
+                  },
+                  {
+                    "metricName": "rating_hotel_conditions_cleanliness_all_type",
+                    "rank": 68,
+                    "absoluteValue": 7.33
+                  },
+                  {
+                    "metricName": "rating_facility_all_type",
+                    "rank": 77,
+                    "absoluteValue": 6.67
+                  },
+                  {
+                    "metricName": "rating_average_all_type",
+                    "rank": 98,
+                    "absoluteValue": 7.6
+                  },
+                  {
+                    "metricName": "rating_average_business",
+                    "rank": 81,
+                    "absoluteValue": 4.8
+                  },
+                  {
+                    "metricName": "rating_average_famolderchildren",
+                    "rank": 13,
+                    "absoluteValue": 9.0
+                  },
+                  {
+                    "metricName": "rating_average_Indonesia",
+                    "rank": 74,
+                    "absoluteValue": 7.6
+                  },
+                  {
+                    "metricName": "hotel_no_of_facilities",
+                    "rank": 37,
+                    "absoluteValue": 16.0
+                  },
+                  {
+                    "metricName": "room_no_of_facilities",
+                    "rank": 23,
+                    "absoluteValue": 21.0
+                  },
+                  {
+                    "metricName": "avg_size_of_room",
+                    "rank": 37,
+                    "absoluteValue": 18.2
+                  }
+                ]
+              }
+            },
+            "contentDetail": {
+              "propertyId": 28272295,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "Bed",
+                    "groupEntityId": null,
+                    "groupId": "other",
+                    "group": "Other",
+                    "id": 112069503,
+                    "providerId": 332,
+                    "typeId": 6,
+                    "uploadedDate": "2022-04-02T16:43:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/543566a6ed4b8d6d1b13c57a92b7f8ff.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/543566a6ed4b8d6d1b13c57a92b7f8ff.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/543566a6ed4b8d6d1b13c57a92b7f8ff.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/543566a6ed4b8d6d1b13c57a92b7f8ff.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Suite Double - Room plan",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112069353,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:31:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/3f1575ae3fff5a0077815acea114b19c.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/3f1575ae3fff5a0077815acea114b19c.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/3f1575ae3fff5a0077815acea114b19c.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/3f1575ae3fff5a0077815acea114b19c.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Lobby",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068264,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:48:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/94413c9dce9507b72e69718c8c09c61a.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/94413c9dce9507b72e69718c8c09c61a.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/94413c9dce9507b72e69718c8c09c61a.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/94413c9dce9507b72e69718c8c09c61a.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Lobby",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068263,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:48:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/ea96e9419b869498892e9cc7faabef4e.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/ea96e9419b869498892e9cc7faabef4e.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/ea96e9419b869498892e9cc7faabef4e.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/ea96e9419b869498892e9cc7faabef4e.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Exterior view",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068208,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:43:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/0d37653e3714a79deaa02d6ff9f41d2d.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/0d37653e3714a79deaa02d6ff9f41d2d.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/0d37653e3714a79deaa02d6ff9f41d2d.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/0d37653e3714a79deaa02d6ff9f41d2d.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Restaurant",
+                    "groupEntityId": null,
+                    "groupId": "dining",
+                    "group": "Dining",
+                    "id": 112068284,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Restaurant",
+                    "groupEntityId": null,
+                    "groupId": "dining",
+                    "group": "Dining",
+                    "id": 112068288,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Lobby",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068266,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:48:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e178df533eee4fc2e836de2d871d8ec4.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e178df533eee4fc2e836de2d871d8ec4.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e178df533eee4fc2e836de2d871d8ec4.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e178df533eee4fc2e836de2d871d8ec4.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Reception",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068259,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Suite Double - View",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112069293,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:29:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68b7d5a6951a3363c8297736c60981be.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68b7d5a6951a3363c8297736c60981be.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68b7d5a6951a3363c8297736c60981be.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68b7d5a6951a3363c8297736c60981be.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Restaurant",
+                    "groupEntityId": null,
+                    "groupId": "dining",
+                    "group": "Dining",
+                    "id": 112068289,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Gym/fitness",
+                    "groupEntityId": 92,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 112068273,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:49:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/445ac64dcb6f598691846e5f0105c142.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/445ac64dcb6f598691846e5f0105c142.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/445ac64dcb6f598691846e5f0105c142.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/445ac64dcb6f598691846e5f0105c142.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Suite Twin - View",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112069468,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:38:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/beecc3cf9070629ab55c6a6a3e6e70f0.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/beecc3cf9070629ab55c6a6a3e6e70f0.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/beecc3cf9070629ab55c6a6a3e6e70f0.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/beecc3cf9070629ab55c6a6a3e6e70f0.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Gym/fitness",
+                    "groupEntityId": 92,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 112068274,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:49:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79ef70521d49a740a8a8bd8d31e2cc0d.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79ef70521d49a740a8a8bd8d31e2cc0d.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79ef70521d49a740a8a8bd8d31e2cc0d.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79ef70521d49a740a8a8bd8d31e2cc0d.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Gym/fitness",
+                    "groupEntityId": 92,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 112068280,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:49:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68d54baf200ecfc35c112cb0385a55d9.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68d54baf200ecfc35c112cb0385a55d9.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68d54baf200ecfc35c112cb0385a55d9.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/68d54baf200ecfc35c112cb0385a55d9.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Suite Twin - Room plan",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112069451,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:37:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79a9be13711eb8e860346fce17d1ad57.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79a9be13711eb8e860346fce17d1ad57.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79a9be13711eb8e860346fce17d1ad57.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/79a9be13711eb8e860346fce17d1ad57.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Restaurant",
+                    "groupEntityId": null,
+                    "groupId": "dining",
+                    "group": "Dining",
+                    "id": 112068290,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:51:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Restaurant",
+                    "groupEntityId": null,
+                    "groupId": "dining",
+                    "group": "Dining",
+                    "id": 112068285,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Standard Double B - Room plan",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112069230,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:26:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b29f8e50c157caff05aad8bd5742c109.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b29f8e50c157caff05aad8bd5742c109.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b29f8e50c157caff05aad8bd5742c109.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b29f8e50c157caff05aad8bd5742c109.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Reception",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068260,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Reception",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068262,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Standard Double B - Bed",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112069001,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:24:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/35974f4122212e98bed3cd93bbe45563.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/35974f4122212e98bed3cd93bbe45563.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/35974f4122212e98bed3cd93bbe45563.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/35974f4122212e98bed3cd93bbe45563.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Exterior view",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068207,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:43:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/8dc865ab4ef827bd5b66a7ec6df8c463.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/8dc865ab4ef827bd5b66a7ec6df8c463.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/8dc865ab4ef827bd5b66a7ec6df8c463.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/8dc865ab4ef827bd5b66a7ec6df8c463.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Lobby",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068265,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:48:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b9361f51e1c0bc2438c89fd0b7382369.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b9361f51e1c0bc2438c89fd0b7382369.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b9361f51e1c0bc2438c89fd0b7382369.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/b9361f51e1c0bc2438c89fd0b7382369.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Deluxe Twin Room - View",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112068696,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:20:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/91f5152caff7436c994709040db84c3b.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/91f5152caff7436c994709040db84c3b.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/91f5152caff7436c994709040db84c3b.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/91f5152caff7436c994709040db84c3b.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Exterior view",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 112068206,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2022-04-02T15:43:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/d2ac820532b25fd79a6967fb4ace1db8.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/d2ac820532b25fd79a6967fb4ace1db8.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/d2ac820532b25fd79a6967fb4ace1db8.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/d2ac820532b25fd79a6967fb4ace1db8.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Deluxe Twin Room - Room plan",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112068733,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T16:20:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2a9605358c0248d6752863a772a5b1cd.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2a9605358c0248d6752863a772a5b1cd.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2a9605358c0248d6752863a772a5b1cd.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/2a9605358c0248d6752863a772a5b1cd.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 588426642,
+                    "providerId": 28088,
+                    "typeId": 5,
+                    "uploadedDate": "2023-10-29T00:53:59.540+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/0/81f31c21ec0a881697c09bf0f28a2be1.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/0/81f31c21ec0a881697c09bf0f28a2be1.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/0/81f31c21ec0a881697c09bf0f28a2be1.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/0/81f31c21ec0a881697c09bf0f28a2be1.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 588426641,
+                    "providerId": 28088,
+                    "typeId": 5,
+                    "uploadedDate": "2023-10-29T00:53:59.533+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/0/6c7f4d1f2e6fa579a721e67df5cab69f.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/0/6c7f4d1f2e6fa579a721e67df5cab69f.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/0/6c7f4d1f2e6fa579a721e67df5cab69f.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/0/6c7f4d1f2e6fa579a721e67df5cab69f.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Deluxe Double Room - Room plan",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 112068339,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2022-04-02T15:57:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/00828c092ac12646681e8c5b1985f6ab.jpg?ca=28&ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/00828c092ac12646681e8c5b1985f6ab.jpg?ca=28&ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/00828c092ac12646681e8c5b1985f6ab.jpg?ca=28&ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/28272295/-1/00828c092ac12646681e8c5b1985f6ab.jpg?ca=28&ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 588426633,
+                    "providerId": 28088,
+                    "typeId": 5,
+                    "uploadedDate": "2023-10-29T00:53:58.460+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/0/b87c428ddd0c65212478378973cb2713.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/0/b87c428ddd0c65212478378973cb2713.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/0/b87c428ddd0c65212478378973cb2713.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/0/b87c428ddd0c65212478378973cb2713.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 588426635,
+                    "providerId": 28088,
+                    "typeId": 5,
+                    "uploadedDate": "2023-10-29T00:53:58.470+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/0/505eea183cf758fc5c1f5a26cc0abf3b.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/0/505eea183cf758fc5c1f5a26cc0abf3b.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/0/505eea183cf758fc5c1f5a26cc0abf3b.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/0/505eea183cf758fc5c1f5a26cc0abf3b.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 588426634,
+                    "providerId": 28088,
+                    "typeId": 5,
+                    "uploadedDate": "2023-10-29T00:53:58.463+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/0/36daa2aedfb9e3b66c6f8057e29c0d79.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/0/36daa2aedfb9e3b66c6f8057e29c0d79.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/0/36daa2aedfb9e3b66c6f8057e29c0d79.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/0/36daa2aedfb9e3b66c6f8057e29c0d79.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 588426640,
+                    "providerId": 28088,
+                    "typeId": 5,
+                    "uploadedDate": "2023-10-29T00:53:59.500+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/0/07d506638ad4b5878ff0348cb3a15846.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/0/07d506638ad4b5878ff0348cb3a15846.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/0/07d506638ad4b5878ff0348cb3a15846.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/0/07d506638ad4b5878ff0348cb3a15846.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 600102672,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2023-11-29T04:30:04.260+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970988/4e4b2fdbdfcb3866bd7917850113c92f.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970988/4e4b2fdbdfcb3866bd7917850113c92f.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970988/4e4b2fdbdfcb3866bd7917850113c92f.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970988/4e4b2fdbdfcb3866bd7917850113c92f.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 600102523,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2023-11-29T04:29:56.323+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970957/07299236534bbf97cf1499f98d2104b6.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970957/07299236534bbf97cf1499f98d2104b6.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970957/07299236534bbf97cf1499f98d2104b6.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970957/07299236534bbf97cf1499f98d2104b6.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 600102691,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2023-11-29T04:30:05.287+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970952/2c42519dbe13df149f5cfdb0b8f56d9c.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970952/2c42519dbe13df149f5cfdb0b8f56d9c.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970952/2c42519dbe13df149f5cfdb0b8f56d9c.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970952/2c42519dbe13df149f5cfdb0b8f56d9c.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 600102721,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2023-11-29T04:30:07.643+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970983/9f798525ac8808d6ceb6c8c8d2910bc5.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970983/9f798525ac8808d6ceb6c8c8d2910bc5.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970983/9f798525ac8808d6ceb6c8c8d2910bc5.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970983/9f798525ac8808d6ceb6c8c8d2910bc5.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Balcony/terrace",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1572698180,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2026-05-18T15:03:24.970+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970966/36593d56109a6aed136a9a19a4aa3581.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970966/36593d56109a6aed136a9a19a4aa3581.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970966/36593d56109a6aed136a9a19a4aa3581.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970966/36593d56109a6aed136a9a19a4aa3581.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 600102622,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2023-11-29T04:30:00.760+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970470/168b8e2bbf1094023fd85f1c6fde0417.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970470/168b8e2bbf1094023fd85f1c6fde0417.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970470/168b8e2bbf1094023fd85f1c6fde0417.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970470/168b8e2bbf1094023fd85f1c6fde0417.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1572698346,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2026-05-18T15:03:29.150+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970976/8668d9b7cb62c48b19cf459d413525da.jpeg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970976/8668d9b7cb62c48b19cf459d413525da.jpeg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970976/8668d9b7cb62c48b19cf459d413525da.jpeg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970976/8668d9b7cb62c48b19cf459d413525da.jpeg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 600102670,
+                    "providerId": 28088,
+                    "typeId": 7,
+                    "uploadedDate": "2023-11-29T04:30:04.140+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/property/35145407/588970471/5ee928bee64530da59e8f15324ea2ac4.jpeg?ce=0&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/property/35145407/588970471/5ee928bee64530da59e8f15324ea2ac4.jpeg?ce=0&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/property/35145407/588970471/5ee928bee64530da59e8f15324ea2ac4.jpeg?ce=0&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/property/35145407/588970471/5ee928bee64530da59e8f15324ea2ac4.jpeg?ce=0&s=160x120"
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": {
+                    "maxScore": 10,
+                    "reviewCount": 5,
+                    "score": 7.2
+                  },
+                  "cumulativeForHost": null
+                },
+                "providerReviewScore": [
+                  {
+                    "isDefault": true,
+                    "providerId": 332,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 5,
+                      "score": 7.2
+                    },
+                    "demographics": {
+                      "allGuest": {
+                        "id": 0,
+                        "scoreDistribution": [
+                          {
+                            "id": "exceptional",
+                            "reviewCount": 1
+                          },
+                          {
+                            "id": "excellent",
+                            "reviewCount": 1
+                          },
+                          {
+                            "id": "very_good",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "good",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "below_expectation",
+                            "reviewCount": 1
+                          }
+                        ],
+                        "reviewCount": 5,
+                        "grades": [
+                          {
+                            "id": "overall",
+                            "score": 7.2,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "cleanliness",
+                            "score": 7.3,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "facilities",
+                            "score": 6.7,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "location",
+                            "score": 8.7,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "staffPerformance",
+                            "score": 7.3,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "valueForMoney",
+                            "score": 8.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 28272295,
+                "displayName": "Capital O 90682 Hotel Bayu Hill",
+                "defaultName": "Capital O 90682 Hotel Bayu Hill",
+                "localeName": "Capital O 90682 Hotel Bayu Hill",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 34,
+                  "accommodationName": "Hotel"
+                },
+                "propertyType": "Hotel",
+                "address": {
+                  "address1": "Simpang Empat, Bebesan, Aceh Tengah, Aceh, Indonesia",
+                  "address2": "",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 483954,
+                    "name": "Takengon"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "24552",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": false,
+                "geoInfo": {
+                  "latitude": 4.62330436706543,
+                  "longitude": 96.84679412841797
+                },
+                "rating": 2.0,
+                "isInfantCotAvailable": false
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "property-facility",
+                    "id": 109,
+                    "images": [],
+                    "name": "Free Wi-Fi in all rooms!",
+                    "symbol": "free-wifi-in-all-rooms",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "room-facility",
+                    "id": 25,
+                    "images": [],
+                    "name": "Air conditioning",
+                    "symbol": "air-conditioning",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 12,
+                    "images": [],
+                    "name": "Room service",
+                    "symbol": "room-service",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 240,
+                    "images": [],
+                    "name": "Daily housekeeping",
+                    "symbol": "daily-housekeeping",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "room-facility",
+                    "id": 43,
+                    "images": [],
+                    "name": "Balcony/terrace",
+                    "symbol": "balcony-terrace",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": null,
+                "locationHighlights": [],
+                "locations": [],
+                "atfPropertyHighlights": [
+                  {
+                    "id": 116,
+                    "name": "Front desk [24-hour]",
+                    "symbol": "door.svg",
+                    "icon": null,
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Check-in/Out"
+                  },
+                  {
+                    "id": 109,
+                    "name": "Free Wi-Fi in all rooms!",
+                    "symbol": "like.svg",
+                    "icon": "fill.electrics.wifi",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 25,
+                    "name": "Air conditioning",
+                    "symbol": "like.svg",
+                    "icon": "fill.electrics.air-purifier",
+                    "category": "room-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 12,
+                    "name": "Room service",
+                    "symbol": "like.svg",
+                    "icon": "fill.service.roomservice",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 240,
+                    "name": "Daily housekeeping",
+                    "symbol": "like.svg",
+                    "icon": "fill.service.clean",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": {
+                  "title": "Exceptional for walking",
+                  "totalCount": 70,
+                  "description": "70 places in walking distance",
+                  "walkableCategories": [
+                    {
+                      "categoryName": "Attractions & Restaurants (70)",
+                      "totalCount": 70,
+                      "topPlaces": [
+                        {
+                          "name": "Musara Alun",
+                          "distanceInKm": 0.4,
+                          "images": null,
+                          "landMarkGroup": {
+                            "name": "Outdoors",
+                            "sortOrder": 4
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": {
+                  "airportScore": 4.2,
+                  "poiScore": 7.4,
+                  "transportationScore": 0.0
+                },
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.77,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6170267,
+                      "longitude": 96.84980612100219,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004138,
+                    "name": "Lapangan Bola Voli",
+                    "typeId": 128,
+                    "typeName": "Sport Centers and Swimming Pools",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.44,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6122083,
+                      "longitude": 96.8534082,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004139,
+                    "name": "gaya highland sign hollywood style",
+                    "typeId": 20,
+                    "typeName": "Things to do",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.54,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6363029,
+                      "longitude": 96.8515929,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004137,
+                    "name": "Rumah Sakit Datu Beru",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 5.34,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6449,
+                      "longitude": 96.8038,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004133,
+                    "name": "Bur Pepanyi",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 5.38,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.5751,
+                      "longitude": 96.8506,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004134,
+                    "name": "Bur Mulo",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 5.92,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6577,
+                      "longitude": 96.806,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004136,
+                    "name": "Bur Salahnama",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.09,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6151,
+                      "longitude": 96.919279,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 280496,
+                    "name": "Lake Laut Tawar",
+                    "typeId": 16,
+                    "typeName": "Rivers, Reservoirs, and Lakes",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.48,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.629,
+                      "longitude": 96.7705,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004132,
+                    "name": "Bur Bies",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.88,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.5807,
+                      "longitude": 96.7791,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004135,
+                    "name": "Bur Nikalapegaseng",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 68.08,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.226679,
+                      "longitude": 96.950302,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 1449488,
+                    "name": "Malikus Saleh Airport",
+                    "typeId": 1,
+                    "typeName": "Airports",
+                    "landMarkGroup": {
+                      "name": "Transportation",
+                      "sortOrder": 1
+                    }
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [],
+                "popularLandmarkNumber": 1,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 1,
+                    "name": "Check-in/Check-out",
+                    "usefulInfo": [
+                      {
+                        "id": 8,
+                        "name": "Check-in from",
+                        "description": "12:00"
+                      },
+                      {
+                        "id": 9,
+                        "name": "Check-out until",
+                        "description": "14:00"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": false
+                },
+                "description": {
+                  "short": "Get your trip off to a great start with a stay at this property, which offers free Wi-Fi in all rooms. Conveniently situated in the Takengon part of Aceh, this property puts you close to attractions and interesting dining options. As an added bonus, restaurant is provided on-site to conveniently serve your needs."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": {
+                    "stayFreeAgeRange": {
+                      "min": 0,
+                      "max": 5
+                    },
+                    "details": [
+                      {
+                        "isInfant": true,
+                        "title": "Infant 0-2 year(s)",
+                        "description": "Stay for free if using existing bedding. Note, if you need a cot, it may incur an extra charge and is subject to availability."
+                      },
+                      {
+                        "isInfant": false,
+                        "title": "Children 3-5 year(s)",
+                        "description": "Stay for free if using existing bedding."
+                      }
+                    ]
+                  },
+                  "minAge": [],
+                  "adult": [
+                    "Guests 6 years and older are considered adults."
+                  ],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 2
+                    },
+                    "childAges": {
+                      "min": 3,
+                      "max": 5
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": true
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Restaurants",
+                        "featureNameLocalizationList": null,
+                        "id": 11,
+                        "order": 131,
+                        "symbol": "restaurant",
+                        "images": [
+                          {
+                            "id": 112068284,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068285,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068288,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068289,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068290,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:51:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          }
+                        ]
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Front desk [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 116,
+                        "order": 119,
+                        "symbol": "24hour-frontdesk",
+                        "images": [
+                          {
+                            "id": 112068259,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "property",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Reception",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068260,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "property",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Reception",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068262,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "property",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Reception",
+                            "highResolutionSizes": []
+                          }
+                        ]
+                      }
+                    ],
+                    "id": 50,
+                    "name": "Take a look at these facilities:",
+                    "order": 0,
+                    "symbol": "thumb-up-line"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "English",
+                        "featureNameLocalizationList": null,
+                        "id": 151,
+                        "order": 1,
+                        "symbol": "flag-gb",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Indonesian",
+                        "featureNameLocalizationList": null,
+                        "id": 169,
+                        "order": 21,
+                        "symbol": "flag-id",
+                        "images": []
+                      }
+                    ],
+                    "id": 12,
+                    "name": "Languages spoken",
+                    "order": 1,
+                    "symbol": "global"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Free Wi-Fi in all rooms!",
+                        "featureNameLocalizationList": null,
+                        "id": 109,
+                        "order": 38,
+                        "symbol": "free-wifi-in-all-rooms",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Internet",
+                        "featureNameLocalizationList": null,
+                        "id": 90,
+                        "order": 0,
+                        "symbol": "internet",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Wi-Fi in public areas",
+                        "featureNameLocalizationList": null,
+                        "id": 79,
+                        "order": 122,
+                        "symbol": "wifi-in-public-areas",
+                        "images": []
+                      }
+                    ],
+                    "id": 41,
+                    "name": "Internet access",
+                    "order": 2,
+                    "symbol": "wifi"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Breakfast service",
+                        "featureNameLocalizationList": null,
+                        "id": 2384,
+                        "order": 32,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Halal breakfast",
+                        "featureNameLocalizationList": null,
+                        "id": 2417,
+                        "order": 187,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Restaurants",
+                        "featureNameLocalizationList": null,
+                        "id": 11,
+                        "order": 131,
+                        "symbol": "restaurant",
+                        "images": [
+                          {
+                            "id": 112068284,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068285,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068288,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068289,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068290,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "dining",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:51:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Restaurant",
+                            "highResolutionSizes": []
+                          }
+                        ]
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Room service",
+                        "featureNameLocalizationList": null,
+                        "id": 12,
+                        "order": 125,
+                        "symbol": "room-service",
+                        "images": []
+                      }
+                    ],
+                    "id": 44,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 3,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Daily housekeeping",
+                        "featureNameLocalizationList": null,
+                        "id": 240,
+                        "order": 105,
+                        "symbol": "daily-housekeeping",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Laundry service",
+                        "featureNameLocalizationList": null,
+                        "id": 8,
+                        "order": 134,
+                        "symbol": "laundry-service",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Meeting/banquet facilities",
+                        "featureNameLocalizationList": null,
+                        "id": 2532,
+                        "order": 248,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Meetings",
+                        "featureNameLocalizationList": null,
+                        "id": 2420,
+                        "order": 189,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Terrace",
+                        "featureNameLocalizationList": null,
+                        "id": 2572,
+                        "order": 258,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 38,
+                    "name": "Services and conveniences",
+                    "order": 4,
+                    "symbol": "room-service"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Check-in/out [express]",
+                        "featureNameLocalizationList": null,
+                        "id": 119,
+                        "order": 120,
+                        "symbol": "express-check-in-check-out",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Front desk [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 116,
+                        "order": 119,
+                        "symbol": "24hour-frontdesk",
+                        "images": [
+                          {
+                            "id": 112068259,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "property",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Reception",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068260,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "property",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Reception",
+                            "highResolutionSizes": []
+                          },
+                          {
+                            "id": 112068262,
+                            "urls": [
+                              {
+                                "key": "original",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=360x270"
+                              },
+                              {
+                                "key": "thumbnail",
+                                "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=150x100"
+                              }
+                            ],
+                            "groupId": "property",
+                            "groupEntityId": null,
+                            "typeId": 5,
+                            "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                            "providerId": 332,
+                            "caption": "Reception",
+                            "highResolutionSizes": []
+                          }
+                        ]
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Non-smoking rooms",
+                        "featureNameLocalizationList": null,
+                        "id": 2577,
+                        "order": 263,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Smoke alarms",
+                        "featureNameLocalizationList": null,
+                        "id": 2541,
+                        "order": 257,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 37,
+                    "name": "Access",
+                    "order": 5,
+                    "symbol": "number-of-rooms"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Air conditioning",
+                        "featureNameLocalizationList": null,
+                        "id": 25,
+                        "order": 114,
+                        "symbol": "air-conditioning",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Balcony/terrace",
+                        "featureNameLocalizationList": null,
+                        "id": 43,
+                        "order": 119,
+                        "symbol": "balcony-terrace",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Coffee/tea maker",
+                        "featureNameLocalizationList": null,
+                        "id": 47,
+                        "order": 151,
+                        "symbol": "coffee-tea-maker",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Dining table",
+                        "featureNameLocalizationList": null,
+                        "id": 2652,
+                        "order": 206,
+                        "symbol": "confirmation-instant",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Fitness club privileges",
+                        "featureNameLocalizationList": null,
+                        "id": 349,
+                        "order": 177,
+                        "symbol": "fitness-club",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Free laundry service",
+                        "featureNameLocalizationList": null,
+                        "id": 2678,
+                        "order": 232,
+                        "symbol": "confirmation-instant",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Ironing facilities",
+                        "featureNameLocalizationList": null,
+                        "id": 33,
+                        "order": 154,
+                        "symbol": "iron",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Linens",
+                        "featureNameLocalizationList": null,
+                        "id": 220,
+                        "order": 44,
+                        "symbol": "linens",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Outdoor furniture",
+                        "featureNameLocalizationList": null,
+                        "id": 2653,
+                        "order": 207,
+                        "symbol": "confirmation-instant",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Shower",
+                        "featureNameLocalizationList": null,
+                        "id": 38,
+                        "order": 144,
+                        "symbol": "shower",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Smoke detector",
+                        "featureNameLocalizationList": null,
+                        "id": 277,
+                        "order": 97,
+                        "symbol": "smoke-detector",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Toiletries",
+                        "featureNameLocalizationList": null,
+                        "id": 141,
+                        "order": 142,
+                        "symbol": "toiletries",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "TV [flat screen]",
+                        "featureNameLocalizationList": null,
+                        "id": 36,
+                        "order": 13,
+                        "symbol": "tv-flat-screen",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Wi-Fi [free]",
+                        "featureNameLocalizationList": null,
+                        "id": 75,
+                        "order": 111,
+                        "symbol": "wifi",
+                        "images": null
+                      }
+                    ],
+                    "id": 66094,
+                    "name": "Available in all rooms",
+                    "order": 22,
+                    "symbol": "room-promotion"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 2420,
+                    "name": null
+                  },
+                  {
+                    "id": 116,
+                    "name": null
+                  },
+                  {
+                    "id": 2541,
+                    "name": null
+                  },
+                  {
+                    "id": 2577,
+                    "name": null
+                  },
+                  {
+                    "id": 169,
+                    "name": null
+                  },
+                  {
+                    "id": 109,
+                    "name": null
+                  },
+                  {
+                    "id": 12,
+                    "name": null
+                  },
+                  {
+                    "id": 240,
+                    "name": null
+                  },
+                  {
+                    "id": 11,
+                    "name": null
+                  },
+                  {
+                    "id": 2532,
+                    "name": null
+                  },
+                  {
+                    "id": 8,
+                    "name": null
+                  },
+                  {
+                    "id": 2384,
+                    "name": null
+                  },
+                  {
+                    "id": 119,
+                    "name": null
+                  },
+                  {
+                    "id": 151,
+                    "name": null
+                  },
+                  {
+                    "id": 79,
+                    "name": null
+                  },
+                  {
+                    "id": 2572,
+                    "name": null
+                  },
+                  {
+                    "id": 2417,
+                    "name": null
+                  },
+                  {
+                    "id": 90,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": null
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 109,
+                    "facilityName": "Free Wi-Fi ",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 116,
+                    "facilityName": "Front desk [24-hour]",
+                    "images": [
+                      {
+                        "id": 112068259,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/1c5dfc3e35658f5ba6994c5abc14d1df.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "property",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Reception",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 112068260,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/bb4d6125adb55021d5c960fea05b0d2a.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "property",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Reception",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 112068262,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/74b477896e2b61e129f30037a897b60b.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "property",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:47:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Reception",
+                        "highResolutionSizes": []
+                      }
+                    ]
+                  },
+                  {
+                    "facilityId": 11,
+                    "facilityName": "Restaurants",
+                    "images": [
+                      {
+                        "id": 112068284,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/b80407f948b38dd3e361febbd0c72b17.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "dining",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Restaurant",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 112068285,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/2cd6e1d7bdea19d09947d99110dd782b.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "dining",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Restaurant",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 112068288,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/64aacdfe4cd0106206f62f3cc2626165.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "dining",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Restaurant",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 112068289,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/aa6bf58c28d84e85af3b0c4198768279.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "dining",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:50:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Restaurant",
+                        "highResolutionSizes": []
+                      },
+                      {
+                        "id": 112068290,
+                        "urls": [
+                          {
+                            "key": "original",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=360x270"
+                          },
+                          {
+                            "key": "thumbnail",
+                            "value": "//pix8.agoda.net/hotelImages/28272295/-1/e8ed0b85afe44735a37d0b819315bd30.jpg?ca=28&ce=0&s=150x100"
+                          }
+                        ],
+                        "groupId": "dining",
+                        "groupEntityId": null,
+                        "typeId": 5,
+                        "uploadedDate": "2022-04-02T15:51:00.000+07:00",
+                        "providerId": 332,
+                        "caption": "Restaurant",
+                        "highResolutionSizes": []
+                      }
+                    ]
+                  },
+                  {
+                    "facilityId": 2572,
+                    "facilityName": "Balcony/terrace",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2384,
+                    "facilityName": "Breakfast",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 12,
+                    "facilityName": "Room service",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 8,
+                    "facilityName": "Laundry",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2577,
+                    "facilityName": "Non-smoking rooms",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "enrichment": {
+                "bookingHistory": {
+                  "bookingCount": {
+                    "count": 0,
+                    "timeFrame": "PastTwentyFourHours"
+                  }
+                }
+              },
+              "contentTopics": {
+                "topics": [
+                  {
+                    "images": [
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//28272295/-1/f2f7ef8881382c66ab2430ee5a28a144.jpg?ca=28&ce=0&s=1024x768",
+                        "imageId": 112069389,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//28272295/-1/5fd15c5a4e3a1820fc298feb49718d9f.jpg?ca=28&ce=0&s=1024x768",
+                        "imageId": 112069287,
+                        "imageSource": "ycs"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Bathroom"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//28272295/-1/3f1575ae3fff5a0077815acea114b19c.jpg?ca=28&ce=0&s=1024x768",
+                        "imageId": 112069353,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//28272295/-1/beecc3cf9070629ab55c6a6a3e6e70f0.jpg?ca=28&ce=0&s=1024x768",
+                        "imageId": 112069468,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//28272295/-1/543566a6ed4b8d6d1b13c57a92b7f8ff.jpg?ca=28&ce=0&s=1024x768",
+                        "imageId": 112069503,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/property/35145407/588970470/168b8e2bbf1094023fd85f1c6fde0417.jpeg?ce=0&s=1024x768",
+                        "imageId": 600102622,
+                        "imageSource": "ycs_info"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Room Comfort"
+                  }
+                ]
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 7,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 18,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 8,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 28272295,
+      "hotelName": "Capital O 90682 Hotel Bayu Hill",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/capital-o-90682-hotel-bayu-hill/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 28272295,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 578255308,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "December 2021",
+            "encryptedReviewData": "nRYUq930QBs7E6qPJGpeKA==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "December 20, 2022",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Capital O 90682 Hotel Bayu Hill",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "ok",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "ok",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2021-12-25T00:00:00+07:00",
+            "checkOutDate": "2021-12-26T00:00:00+07:00",
+            "reviewDate": "2022-12-20T07:34:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Malaysia",
+              "displayMemberName": "Muhajir",
+              "flagName": "my",
+              "reviewGroupName": "Family with teens",
+              "roomTypeName": "Standard Double B",
+              "countryId": 198,
+              "lengthOfStay": 1,
+              "reviewGroupId": 5,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": false,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 442333101,
+                    "key": "442333101",
+                    "name": "Standard Double B",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": true,
+            "totalIndex": 1
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/capital-o-90682-hotel-bayu-hill/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 28272295,
+        "hotelName": "Capital O 90682 Hotel Bayu Hill",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 332,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 7.2,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 5,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "7.2",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "8.0",
+              "text": "Excellent value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.3,
+                "formattedScore": "7.3",
+                "scale": 10.0,
+                "percentage": 73.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "73.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.3-6",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 6.7,
+                "formattedScore": "6.7",
+                "scale": 10.0,
+                "percentage": 67.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "67.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-6.7-17",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.7,
+                "formattedScore": "8.7",
+                "scale": 10.0,
+                "percentage": 87.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "87.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.7-16",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 7.3,
+                "formattedScore": "7.3",
+                "scale": 10.0,
+                "percentage": 73.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "73.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-7.3-4",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.0-3",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 1
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 4.8,
+            "maxScore": 10.0,
+            "id": 1,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "4.8",
+            "name": "Business travelers",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Review score",
+            "subReview": {
+              "score": "6.0",
+              "text": "",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-4.0-21",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-4.0-29",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 6.0,
+                "formattedScore": "6.0",
+                "scale": 10.0,
+                "percentage": 60.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "60.0",
+                "cityAverage": 0.0,
+                "uid": "location-6.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-4.0-7",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 6.0,
+                "formattedScore": "6.0",
+                "scale": 10.0,
+                "percentage": 60.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "60.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-6.0-13",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 9.0,
+            "maxScore": 10.0,
+            "id": 5,
+            "count": 2,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "9.0",
+            "name": "Families with teens",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "9.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.0-13",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.0-13",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-28",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-9.0-28",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 1
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 0.0,
+            "maxScore": 10.0,
+            "id": 6,
+            "count": 0,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "0.0",
+            "name": "Groups",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "",
+            "grades": [],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 5,
+            "tabName": "Agoda Reviews (5)",
+            "ratingViaProvider": "Rating via Agoda"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    },
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 28272295,
+      "hotelName": "Capital O 90682 Hotel Bayu Hill",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/capital-o-90682-hotel-bayu-hill/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 28272295,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 578255308,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "December 2021",
+            "encryptedReviewData": "nRYUq930QBs7E6qPJGpeKA==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "December 20, 2022",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Capital O 90682 Hotel Bayu Hill",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "ok",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "ok",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2021-12-25T00:00:00+07:00",
+            "checkOutDate": "2021-12-26T00:00:00+07:00",
+            "reviewDate": "2022-12-20T07:34:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Malaysia",
+              "displayMemberName": "Muhajir",
+              "flagName": "my",
+              "reviewGroupName": "Family with teens",
+              "roomTypeName": "Standard Double B",
+              "countryId": 198,
+              "lengthOfStay": 1,
+              "reviewGroupId": 5,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": false,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 442333101,
+                    "key": "442333101",
+                    "name": "Standard Double B",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": true,
+            "totalIndex": 1
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/capital-o-90682-hotel-bayu-hill/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 28272295,
+        "hotelName": "Capital O 90682 Hotel Bayu Hill",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 332,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 7.2,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 5,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "7.2",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "8.0",
+              "text": "Excellent value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.3,
+                "formattedScore": "7.3",
+                "scale": 10.0,
+                "percentage": 73.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "73.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.3-18",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 6.7,
+                "formattedScore": "6.7",
+                "scale": 10.0,
+                "percentage": 67.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "67.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-6.7-27",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.7,
+                "formattedScore": "8.7",
+                "scale": 10.0,
+                "percentage": 87.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "87.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.7-24",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 7.3,
+                "formattedScore": "7.3",
+                "scale": 10.0,
+                "percentage": 73.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "73.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-7.3-23",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.0-11",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 1
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 4.8,
+            "maxScore": 10.0,
+            "id": 1,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "4.8",
+            "name": "Business travelers",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Review score",
+            "subReview": {
+              "score": "6.0",
+              "text": "",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-4.0-5",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-4.0-21",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 6.0,
+                "formattedScore": "6.0",
+                "scale": 10.0,
+                "percentage": 60.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "60.0",
+                "cityAverage": 0.0,
+                "uid": "location-6.0-12",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-4.0-8",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 6.0,
+                "formattedScore": "6.0",
+                "scale": 10.0,
+                "percentage": 60.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "60.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-6.0-3",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 9.0,
+            "maxScore": 10.0,
+            "id": 5,
+            "count": 2,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "9.0",
+            "name": "Families with teens",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "9.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.0-23",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.0-21",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-0",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.0-14",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-9.0-8",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 1
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 0.0,
+            "maxScore": 10.0,
+            "id": 6,
+            "count": 0,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 2 star properties in Aceh",
+            "formattedScore": "0.0",
+            "name": "Groups",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "",
+            "grades": [],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 5,
+            "tabName": "Agoda Reviews (5)",
+            "ratingViaProvider": "Rating via Agoda"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    }
+  ]
+}

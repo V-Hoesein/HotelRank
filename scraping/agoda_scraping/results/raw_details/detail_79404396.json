@@ -1,0 +1,1816 @@
+{
+  "propertyId": 79404396,
+  "name": "Mitra Perdana Homestay ",
+  "propertyPage": "/mitra-perdana-homestay/hotel/banda-aceh-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 79404396,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": null
+            },
+            "contentDetail": {
+              "propertyId": 79404396,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 178403432,
+                    "providerId": 332,
+                    "typeId": 6,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/87c3d7f1d0af0aac840894183f06b261.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/87c3d7f1d0af0aac840894183f06b261.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/87c3d7f1d0af0aac840894183f06b261.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/87c3d7f1d0af0aac840894183f06b261.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 178403462,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/a83837a04b0da80be5f17d85560933d1.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/a83837a04b0da80be5f17d85560933d1.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/a83837a04b0da80be5f17d85560933d1.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/a83837a04b0da80be5f17d85560933d1.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 178403511,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:45:00.000+07:00",
+                    "highResolutionSizes": [],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/7ea6c8cee03cabe7bb5ded34c3b250a8.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/7ea6c8cee03cabe7bb5ded34c3b250a8.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/7ea6c8cee03cabe7bb5ded34c3b250a8.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/7ea6c8cee03cabe7bb5ded34c3b250a8.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "other",
+                    "group": "Other",
+                    "id": 178403451,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4199869034227b0c43ce389bf769096b.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4199869034227b0c43ce389bf769096b.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4199869034227b0c43ce389bf769096b.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4199869034227b0c43ce389bf769096b.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 178403470,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4bbb627fdf83a00ff43267d069d5b1d4.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4bbb627fdf83a00ff43267d069d5b1d4.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4bbb627fdf83a00ff43267d069d5b1d4.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/4bbb627fdf83a00ff43267d069d5b1d4.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "other",
+                    "group": "Other",
+                    "id": 178403495,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/62835996a16eb5b46a20943cac280317.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/62835996a16eb5b46a20943cac280317.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/62835996a16eb5b46a20943cac280317.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/62835996a16eb5b46a20943cac280317.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 178403439,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/1c6dc5d65417fcd45560ce09885b4c09.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/1c6dc5d65417fcd45560ce09885b4c09.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/1c6dc5d65417fcd45560ce09885b4c09.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/1c6dc5d65417fcd45560ce09885b4c09.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 178403473,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/369754643cc438af246a22c366538ad7.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/369754643cc438af246a22c366538ad7.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/369754643cc438af246a22c366538ad7.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/369754643cc438af246a22c366538ad7.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 178403464,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/27620468633140cc2bbe9e65b0abe3d3.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/27620468633140cc2bbe9e65b0abe3d3.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/27620468633140cc2bbe9e65b0abe3d3.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/27620468633140cc2bbe9e65b0abe3d3.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 178403489,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-09-17T17:44:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/93f44d3571266a7ab862e718416fb66e.jpg?ce=2&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/93f44d3571266a7ab862e718416fb66e.jpg?ce=2&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/93f44d3571266a7ab862e718416fb66e.jpg?ce=2&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/79404396/0/93f44d3571266a7ab862e718416fb66e.jpg?ce=2&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Baiturrahman Grand Mosque - 1.78 km from property",
+                    "groupEntityId": null,
+                    "groupId": "nearby",
+                    "group": "Nearby attraction",
+                    "id": 0,
+                    "providerId": 999979,
+                    "typeId": 5,
+                    "uploadedDate": null,
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=160x120"
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": {
+                    "maxScore": 10,
+                    "reviewCount": 2,
+                    "score": 10.0
+                  },
+                  "cumulativeForHost": {
+                    "reviewCount": 0
+                  }
+                },
+                "providerReviewScore": [
+                  {
+                    "isDefault": true,
+                    "providerId": 27980,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 2,
+                      "score": 10.0
+                    },
+                    "demographics": {
+                      "allGuest": {
+                        "id": 0,
+                        "scoreDistribution": [],
+                        "reviewCount": 2,
+                        "grades": [
+                          {
+                            "id": "overall",
+                            "score": 10.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "cleanliness",
+                            "score": 7.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "location",
+                            "score": 8.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "staffPerformance",
+                            "score": 10.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "valueForMoney",
+                            "score": 10.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          }
+                        ]
+                      }
+                    }
+                  }
+                ],
+                "thirdPartyReviewScore": [
+                  {
+                    "providerId": 27980,
+                    "grades": [
+                      {
+                        "id": "location",
+                        "score": 8.0
+                      },
+                      {
+                        "id": "accuracy",
+                        "score": 10.0
+                      },
+                      {
+                        "id": "check-in",
+                        "score": 9.0
+                      },
+                      {
+                        "id": "communication",
+                        "score": 10.0
+                      },
+                      {
+                        "id": "cleanliness",
+                        "score": 7.0
+                      }
+                    ]
+                  }
+                ]
+              },
+              "contentSummary": {
+                "propertyId": 79404396,
+                "displayName": "Mitra Perdana Homestay ",
+                "defaultName": "Mitra Perdana Homestay ",
+                "localeName": "Mitra Perdana Homestay ",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 131,
+                  "accommodationName": "Entire House"
+                },
+                "propertyType": "SingleRoom",
+                "address": {
+                  "address1": "Jl. Meusara, Punge Blang Cut, Kec. Jaya Baru",
+                  "address2": "Jalan Meusara",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 57556,
+                    "name": "Banda Aceh"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "23234",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": true,
+                "geoInfo": {
+                  "latitude": 5.5465387,
+                  "longitude": 95.3027697
+                },
+                "rating": 4.0,
+                "isInfantCotAvailable": false
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "room-facility",
+                    "id": 25,
+                    "images": [],
+                    "name": "Air conditioning",
+                    "symbol": "air-conditioning",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 83,
+                    "images": [],
+                    "name": "Smoking area",
+                    "symbol": "smoking-area",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 80,
+                    "images": [],
+                    "name": "Car park",
+                    "symbol": "car-park",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": {
+                  "title": "930 meters from city center"
+                },
+                "locationHighlights": [
+                  {
+                    "distanceKm": 0.93,
+                    "highlightType": "city-center",
+                    "message": "930 meters from city center"
+                  }
+                ],
+                "locations": [
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-culture",
+                    "name": "Local Culture",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-sightseeing",
+                    "name": "Sights and Monuments",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-religious",
+                    "name": "Religious Places and Icons",
+                    "images": []
+                  }
+                ],
+                "atfPropertyHighlights": [
+                  {
+                    "id": -1,
+                    "name": "Top Value",
+                    "symbol": "medal.svg",
+                    "icon": null,
+                    "category": "review-scores",
+                    "images": null,
+                    "tooltip": "Guests rated this property 10.0/10 on value for money",
+                    "topicName": "Value for Money"
+                  },
+                  {
+                    "id": 25,
+                    "name": "Air conditioning",
+                    "symbol": "like.svg",
+                    "icon": "fill.electrics.air-purifier",
+                    "category": "room-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 83,
+                    "name": "Smoking area",
+                    "symbol": "like.svg",
+                    "icon": "fill.facility.smoke",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 80,
+                    "name": "Car park",
+                    "symbol": "like.svg",
+                    "icon": "fill.transportation.car-park",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": null,
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.43,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.54650805,
+                      "longitude": 95.3066958696119,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003832,
+                    "name": "Taman Edukasi Tsunami",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5516312,
+                      "longitude": 95.30269106875,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004062,
+                    "name": "Sehat Farma",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.63,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5504486,
+                      "longitude": 95.3068538,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004058,
+                    "name": "Toko Obat Parma Medika",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.73,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55045795,
+                      "longitude": 95.30806981413662,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004070,
+                    "name": "Bulan Tari",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.75,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.54962045,
+                      "longitude": 95.3088240042718,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004025,
+                    "name": "Poliklinik Polresta Banda Aceh",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.79,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.54672815,
+                      "longitude": 95.30986010246862,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003944,
+                    "name": "Klinik Umum Muhammadiyah Aceh",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.85,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5413041,
+                      "longitude": 95.3083734,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003945,
+                    "name": "Dr. Isra Firmansyah, Sp.A Spesialis Anak",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.91,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55293365,
+                      "longitude": 95.29766567379174,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004036,
+                    "name": "Hotel Grand Permata Hati",
+                    "typeId": 130,
+                    "typeName": "Parking",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.92,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.54093505,
+                      "longitude": 95.29660995411155,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003952,
+                    "name": "Dinas Kesehatan Puskesmas Pembantu Surien",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.98,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.54827275,
+                      "longitude": 95.29406565,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003999,
+                    "name": "MERLIN",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.06,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.53788435,
+                      "longitude": 95.30675727148136,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Suzuya Plaza",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.24,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.535786,
+                      "longitude": 95.3058165,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Maju Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.29,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5351509,
+                      "longitude": 95.3047797,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Nusa Indah",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  }
+                ],
+                "popularLandmarkNumber": 2,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 4,
+                    "name": "The property",
+                    "usefulInfo": [
+                      {
+                        "id": 46,
+                        "name": "License Id / Local Tax ID/ Entity Name",
+                        "description": "55194"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": true
+                },
+                "description": {
+                  "short": "Get your trip off to a great start with a stay at this property, which offers car park free of charge. Conveniently situated in the Banda Aceh part of Aceh, this property puts you close to attractions and interesting dining options."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": {
+                    "stayFreeAgeRange": {
+                      "min": 0,
+                      "max": 7
+                    },
+                    "details": [
+                      {
+                        "isInfant": true,
+                        "title": "Infant 0-1 year(s)",
+                        "description": "Stay for free if using existing bedding. Note, if you need a cot, it may incur an extra charge and is subject to availability."
+                      },
+                      {
+                        "isInfant": false,
+                        "title": "Children 2-7 year(s)",
+                        "description": "Stay for free if using existing bedding."
+                      }
+                    ]
+                  },
+                  "minAge": [],
+                  "adult": [
+                    "Guests 8 years and older are considered adults."
+                  ],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 2
+                    },
+                    "childAges": {
+                      "min": 2,
+                      "max": 7
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": true
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Dishes and dining utensils",
+                        "featureNameLocalizationList": null,
+                        "id": 2481,
+                        "order": 4,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Freezer",
+                        "featureNameLocalizationList": null,
+                        "id": 2479,
+                        "order": 7,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Kitchen basics (cookware, oils, condiments)",
+                        "featureNameLocalizationList": null,
+                        "id": 2478,
+                        "order": 6,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Microwave",
+                        "featureNameLocalizationList": null,
+                        "id": 2477,
+                        "order": 9,
+                        "symbol": "microwave",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Refrigerator",
+                        "featureNameLocalizationList": null,
+                        "id": 2475,
+                        "order": 11,
+                        "symbol": "refrigerator",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Stove",
+                        "featureNameLocalizationList": null,
+                        "id": 2474,
+                        "order": 12,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 62,
+                    "name": "Kitchen",
+                    "order": 1,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Bathtub",
+                        "featureNameLocalizationList": null,
+                        "id": 2460,
+                        "order": 2,
+                        "symbol": "bathtub",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Body wash",
+                        "featureNameLocalizationList": null,
+                        "id": 2459,
+                        "order": 1,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 67,
+                    "name": "Bathroom",
+                    "order": 2,
+                    "symbol": "bathtub"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Fans (ceiling or portable)",
+                        "featureNameLocalizationList": null,
+                        "id": 2491,
+                        "order": 5,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 60,
+                    "name": "Standard",
+                    "order": 3,
+                    "symbol": "room-promotion"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Balcony or terrace",
+                        "featureNameLocalizationList": null,
+                        "id": 2484,
+                        "order": 1,
+                        "symbol": "balcony-terrace",
+                        "images": []
+                      }
+                    ],
+                    "id": 64,
+                    "name": "Outdoor",
+                    "order": 4,
+                    "symbol": "garden"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Sound System",
+                        "featureNameLocalizationList": null,
+                        "id": 2462,
+                        "order": 9,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Video streaming services",
+                        "featureNameLocalizationList": null,
+                        "id": 2461,
+                        "order": 11,
+                        "symbol": "ic-m-old-television",
+                        "images": []
+                      }
+                    ],
+                    "id": 65,
+                    "name": "Entertainment",
+                    "order": 5,
+                    "symbol": "inhouse-movies"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Cable channels",
+                        "featureNameLocalizationList": null,
+                        "id": 44,
+                        "order": 134,
+                        "symbol": "satellite-television",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Internet",
+                        "featureNameLocalizationList": null,
+                        "id": 77,
+                        "order": 127,
+                        "symbol": "internet",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "TV",
+                        "featureNameLocalizationList": null,
+                        "id": 35,
+                        "order": 133,
+                        "symbol": "tv",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Wi-Fi",
+                        "featureNameLocalizationList": null,
+                        "id": 75,
+                        "order": 111,
+                        "symbol": "wifi",
+                        "images": []
+                      }
+                    ],
+                    "id": 26,
+                    "name": "Entertainment ",
+                    "order": 6,
+                    "symbol": "inhouse-movies"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Air conditioning",
+                        "featureNameLocalizationList": null,
+                        "id": 25,
+                        "order": 114,
+                        "symbol": "air-conditioning",
+                        "images": []
+                      }
+                    ],
+                    "id": 45,
+                    "name": "Comforts",
+                    "order": 7,
+                    "symbol": "air-conditioning"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Free parking",
+                        "featureNameLocalizationList": null,
+                        "id": 357,
+                        "order": 166,
+                        "symbol": "car-park-free-charge",
+                        "images": []
+                      }
+                    ],
+                    "id": 39,
+                    "name": "Getting around",
+                    "order": 8,
+                    "symbol": "car-hire"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Coffee or tea",
+                        "featureNameLocalizationList": null,
+                        "id": 47,
+                        "order": 151,
+                        "symbol": "coffee-tea-maker",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Kitchen",
+                        "featureNameLocalizationList": null,
+                        "id": 275,
+                        "order": 161,
+                        "symbol": "kitchen",
+                        "images": []
+                      }
+                    ],
+                    "id": 47,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 9,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Hair dryer",
+                        "featureNameLocalizationList": null,
+                        "id": 30,
+                        "order": 147,
+                        "symbol": "hair-dryer ",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Towels",
+                        "featureNameLocalizationList": null,
+                        "id": 230,
+                        "order": 60,
+                        "symbol": "towels",
+                        "images": []
+                      }
+                    ],
+                    "id": 24,
+                    "name": "Bathroom and toiletries",
+                    "order": 10,
+                    "symbol": "bathtub"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Desk/workspace",
+                        "featureNameLocalizationList": null,
+                        "id": 29,
+                        "order": 12,
+                        "symbol": "desk",
+                        "images": []
+                      }
+                    ],
+                    "id": 27,
+                    "name": "Layout and furnishings",
+                    "order": 11,
+                    "symbol": "sofa"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Closet",
+                        "featureNameLocalizationList": null,
+                        "id": 232,
+                        "order": 62,
+                        "symbol": "closet",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Dryer",
+                        "featureNameLocalizationList": null,
+                        "id": 149,
+                        "order": 152,
+                        "symbol": "clothes-dryer-pay",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Iron",
+                        "featureNameLocalizationList": null,
+                        "id": 33,
+                        "order": 154,
+                        "symbol": "iron",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Washer",
+                        "featureNameLocalizationList": null,
+                        "id": 87,
+                        "order": 148,
+                        "symbol": "laundromat",
+                        "images": []
+                      }
+                    ],
+                    "id": 46,
+                    "name": "Clothing and laundry",
+                    "order": 12,
+                    "symbol": "laundromat"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Smoking allowed",
+                        "featureNameLocalizationList": null,
+                        "id": 281,
+                        "order": 166,
+                        "symbol": "smoking-allowed",
+                        "images": []
+                      }
+                    ],
+                    "id": 28,
+                    "name": "Safety and security features",
+                    "order": 13,
+                    "symbol": "non-smoking-room"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 2459,
+                    "name": null
+                  },
+                  {
+                    "id": 2491,
+                    "name": null
+                  },
+                  {
+                    "id": 288,
+                    "name": null
+                  },
+                  {
+                    "id": 357,
+                    "name": null
+                  },
+                  {
+                    "id": 2477,
+                    "name": null
+                  },
+                  {
+                    "id": 2460,
+                    "name": null
+                  },
+                  {
+                    "id": 2474,
+                    "name": null
+                  },
+                  {
+                    "id": 2478,
+                    "name": null
+                  },
+                  {
+                    "id": 2461,
+                    "name": null
+                  },
+                  {
+                    "id": 2481,
+                    "name": null
+                  },
+                  {
+                    "id": 80,
+                    "name": null
+                  },
+                  {
+                    "id": 2479,
+                    "name": null
+                  },
+                  {
+                    "id": 2475,
+                    "name": null
+                  },
+                  {
+                    "id": 2462,
+                    "name": null
+                  },
+                  {
+                    "id": 2484,
+                    "name": null
+                  },
+                  {
+                    "id": 90,
+                    "name": null
+                  },
+                  {
+                    "id": 83,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": {
+                    "healthAndMedical": [],
+                    "safetyFeature": [],
+                    "preventiveEquipment": []
+                  }
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 357,
+                    "facilityName": "Free parking",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2460,
+                    "facilityName": "Bathtub",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 288,
+                    "facilityName": "Kitchen",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 2484,
+                    "facilityName": "Balcony/terrace",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 83,
+                    "facilityName": "Smoking area",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 2461,
+                    "facilityName": "Video streaming services",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2491,
+                    "facilityName": "Fan",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2459,
+                    "facilityName": "Toiletries",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": {
+                "displayName": "Ahmad perdana",
+                "picture": "https://pix7.agoda.net/hotelImages/787/78760461/78760461_250901161242788236975162.png",
+                "averageReviewScore": null,
+                "totalReviews": 0,
+                "hostLevel": 1,
+                "responseRate": 0.0,
+                "responseTimeSeconds": null,
+                "properties": [
+                  {
+                    "id": 79404396,
+                    "bookings": 0,
+                    "reviewAvg": 0.0,
+                    "reviewCount": 0
+                  }
+                ],
+                "userId": "f39eb8df-767e-4d6b-875a-b764d0d6634b"
+              },
+              "contentTopics": {
+                "topics": [
+                  {
+                    "images": [
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//79404396/0/a83837a04b0da80be5f17d85560933d1.jpg?ce=2&s=1024x768",
+                        "imageId": 178403462,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//79404396/0/4bbb627fdf83a00ff43267d069d5b1d4.jpg?ce=2&s=1024x768",
+                        "imageId": 178403470,
+                        "imageSource": "ycs"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Room Comfort"
+                  }
+                ]
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 8,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 79404396,
+      "hotelName": "Mitra Perdana Homestay ",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/mitra-perdana-homestay/reviews/banda-aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 79404396,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [],
+        "reviewFilterAndSort": [],
+        "providerList": [],
+        "provider": 27980,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/mitra-perdana-homestay/reviews/banda-aceh-id.html",
+        "reviewProviderLogo": "",
+        "hotelId": 79404396,
+        "hotelName": "Mitra Perdana Homestay ",
+        "providerIdForSeoReviewScore": -999,
+        "providerId": -999,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 27901,
+                "logoUrl": "https://cdn6.agoda.net/images/default/japanican-logo.png",
+                "logoName": "jtb",
+                "logoAltText": "Japanican.com"
+              },
+              {
+                "providerId": 28999,
+                "logoUrl": "https://cdn6.agoda.net/images/default/priceline-logo.png",
+                "logoName": "priceline",
+                "logoAltText": "Priceline.com"
+              },
+              {
+                "providerId": 27989,
+                "logoUrl": "https://cdn6.agoda.net/images/default/yanolja-logo.png",
+                "logoName": "yanolja",
+                "logoAltText": "Yanolja"
+              },
+              {
+                "providerId": 29014,
+                "logoUrl": "",
+                "logoName": "jtb",
+                "logoAltText": "Japanican.com"
+              }
+            ],
+            "score": 10.0,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 2,
+            "providerId": -999,
+            "cityAverageText": "",
+            "formattedScore": "10.0",
+            "name": "All guests",
+            "reviewProviderLogoText": "Real guests. Trusted reviews. Provided by",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.0-2"
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.0-27"
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-29"
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-29"
+              }
+            ],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": -999,
+            "reviewCount": 2,
+            "tabName": "ADDITIONAL REVIEWS (2)",
+            "ratingViaProvider": "Rating via additional providers"
+          }
+        ],
+        "defaultProviderId": -999,
+        "showBComAsLink": true,
+        "originalProvider": -999
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    },
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 79404396,
+      "hotelName": "Mitra Perdana Homestay ",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/mitra-perdana-homestay/reviews/banda-aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 79404396,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": false,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [],
+        "reviewFilterAndSort": [],
+        "providerList": [],
+        "provider": 27980,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/mitra-perdana-homestay/reviews/banda-aceh-id.html",
+        "reviewProviderLogo": "",
+        "hotelId": 79404396,
+        "hotelName": "Mitra Perdana Homestay ",
+        "providerIdForSeoReviewScore": -999,
+        "providerId": -999,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 27901,
+                "logoUrl": "https://cdn6.agoda.net/images/default/japanican-logo.png",
+                "logoName": "jtb",
+                "logoAltText": "Japanican.com"
+              },
+              {
+                "providerId": 28999,
+                "logoUrl": "https://cdn6.agoda.net/images/default/priceline-logo.png",
+                "logoName": "priceline",
+                "logoAltText": "Priceline.com"
+              },
+              {
+                "providerId": 27989,
+                "logoUrl": "https://cdn6.agoda.net/images/default/yanolja-logo.png",
+                "logoName": "yanolja",
+                "logoAltText": "Yanolja"
+              },
+              {
+                "providerId": 29014,
+                "logoUrl": "",
+                "logoName": "jtb",
+                "logoAltText": "Japanican.com"
+              }
+            ],
+            "score": 10.0,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 2,
+            "providerId": -999,
+            "cityAverageText": "",
+            "formattedScore": "10.0",
+            "name": "All guests",
+            "reviewProviderLogoText": "Real guests. Trusted reviews. Provided by",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.0-8"
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.0-21"
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-12"
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-5"
+              }
+            ],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": -999,
+            "reviewCount": 2,
+            "tabName": "ADDITIONAL REVIEWS (2)",
+            "ratingViaProvider": "Rating via additional providers"
+          }
+        ],
+        "defaultProviderId": -999,
+        "showBComAsLink": true,
+        "originalProvider": -999
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "hasReviewTagsV2": false
+      }
+    }
+  ]
+}

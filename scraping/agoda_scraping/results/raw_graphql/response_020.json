@@ -1,0 +1,82 @@
+{
+  "data": {
+    "propertyDetailsSearch": {
+      "propertyDetails": [
+        {
+          "propertyId": 15321283,
+          "contentDetail": {
+            "propertyId": 15321283,
+            "contentReviewScore": {
+              "providerReviewScore": [
+                {
+                  "isDefault": true,
+                  "providerId": 332,
+                  "cumulative": {
+                    "maxScore": 10
+                  },
+                  "demographics": {
+                    "allGuest": {
+                      "id": 0,
+                      "reviewCount": 6,
+                      "grades": [
+                        {
+                          "id": "overall",
+                          "score": 9.5,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "cleanliness",
+                          "score": 10.0,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "facilities",
+                          "score": 9.6,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "location",
+                          "score": 9.6,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "staffPerformance",
+                          "score": 9.6,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "valueForMoney",
+                          "score": 9.6,
+                          "cityAverage": null
+                        }
+                      ]
+                    }
+                  }
+                },
+                {
+                  "isDefault": false,
+                  "providerId": 29100,
+                  "cumulative": {
+                    "maxScore": 10
+                  },
+                  "demographics": null
+                }
+              ]
+            },
+            "contentSummary": {
+              "rating": 3.0,
+              "address": {
+                "city": {
+                  "name": "Aceh"
+                },
+                "country": {
+                  "id": 192
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

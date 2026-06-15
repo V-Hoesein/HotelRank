@@ -1,0 +1,961 @@
+[
+  {
+    "propertyId": 86738595,
+    "sponsoredDetail": {
+      "sponsoredType": "GroupRanks",
+      "trackingData": null,
+      "isShowSponsoredFlag": true
+    },
+    "propertyResultType": "NormalProperty",
+    "content": {
+      "informationSummary": {
+        "hotelCharacter": null,
+        "propertyLinks": {
+          "propertyPage": "/townhouse-oak-near-tugu-simpang-lima-formerly-gm-inn-hotel/hotel/banda-aceh-id.html"
+        },
+        "atmospheres": [
+          {
+            "id": 3,
+            "name": "experiencing local culture"
+          },
+          {
+            "id": 4,
+            "name": "sightseeing"
+          },
+          {
+            "id": 7,
+            "name": "religious places"
+          }
+        ],
+        "isSustainableTravel": false,
+        "localeName": "Townhouse Oak near Tugu Simpang Lima formerly GM Inn Hotel",
+        "defaultName": "Townhouse Oak near Tugu Simpang Lima formerly GM Inn Hotel",
+        "displayName": "Townhouse Oak near Tugu Simpang Lima formerly GM Inn Hotel",
+        "accommodationType": 34,
+        "awardYear": null,
+        "hasHostExperience": false,
+        "nhaSummary": {
+          "hostPropertyCount": 0
+        },
+        "address": {
+          "countryCode": "ID",
+          "country": {
+            "id": 192,
+            "name": "Indonesia"
+          },
+          "city": {
+            "id": 19806,
+            "name": "Aceh"
+          },
+          "area": {
+            "id": 57556,
+            "name": "Banda Aceh"
+          }
+        },
+        "propertyType": "Hotel",
+        "rating": 3.0,
+        "agodaGuaranteeProgram": true,
+        "remarks": {
+          "renovationInfo": {
+            "renovationType": 0,
+            "year": 2025
+          }
+        },
+        "spokenLanguages": [
+          {
+            "id": 1
+          },
+          {
+            "id": 26
+          }
+        ],
+        "geoInfo": {
+          "latitude": 5.557882308959961,
+          "longitude": 95.32103729248047
+        }
+      },
+      "propertyEngagement": {
+        "lastBooking": "1899-12-31T23:42:04.000+06:42:04",
+        "peopleLooking": 0,
+        "todayBooking": "Booked 16 times today"
+      },
+      "nonHotelAccommodation": {
+        "masterRooms": [],
+        "hostLevel": null,
+        "supportedLongStay": null
+      },
+      "facilities": [],
+      "images": {
+        "hotelImages": [
+          {
+            "id": 195559431,
+            "caption": "Exterior view",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/a478959b836e090448522592f648f86c.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 195559414,
+            "caption": "Bedroom",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/841b13586ae403fb2c7de5be0ed0466b.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 1326057568,
+            "caption": "Facilities",
+            "providerId": 3038,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/855634828.jpg?k=5e34a2a2f5e75ec1d9ca2427e9b28f3563e78a84846f0dc495e47bff1c904a9d&o="
+              }
+            ]
+          },
+          {
+            "id": 195559437,
+            "caption": "Reception",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/0aebcc13f4f252fb58c26aca4547f1cd.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 195559430,
+            "caption": "Lobby",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/0b6ae664707b1ceb2d8b7704b8074109.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 1326057583,
+            "caption": "Facilities",
+            "providerId": 3038,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//q-xx.bstatic.com/xdata/images/hotel/max500/855634816.jpg?k=c4e1068b0735421290b6bfe0932c01243069551c24cfec9ba0837a30cf916ed4&o="
+              }
+            ]
+          },
+          {
+            "id": 195559392,
+            "caption": "Lobby",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/b7920fbf13f5b930bb477e4841c5bd80.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 195559421,
+            "caption": "Reception",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/d069884f05250b65cd44df8f1335ab0c.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 195559434,
+            "caption": "Reception",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/a80cb49abd8ccba1302a590c6613ab01.jpg?ce=3"
+              }
+            ]
+          },
+          {
+            "id": 195559410,
+            "caption": "Bedroom",
+            "providerId": 332,
+            "urls": [
+              {
+                "key": "original",
+                "value": "//pix8.agoda.net/hotelImages/86738595/0/2629b36a731b51fa9167059e5bd6a52a.jpg?ce=3"
+              }
+            ]
+          }
+        ]
+      },
+      "reviews": {
+        "contentReview": [
+          {
+            "isDefault": true,
+            "providerId": 332,
+            "demographics": {
+              "groups": [
+                {
+                  "id": 0,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 9.2
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 8.8
+                    },
+                    {
+                      "id": "location",
+                      "score": 9.7
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 9.3
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 9.2
+                    }
+                  ]
+                },
+                {
+                  "id": 1,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 9.6
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 8.0
+                    },
+                    {
+                      "id": "location",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 10.0
+                    }
+                  ]
+                },
+                {
+                  "id": 2,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 8.6
+                    },
+                    {
+                      "id": "location",
+                      "score": 9.7
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 8.9
+                    }
+                  ]
+                },
+                {
+                  "id": 3,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 9.6
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 9.4
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 9.3
+                    },
+                    {
+                      "id": "location",
+                      "score": 9.9
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 9.6
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 9.6
+                    }
+                  ]
+                },
+                {
+                  "id": 4,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 8.7
+                    },
+                    {
+                      "id": "location",
+                      "score": 9.3
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 9.0
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 9.0
+                    }
+                  ]
+                },
+                {
+                  "id": 5,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "location",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 10.0
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 10.0
+                    }
+                  ]
+                },
+                {
+                  "id": 6,
+                  "grades": [
+                    {
+                      "id": "overall",
+                      "score": 9.3
+                    },
+                    {
+                      "id": "cleanliness",
+                      "score": 9.5
+                    },
+                    {
+                      "id": "facilities",
+                      "score": 9.1
+                    },
+                    {
+                      "id": "location",
+                      "score": 9.6
+                    },
+                    {
+                      "id": "staffPerformance",
+                      "score": 9.1
+                    },
+                    {
+                      "id": "valueForMoney",
+                      "score": 9.3
+                    }
+                  ]
+                }
+              ]
+            },
+            "summaries": {
+              "recommendationScores": [],
+              "snippets": [
+                {
+                  "countryId": 192,
+                  "countryCode": "ID",
+                  "countryName": "Indonesia",
+                  "date": "2026-05-12T03:24:00.000+07:00",
+                  "demographicId": 3,
+                  "demographicName": "Solo traveler",
+                  "reviewer": "Maya",
+                  "reviewRating": 9.2,
+                  "snippet": "Lokasi dekat tempat makandan kopi enak."
+                }
+              ]
+            },
+            "cumulative": {
+              "reviewCount": 65,
+              "score": 9.0
+            }
+          }
+        ],
+        "cumulative": {
+          "reviewCount": 65,
+          "score": 9.0
+        },
+        "cumulativeForHost": null
+      },
+      "familyFeatures": {
+        "hasChildrenFreePolicy": true,
+        "isFamilyRoom": true,
+        "hasMoreThanOneBedroom": false,
+        "isInterConnectingRoom": false,
+        "isInfantCottageAvailable": false,
+        "hasKidsPool": false,
+        "hasKidsClub": false
+      },
+      "personalizedInformation": {
+        "childrenFreePolicy": {
+          "fromAge": 0,
+          "toAge": 2
+        }
+      },
+      "localInformation": {
+        "landmarks": {
+          "transportation": [],
+          "topLandmark": null,
+          "beach": [
+            {
+              "landmarkName": "Pantai Alue Naga",
+              "distanceInM": 4330.36
+            }
+          ]
+        },
+        "hasAirportTransfer": false
+      },
+      "highlight": {
+        "cityCenter": {
+          "distanceFromCityCenter": 0.0
+        },
+        "favoriteFeatures": {
+          "features": [
+            {
+              "id": 109,
+              "title": "Free Wi-Fi in all rooms!",
+              "category": "property-facility"
+            },
+            {
+              "id": 92,
+              "title": "Gym/fitness",
+              "category": "property-facility"
+            },
+            {
+              "id": 240,
+              "title": "Daily housekeeping",
+              "category": "property-facility"
+            }
+          ]
+        },
+        "uniqueAttributes": null,
+        "hasNearbyPublicTransportation": false
+      },
+      "rateCategories": {
+        "escapeRateCategories": null
+      }
+    },
+    "contentTopics": {
+      "topics": [
+        {
+          "topic": "Location",
+          "reviewSnippets": []
+        }
+      ]
+    },
+    "soldOut": null,
+    "pricing": {
+      "pulseCampaignMetadata": null,
+      "isAvailable": true,
+      "isReady": true,
+      "benefits": [],
+      "cheapestRoomOffer": {
+        "agodaCash": {
+          "showBadge": false,
+          "giftcardGuid": "",
+          "dayToEarn": 0,
+          "earnId": 0,
+          "percentage": null,
+          "expiryDay": 0
+        },
+        "cashback": null
+      },
+      "isEasyCancel": false,
+      "isInsiderDeal": false,
+      "isMultiHotelEligible": true,
+      "suggestPriceType": {
+        "suggestPrice": "Exclusive"
+      },
+      "roomBundle": null,
+      "pointmax": null,
+      "priceChange": null,
+      "payment": {
+        "cancellation": {
+          "cancellationType": "FreeCancellation",
+          "freeCancellationDate": "2026-06-20T00:00:00.000+07:00"
+        },
+        "payLater": {
+          "isEligible": true
+        },
+        "payAtHotel": {
+          "isEligible": false
+        },
+        "noCreditCard": {
+          "isEligible": false
+        },
+        "taxReceipt": {
+          "isEligible": false
+        }
+      },
+      "cheapestStayPackageRatePlans": [
+        {
+          "stayPackageType": 0,
+          "ratePlanId": 23021890
+        }
+      ],
+      "pricingMessages": [
+        {
+          "location": 2,
+          "ids": [
+            103007
+          ]
+        }
+      ],
+      "suppliersSummaries": [
+        {
+          "id": 332,
+          "supplierHotelId": "ID_BAH012"
+        },
+        {
+          "id": 28999,
+          "supplierHotelId": "ID_BAH012"
+        }
+      ],
+      "supplierInfo": null,
+      "childPolicy": {
+        "freeChildren": 0
+      },
+      "growthProgramInfo": {
+        "badges": [
+          "AGODA_PREFERRED"
+        ]
+      },
+      "offers": [
+        {
+          "bundleType": "NormalOffer",
+          "bundleDetail": null,
+          "roomOffers": [
+            {
+              "room": {
+                "occDisplay": {
+                  "perBook": {
+                    "childAges": {
+                      "asChildRate": [],
+                      "asFree": []
+                    }
+                  },
+                  "maxAllowedFreeChildAgeRange": {
+                    "quantity": 0
+                  }
+                },
+                "extraPriceInfo": {
+                  "displayPriceWithSurchargesPRPN": null,
+                  "corDisplayPriceWithSurchargesPRPN": null
+                },
+                "availableRooms": 6,
+                "isPromoEligible": false,
+                "promotions": {
+                  "typeId": 99,
+                  "promotionDiscount": {
+                    "value": 0.0
+                  },
+                  "isRatePlanAsPromotion": false,
+                  "cmsTypeId": 0,
+                  "description": "Super Saver"
+                },
+                "consolidatedAppliedDiscount": null,
+                "bookingDuration": null,
+                "supplierId": 332,
+                "corSummary": {
+                  "hasCor": true,
+                  "corType": "StackedCOR",
+                  "isOriginal": true,
+                  "hasOwnCOR": true,
+                  "isBlacklistedCor": false
+                },
+                "localVoucher": null,
+                "packaging": null,
+                "pricing": [
+                  {
+                    "currency": "IDR",
+                    "price": {
+                      "perNight": {
+                        "exclusive": {
+                          "display": 139555.0,
+                          "cashbackPrice": null,
+                          "displayAfterCashback": null,
+                          "originalPrice": 139555.0
+                        },
+                        "inclusive": {
+                          "display": 168861.0,
+                          "cashbackPrice": null,
+                          "displayAfterCashback": null,
+                          "originalPrice": 168861.0
+                        }
+                      },
+                      "perBook": {
+                        "exclusive": {
+                          "display": 139555.0,
+                          "cashbackPrice": null,
+                          "displayAfterCashback": null,
+                          "rebatePrice": 0.0,
+                          "originalPrice": 139555.0,
+                          "autoAppliedPromoDiscount": null
+                        },
+                        "inclusive": {
+                          "display": 168861.0,
+                          "cashbackPrice": null,
+                          "displayAfterCashback": null,
+                          "rebatePrice": 0.0,
+                          "originalPrice": 168861.0,
+                          "autoAppliedPromoDiscount": null
+                        }
+                      },
+                      "perRoomPerNight": {
+                        "exclusive": {
+                          "display": 139555.0,
+                          "crossedOutPrice": 341817.0,
+                          "cashbackPrice": null,
+                          "displayAfterCashback": null,
+                          "rebatePrice": 0.0,
+                          "pseudoCouponPrice": 0.0,
+                          "originalPrice": 139555.0,
+                          "loyaltyOfferSummary": {
+                            "basePrice": {
+                              "exclusive": 139555.0,
+                              "allInclusive": 168861.0
+                            },
+                            "status": null,
+                            "offers": []
+                          }
+                        },
+                        "inclusive": {
+                          "display": 168861.0,
+                          "crossedOutPrice": 371123.0,
+                          "cashbackPrice": null,
+                          "displayAfterCashback": null,
+                          "rebatePrice": 0.0,
+                          "pseudoCouponPrice": 0.0,
+                          "originalPrice": 168861.0,
+                          "loyaltyOfferSummary": {
+                            "basePrice": {
+                              "exclusive": 139555.0,
+                              "allInclusive": 168861.0
+                            },
+                            "status": null,
+                            "offers": []
+                          }
+                        }
+                      },
+                      "totalDiscount": 59,
+                      "priceAfterAppliedAgodaCash": null
+                    },
+                    "apsPeek": null,
+                    "promotionPricePeek": null,
+                    "channelDiscountSummary": {
+                      "channelDiscountBreakdown": [
+                        {
+                          "display": true,
+                          "discountPercent": 15.0,
+                          "channelId": 54
+                        }
+                      ]
+                    },
+                    "promotionsCumulative": []
+                  }
+                ],
+                "uid": "CiYI5t6jkAoQAhj+2cQJIGwohKX6FTAESgsxRDEwMFBfMTAwUFCYBRICCAEaBCgEMAEiBAgEGAI=",
+                "payment": {
+                  "paymentModel": "Merchant",
+                  "cancellation": {
+                    "cancellationType": "FreeCancellation"
+                  }
+                },
+                "discount": {
+                  "deals": [
+                    "LastMinutePromo"
+                  ],
+                  "channelDiscount": null
+                },
+                "saveUpTo": {
+                  "perRoomPerNight": 0
+                },
+                "benefits": [],
+                "channel": {
+                  "id": 54
+                },
+                "mseRoomSummaries": [
+                  {
+                    "supplierId": 332,
+                    "subSupplierId": 332,
+                    "pricingSummaries": [
+                      {
+                        "currency": "IDR",
+                        "channelDiscountSummary": {
+                          "channelDiscountBreakdown": [
+                            {
+                              "channelId": 54,
+                              "discountPercent": 15.0,
+                              "display": true
+                            }
+                          ]
+                        },
+                        "price": {
+                          "perRoomPerNight": {
+                            "exclusive": {
+                              "display": 139555.0
+                            },
+                            "inclusive": {
+                              "display": 168861.0
+                            }
+                          }
+                        }
+                      }
+                    ]
+                  }
+                ],
+                "cashback": null,
+                "agodaCash": {
+                  "showBadge": false,
+                  "giftcardGuid": "",
+                  "dayToEarn": 0,
+                  "expiryDay": 0,
+                  "percentage": null
+                },
+                "corInfo": {
+                  "corBreakdown": {
+                    "taxExPN": [
+                      {
+                        "price": 202262.0,
+                        "id": 5
+                      },
+                      {
+                        "price": 341817.0,
+                        "id": 0
+                      },
+                      {
+                        "price": 139555.0,
+                        "id": 1
+                      }
+                    ],
+                    "taxInPN": [
+                      {
+                        "price": 202262.0,
+                        "id": 5
+                      },
+                      {
+                        "price": 371123.0,
+                        "id": 0
+                      },
+                      {
+                        "price": 168861.0,
+                        "id": 1
+                      }
+                    ],
+                    "taxExPRPN": [
+                      {
+                        "price": 202262.0,
+                        "id": 5
+                      },
+                      {
+                        "price": 341817.0,
+                        "id": 0
+                      },
+                      {
+                        "price": 139555.0,
+                        "id": 1
+                      }
+                    ],
+                    "taxInPRPN": [
+                      {
+                        "price": 202262.0,
+                        "id": 5
+                      },
+                      {
+                        "price": 371123.0,
+                        "id": 0
+                      },
+                      {
+                        "price": 168861.0,
+                        "id": 1
+                      }
+                    ]
+                  },
+                  "corInfo": {
+                    "corType": "StackedCOR"
+                  }
+                },
+                "loyaltyDisplay": null,
+                "capacity": {
+                  "extraBedsAvailable": false
+                },
+                "pricingMessages": {
+                  "formatted": [
+                    {
+                      "location": 2,
+                      "texts": [
+                        {
+                          "index": 0,
+                          "text": "Send Mix and Save to the SSR"
+                        }
+                      ]
+                    }
+                  ]
+                },
+                "campaign": null,
+                "stayPackageType": 0,
+                "isMseLastClickedOffer": null
+              }
+            }
+          ]
+        }
+      ]
+    },
+    "metaLab": {
+      "attributes": [
+        {
+          "attributeId": 7,
+          "dataType": "BOOLEAN",
+          "value": "false",
+          "version": "V1"
+        },
+        {
+          "attributeId": 1,
+          "dataType": "BOOLEAN",
+          "value": "false",
+          "version": "V1"
+        },
+        {
+          "attributeId": 18,
+          "dataType": "BOOLEAN",
+          "value": "true",
+          "version": "V1"
+        },
+        {
+          "attributeId": 8,
+          "dataType": "BOOLEAN",
+          "value": "true",
+          "version": "V1"
+        },
+        {
+          "attributeId": 11,
+          "dataType": "BOOLEAN",
+          "value": "true",
+          "version": "V2"
+        },
+        {
+          "attributeId": 2,
+          "dataType": "BOOLEAN",
+          "value": "true",
+          "version": "V1"
+        }
+      ]
+    },
+    "enrichment": {
+      "topSellingPoint": [
+        {
+          "tspType": "CheapestThreeStarRating",
+          "value": null
+        }
+      ],
+      "pricingBadges": {
+        "badges": []
+      },
+      "uniqueSellingPoint": [
+        {
+          "rank": 16,
+          "segment": "Couple",
+          "uspType": "ReviewScore",
+          "uspPropertyType": null
+        }
+      ],
+      "bookingHistory": {
+        "bookingCount": null
+      },
+      "showReviewSnippet": true,
+      "isPopular": false,
+      "roomInformation": {
+        "cheapestRoomSizeSqm": 14.0,
+        "facilities": [
+          {
+            "id": 75,
+            "propertyFacilityName": "Wi-Fi [free]",
+            "symbol": "wifi"
+          },
+          {
+            "id": 2594,
+            "propertyFacilityName": "Openable window",
+            "symbol": "confirmation-instant"
+          },
+          {
+            "id": 43,
+            "propertyFacilityName": "Balcony/terrace",
+            "symbol": "balcony-terrace"
+          },
+          {
+            "id": 29,
+            "propertyFacilityName": "Desk",
+            "symbol": "desk"
+          },
+          {
+            "id": 50,
+            "propertyFacilityName": "Private pool",
+            "symbol": "private-pool"
+          }
+        ]
+      }
+    }
+  }
+]

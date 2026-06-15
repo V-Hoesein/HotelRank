@@ -1,0 +1,4776 @@
+{
+  "propertyId": 83497656,
+  "name": "Utama Kuta Alam Guest House",
+  "propertyPage": "/utama-kuta-alam-hotel/hotel/banda-aceh-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 83497656,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": null
+            },
+            "contentDetail": {
+              "propertyId": 83497656,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "Exterior view",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 186323402,
+                    "providerId": 332,
+                    "typeId": 6,
+                    "uploadedDate": "2025-12-24T13:35:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/dd8c3788647d7d9e6df69f7867e1d014.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/dd8c3788647d7d9e6df69f7867e1d014.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/dd8c3788647d7d9e6df69f7867e1d014.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/dd8c3788647d7d9e6df69f7867e1d014.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1194521439,
+                    "providerId": 3038,
+                    "typeId": 7,
+                    "uploadedDate": "2025-12-25T16:41:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796480032.jpg?k=e54b18ff9e532d59c0d9c4c341bbd4c69c9dc46e57a7f19e8b8193fee39fb243&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796480032.jpg?k=e54b18ff9e532d59c0d9c4c341bbd4c69c9dc46e57a7f19e8b8193fee39fb243&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796480032.jpg?k=e54b18ff9e532d59c0d9c4c341bbd4c69c9dc46e57a7f19e8b8193fee39fb243&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796480032.jpg?k=e54b18ff9e532d59c0d9c4c341bbd4c69c9dc46e57a7f19e8b8193fee39fb243&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Facilities",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1194520044,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-25T16:40:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796480088.jpg?k=d5a426e692f43f2d69cde05bfc10a8f48031add0df7aa7705bed23873f55578a&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796480088.jpg?k=d5a426e692f43f2d69cde05bfc10a8f48031add0df7aa7705bed23873f55578a&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796480088.jpg?k=d5a426e692f43f2d69cde05bfc10a8f48031add0df7aa7705bed23873f55578a&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796480088.jpg?k=d5a426e692f43f2d69cde05bfc10a8f48031add0df7aa7705bed23873f55578a&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Entrance",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1194520054,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-25T16:40:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796479970.jpg?k=aabee9063239e85e8e90e4ae92a172e970ba4b5ba477f31385c08eb8768ba23b&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796479970.jpg?k=aabee9063239e85e8e90e4ae92a172e970ba4b5ba477f31385c08eb8768ba23b&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796479970.jpg?k=aabee9063239e85e8e90e4ae92a172e970ba4b5ba477f31385c08eb8768ba23b&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796479970.jpg?k=aabee9063239e85e8e90e4ae92a172e970ba4b5ba477f31385c08eb8768ba23b&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 186323426,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-24T13:36:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/2b55162ee81aaa14d28740cf1035d599.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/2b55162ee81aaa14d28740cf1035d599.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/2b55162ee81aaa14d28740cf1035d599.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/2b55162ee81aaa14d28740cf1035d599.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 186331749,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-24T15:34:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/c9196ec6dfb6a745972074b1af39172e.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/c9196ec6dfb6a745972074b1af39172e.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/c9196ec6dfb6a745972074b1af39172e.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/c9196ec6dfb6a745972074b1af39172e.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 186331759,
+                    "providerId": 332,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-24T15:34:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/d68f8958878709ad3fe71197563f647e.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/d68f8958878709ad3fe71197563f647e.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/d68f8958878709ad3fe71197563f647e.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/0/d68f8958878709ad3fe71197563f647e.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Deluxe Double - Guestroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 186331197,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2025-12-24T15:29:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660140/c2c366365c2ea7f7c9629f35110eec24.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660140/c2c366365c2ea7f7c9629f35110eec24.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660140/c2c366365c2ea7f7c9629f35110eec24.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660140/c2c366365c2ea7f7c9629f35110eec24.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Deluxe Single - Guestroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 194901563,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2026-04-05T15:55:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660145/fd357881e70fd2be82f52ce6f84f726b.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660145/fd357881e70fd2be82f52ce6f84f726b.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660145/fd357881e70fd2be82f52ce6f84f726b.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1297660145/fd357881e70fd2be82f52ce6f84f726b.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1252185031,
+                    "providerId": 3038,
+                    "typeId": 7,
+                    "uploadedDate": "2026-01-26T07:51:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796496438.jpg?k=c69a4919126b73d46039a1084c132bbdbf9a8e6c2ce1a3ba2af15a3c7b9b05bf&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796496438.jpg?k=c69a4919126b73d46039a1084c132bbdbf9a8e6c2ce1a3ba2af15a3c7b9b05bf&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796496438.jpg?k=c69a4919126b73d46039a1084c132bbdbf9a8e6c2ce1a3ba2af15a3c7b9b05bf&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796496438.jpg?k=c69a4919126b73d46039a1084c132bbdbf9a8e6c2ce1a3ba2af15a3c7b9b05bf&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Superior Single Separate Bath and Toilet for 1 Person - Non-Smoking - Guestroom",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 194916369,
+                    "providerId": 332,
+                    "typeId": 7,
+                    "uploadedDate": "2026-04-05T20:34:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1358305777/ca661c454506d5bce92249c04176cf04.jpg?ce=3&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1358305777/ca661c454506d5bce92249c04176cf04.jpg?ce=3&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1358305777/ca661c454506d5bce92249c04176cf04.jpg?ce=3&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/hotelImages/83497656/1358305777/ca661c454506d5bce92249c04176cf04.jpg?ce=3&s=160x120"
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Bathroom",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1194520053,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-25T16:40:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796497618.jpg?k=c876203d91e9cd26dc391a820e2f44fc2b664017a4feaf8dacbcafb29a30fffc&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796497618.jpg?k=c876203d91e9cd26dc391a820e2f44fc2b664017a4feaf8dacbcafb29a30fffc&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796497618.jpg?k=c876203d91e9cd26dc391a820e2f44fc2b664017a4feaf8dacbcafb29a30fffc&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796497618.jpg?k=c876203d91e9cd26dc391a820e2f44fc2b664017a4feaf8dacbcafb29a30fffc&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Bathroom",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1194520052,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-25T16:40:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796498008.jpg?k=d7e0286c7b671609130c106b684f47191d864d8af9412e672b090fb119c567d7&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796498008.jpg?k=d7e0286c7b671609130c106b684f47191d864d8af9412e672b090fb119c567d7&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796498008.jpg?k=d7e0286c7b671609130c106b684f47191d864d8af9412e672b090fb119c567d7&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796498008.jpg?k=d7e0286c7b671609130c106b684f47191d864d8af9412e672b090fb119c567d7&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Shower",
+                    "groupEntityId": 38,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1194520051,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-12-25T16:40:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/796483361.jpg?k=5ea9adc4fcf802d1e51058f0476538ef6c765e1a349b91bb46aeb7ebb60abe86&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796483361.jpg?k=5ea9adc4fcf802d1e51058f0476538ef6c765e1a349b91bb46aeb7ebb60abe86&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796483361.jpg?k=5ea9adc4fcf802d1e51058f0476538ef6c765e1a349b91bb46aeb7ebb60abe86&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/796483361.jpg?k=5ea9adc4fcf802d1e51058f0476538ef6c765e1a349b91bb46aeb7ebb60abe86&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Baiturrahman Grand Mosque - 1.24 km from property",
+                    "groupEntityId": null,
+                    "groupId": "nearby",
+                    "group": "Nearby attraction",
+                    "id": 0,
+                    "providerId": 999979,
+                    "typeId": 5,
+                    "uploadedDate": null,
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=1024x768"
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=450x450"
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=80x60"
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//pix8.agoda.net/geo/poi/128475/2_128475_02.jpg?ca=6&ce=1&s=160x120"
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [
+                  {
+                    "snippetId": 1774936999000206551,
+                    "countryCode": "JP",
+                    "countryId": 3,
+                    "countryName": "Japan",
+                    "date": "2026-03-29T07:43:00.000+07:00",
+                    "demographicId": 3,
+                    "demographicName": "Solo traveler",
+                    "reviewer": "KEN",
+                    "reviewRating": 10.0,
+                    "snippet": "The room is wide enough, and the staff were all hospitable.",
+                    "topics": null
+                  },
+                  {
+                    "snippetId": 1774936999000206550,
+                    "countryCode": "JP",
+                    "countryId": 3,
+                    "countryName": "Japan",
+                    "date": "2026-03-29T07:43:00.000+07:00",
+                    "demographicId": 3,
+                    "demographicName": "Solo traveler",
+                    "reviewer": "KEN",
+                    "reviewRating": 10.0,
+                    "snippet": "Great stay",
+                    "topics": null
+                  }
+                ],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": {
+                    "maxScore": 10,
+                    "reviewCount": 10,
+                    "score": 8.3
+                  },
+                  "cumulativeForHost": {
+                    "reviewCount": 0
+                  }
+                },
+                "providerReviewScore": [
+                  {
+                    "isDefault": true,
+                    "providerId": 332,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 6,
+                      "score": 7.9
+                    },
+                    "demographics": {
+                      "allGuest": {
+                        "id": 0,
+                        "scoreDistribution": [
+                          {
+                            "id": "exceptional",
+                            "reviewCount": 2
+                          },
+                          {
+                            "id": "excellent",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "very_good",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "good",
+                            "reviewCount": 1
+                          },
+                          {
+                            "id": "below_expectation",
+                            "reviewCount": 1
+                          }
+                        ],
+                        "reviewCount": 6,
+                        "grades": [
+                          {
+                            "id": "overall",
+                            "score": 7.9,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "cleanliness",
+                            "score": 8.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "facilities",
+                            "score": 7.6,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "location",
+                            "score": 7.6,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "staffPerformance",
+                            "score": 8.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "valueForMoney",
+                            "score": 7.6,
+                            "cityAverage": null,
+                            "subGrades": null
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "isDefault": false,
+                    "providerId": 3038,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 4,
+                      "score": 8.9
+                    },
+                    "demographics": null
+                  }
+                ],
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 83497656,
+                "displayName": "Utama Kuta Alam Guest House",
+                "defaultName": "Utama Kuta Alam Guest House",
+                "localeName": "Utama Kuta Alam Guest House",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 32,
+                  "accommodationName": "Guesthouse/bed and breakfast"
+                },
+                "propertyType": "Hotel",
+                "address": {
+                  "address1": "Jl. Perkasa Alam No.17, Kuta Alam, Kec. Kuta Alam",
+                  "address2": "Utama Kuta Alam",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 57556,
+                    "name": "Banda Aceh"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "23121",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": false,
+                "geoInfo": {
+                  "latitude": 5.557025,
+                  "longitude": 95.32794
+                },
+                "rating": 5.0,
+                "isInfantCotAvailable": false
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "property-facility",
+                    "id": 17,
+                    "images": [],
+                    "name": "Airport transfer",
+                    "symbol": "airport-transfer",
+                    "tooltip": "Airport transfer available! Additional charges may apply. To request, check the box on the booking form just before the payment page."
+                  },
+                  {
+                    "category": "room-facility",
+                    "id": 43,
+                    "images": [],
+                    "name": "Balcony/terrace",
+                    "symbol": "balcony-terrace",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 83,
+                    "images": [],
+                    "name": "Smoking area",
+                    "symbol": "smoking-area",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 80,
+                    "images": [],
+                    "name": "Car park",
+                    "symbol": "car-park",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": {
+                  "title": "210 meters from city center"
+                },
+                "locationHighlights": [
+                  {
+                    "distanceKm": 0.21,
+                    "highlightType": "city-center",
+                    "message": "210 meters from city center"
+                  }
+                ],
+                "locations": [
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-culture",
+                    "name": "Local Culture",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-sightseeing",
+                    "name": "Sights and Monuments",
+                    "images": []
+                  },
+                  {
+                    "tooltip": null,
+                    "symbol": "pin-religious",
+                    "name": "Religious Places and Icons",
+                    "images": []
+                  }
+                ],
+                "atfPropertyHighlights": [
+                  {
+                    "id": 116,
+                    "name": "Front desk [24-hour]",
+                    "symbol": "door.svg",
+                    "icon": null,
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Check-in/Out"
+                  },
+                  {
+                    "id": 17,
+                    "name": "Airport transfer",
+                    "symbol": "transfer.svg",
+                    "icon": null,
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": "Airport transfer available! Additional charges may apply. To request, check the box on the booking form just before the payment page.",
+                    "topicName": "Airport Access"
+                  },
+                  {
+                    "id": 43,
+                    "name": "Balcony/terrace",
+                    "symbol": "like.svg",
+                    "icon": "fill.facility.balcony",
+                    "category": "room-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 83,
+                    "name": "Smoking area",
+                    "symbol": "like.svg",
+                    "icon": "fill.facility.smoke",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 80,
+                    "name": "Car park",
+                    "symbol": "like.svg",
+                    "icon": "fill.transportation.car-park",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": null,
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.17,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5555191,
+                      "longitude": 95.3276543,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004006,
+                    "name": "Posyandu KARTIKA",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.27,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5564695,
+                      "longitude": 95.3302827,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003863,
+                    "name": "Pante Pirak Beurawe",
+                    "typeId": 48,
+                    "typeName": "Supermarkets",
+                    "landMarkGroup": {
+                      "name": "Shopping",
+                      "sortOrder": 3
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.27,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.558895,
+                      "longitude": 95.32950181321593,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003968,
+                    "name": "Klinik Rasi",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.42,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.554206150000001,
+                      "longitude": 95.32543717975142,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003929,
+                    "name": "RS Kesdam Iskandar Muda",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.58,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.56211815,
+                      "longitude": 95.32703175,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004010,
+                    "name": "Posyandu Putik Meulu",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.58,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.562245649999999,
+                      "longitude": 95.32776634577127,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004000,
+                    "name": "Klinik Produktivitas",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.61,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5524885,
+                      "longitude": 95.33097639708936,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2003925,
+                    "name": "Klinik Pengobatan Sehat",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.64,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.55211265,
+                      "longitude": 95.3309020744197,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004045,
+                    "name": "apotek mustajab",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.66,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.551876650000001,
+                      "longitude": 95.33090050807844,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004046,
+                    "name": "Apotik ayu ningsih",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.68,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.551705200000001,
+                      "longitude": 95.33089691732187,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004011,
+                    "name": "Klinik Onkologi",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.27,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5564695,
+                      "longitude": 95.3302827,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Pante Pirak Beurawe",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.74,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5548767,
+                      "longitude": 95.3215674,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Pante Pirak Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 0.77,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.5508117,
+                      "longitude": 95.3309552,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": null,
+                    "name": "Marsya Swalayan",
+                    "typeId": 48,
+                    "typeName": "Supermarkets"
+                  }
+                ],
+                "popularLandmarkNumber": 2,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 1,
+                    "name": "Check-in/Check-out",
+                    "usefulInfo": [
+                      {
+                        "id": 45,
+                        "name": "Check-in until",
+                        "description": "22:00"
+                      }
+                    ]
+                  },
+                  {
+                    "id": 4,
+                    "name": "The property",
+                    "usefulInfo": [
+                      {
+                        "id": 28,
+                        "name": "Number of rooms ",
+                        "description": "1"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": true
+                },
+                "description": {
+                  "short": "Conveniently situated in the Banda Aceh part of Aceh, this property puts you close to attractions and interesting dining options. Don't leave before paying a visit to the famous Sultan Iskandar Muda International Airport.  This 5-star property is packed with in-house facilities to improve the quality and joy of your stay."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": null,
+                  "minAge": [],
+                  "adult": [],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "childAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": false
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "English",
+                        "featureNameLocalizationList": null,
+                        "id": 151,
+                        "order": 1,
+                        "symbol": "flag-gb",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Indonesian",
+                        "featureNameLocalizationList": null,
+                        "id": 169,
+                        "order": 21,
+                        "symbol": "flag-id",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Malay",
+                        "featureNameLocalizationList": null,
+                        "id": 174,
+                        "order": 29,
+                        "symbol": "flag-my",
+                        "images": []
+                      }
+                    ],
+                    "id": 12,
+                    "name": "Languages spoken",
+                    "order": 1,
+                    "symbol": "global"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Free Wi-Fi in all rooms!",
+                        "featureNameLocalizationList": null,
+                        "id": 109,
+                        "order": 38,
+                        "symbol": "free-wifi-in-all-rooms",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Internet",
+                        "featureNameLocalizationList": null,
+                        "id": 90,
+                        "order": 0,
+                        "symbol": "internet",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Internet services",
+                        "featureNameLocalizationList": null,
+                        "id": 2578,
+                        "order": 264,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Wi-Fi in public areas",
+                        "featureNameLocalizationList": null,
+                        "id": 79,
+                        "order": 122,
+                        "symbol": "wifi-in-public-areas",
+                        "images": []
+                      }
+                    ],
+                    "id": 41,
+                    "name": "Internet access",
+                    "order": 3,
+                    "symbol": "wifi"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Garden",
+                        "featureNameLocalizationList": null,
+                        "id": 68,
+                        "order": 24,
+                        "symbol": "garden",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Tours",
+                        "featureNameLocalizationList": null,
+                        "id": 18,
+                        "order": 133,
+                        "symbol": "tours",
+                        "images": []
+                      }
+                    ],
+                    "id": 40,
+                    "name": "Things to do, ways to relax",
+                    "order": 5,
+                    "symbol": "private-pool"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Anti-viral cleaning products",
+                        "featureNameLocalizationList": null,
+                        "id": 2517,
+                        "order": 236,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Body thermometer",
+                        "featureNameLocalizationList": null,
+                        "id": 2367,
+                        "order": 84,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Cashless payment service",
+                        "featureNameLocalizationList": null,
+                        "id": 2513,
+                        "order": 232,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Doctor/nurse on call",
+                        "featureNameLocalizationList": null,
+                        "id": 2371,
+                        "order": 89,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "First aid kit",
+                        "featureNameLocalizationList": null,
+                        "id": 2373,
+                        "order": 23,
+                        "symbol": "first-aid-kit",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Free face masks",
+                        "featureNameLocalizationList": null,
+                        "id": 2375,
+                        "order": 24,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Guest rooms seal after sanitization",
+                        "featureNameLocalizationList": null,
+                        "id": 2519,
+                        "order": 238,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Hand sanitizer",
+                        "featureNameLocalizationList": null,
+                        "id": 2376,
+                        "order": 25,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Hot water linen and laundry washing",
+                        "featureNameLocalizationList": null,
+                        "id": 2511,
+                        "order": 230,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Physical distancing of at least 1 meter",
+                        "featureNameLocalizationList": null,
+                        "id": 2398,
+                        "order": 20,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Professional-grade sanitizing services",
+                        "featureNameLocalizationList": null,
+                        "id": 2520,
+                        "order": 239,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Protective screens in common areas",
+                        "featureNameLocalizationList": null,
+                        "id": 2396,
+                        "order": 19,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Room sanitization opt-out available",
+                        "featureNameLocalizationList": null,
+                        "id": 2521,
+                        "order": 240,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Rooms sanitized between stays",
+                        "featureNameLocalizationList": null,
+                        "id": 2518,
+                        "order": 237,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Shared stationery removed",
+                        "featureNameLocalizationList": null,
+                        "id": 2512,
+                        "order": 231,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Staff trained in safety protocol",
+                        "featureNameLocalizationList": null,
+                        "id": 2381,
+                        "order": 30,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Temperature check for guests and staff",
+                        "featureNameLocalizationList": null,
+                        "id": 2380,
+                        "order": 95,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 57,
+                    "name": "Cleanliness and safety",
+                    "order": 6,
+                    "symbol": "cleaning-products"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Room service",
+                        "featureNameLocalizationList": null,
+                        "id": 12,
+                        "order": 125,
+                        "symbol": "room-service",
+                        "images": []
+                      }
+                    ],
+                    "id": 44,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 7,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Air conditioning in public area",
+                        "featureNameLocalizationList": null,
+                        "id": 2575,
+                        "order": 261,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Concierge",
+                        "featureNameLocalizationList": null,
+                        "id": 23,
+                        "order": 137,
+                        "symbol": "concierge",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Contactless check-in/out",
+                        "featureNameLocalizationList": null,
+                        "id": 2368,
+                        "order": 85,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Convenience store",
+                        "featureNameLocalizationList": null,
+                        "id": 239,
+                        "order": 104,
+                        "symbol": "shops",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Daily housekeeping",
+                        "featureNameLocalizationList": null,
+                        "id": 240,
+                        "order": 105,
+                        "symbol": "daily-housekeeping",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Invoice provided",
+                        "featureNameLocalizationList": null,
+                        "id": 2574,
+                        "order": 260,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Laundry service",
+                        "featureNameLocalizationList": null,
+                        "id": 8,
+                        "order": 134,
+                        "symbol": "laundry-service",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Safety deposit boxes",
+                        "featureNameLocalizationList": null,
+                        "id": 13,
+                        "order": 142,
+                        "symbol": "lockers",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Smoking area",
+                        "featureNameLocalizationList": null,
+                        "id": 83,
+                        "order": 150,
+                        "symbol": "smoking-area",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Terrace",
+                        "featureNameLocalizationList": null,
+                        "id": 2572,
+                        "order": 258,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 38,
+                    "name": "Services and conveniences",
+                    "order": 8,
+                    "symbol": "room-service"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Family/child friendly",
+                        "featureNameLocalizationList": null,
+                        "id": 89,
+                        "order": 0,
+                        "symbol": "family-room",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Family room",
+                        "featureNameLocalizationList": null,
+                        "id": 81,
+                        "order": 128,
+                        "symbol": "family-room",
+                        "images": []
+                      }
+                    ],
+                    "id": 43,
+                    "name": "For the kids",
+                    "order": 9,
+                    "symbol": "children-playground"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "CCTV in common areas",
+                        "featureNameLocalizationList": null,
+                        "id": 2540,
+                        "order": 256,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "CCTV outside property",
+                        "featureNameLocalizationList": null,
+                        "id": 2539,
+                        "order": 255,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Check-in/out [express]",
+                        "featureNameLocalizationList": null,
+                        "id": 119,
+                        "order": 120,
+                        "symbol": "express-check-in-check-out",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Check-in/out [private]",
+                        "featureNameLocalizationList": null,
+                        "id": 251,
+                        "order": 113,
+                        "symbol": "express-check-in-check-out",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Fire extinguisher",
+                        "featureNameLocalizationList": null,
+                        "id": 2573,
+                        "order": 259,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Front desk [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 116,
+                        "order": 119,
+                        "symbol": "24hour-frontdesk",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Non-smoking rooms",
+                        "featureNameLocalizationList": null,
+                        "id": 2577,
+                        "order": 263,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Pets allowed",
+                        "featureNameLocalizationList": null,
+                        "id": 24,
+                        "order": 141,
+                        "symbol": "pets-allowed",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Safety/security feature",
+                        "featureNameLocalizationList": null,
+                        "id": 2530,
+                        "order": 246,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Security [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 235,
+                        "order": 100,
+                        "symbol": "24hour-security",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Smoke alarms",
+                        "featureNameLocalizationList": null,
+                        "id": 2541,
+                        "order": 257,
+                        "symbol": "confirmation-instant",
+                        "images": []
+                      }
+                    ],
+                    "id": 37,
+                    "name": "Access",
+                    "order": 10,
+                    "symbol": "number-of-rooms"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Airport transfer",
+                        "featureNameLocalizationList": null,
+                        "id": 17,
+                        "order": 126,
+                        "symbol": "airport-transfer",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Car park [free of charge]",
+                        "featureNameLocalizationList": null,
+                        "id": 357,
+                        "order": 166,
+                        "symbol": "car-park-free-charge",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Rental car ",
+                        "featureNameLocalizationList": null,
+                        "id": 123,
+                        "order": 130,
+                        "symbol": "car-hire",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Shuttle service",
+                        "featureNameLocalizationList": null,
+                        "id": 97,
+                        "order": 149,
+                        "symbol": "shuttle-service",
+                        "images": []
+                      }
+                    ],
+                    "id": 39,
+                    "name": "Getting around",
+                    "order": 11,
+                    "symbol": "car-hire"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Balcony/terrace",
+                        "featureNameLocalizationList": null,
+                        "id": 43,
+                        "order": 119,
+                        "symbol": "balcony-terrace",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Desk",
+                        "featureNameLocalizationList": null,
+                        "id": 29,
+                        "order": 12,
+                        "symbol": "desk",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Hair dryer",
+                        "featureNameLocalizationList": null,
+                        "id": 30,
+                        "order": 147,
+                        "symbol": "hair-dryer ",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Shower",
+                        "featureNameLocalizationList": null,
+                        "id": 38,
+                        "order": 144,
+                        "symbol": "shower",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Smoke detector",
+                        "featureNameLocalizationList": null,
+                        "id": 277,
+                        "order": 97,
+                        "symbol": "smoke-detector",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Soundproofing",
+                        "featureNameLocalizationList": null,
+                        "id": 144,
+                        "order": 121,
+                        "symbol": "soundproofing",
+                        "images": null
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Towels",
+                        "featureNameLocalizationList": null,
+                        "id": 230,
+                        "order": 60,
+                        "symbol": "towels",
+                        "images": null
+                      }
+                    ],
+                    "id": 66094,
+                    "name": "Available in all rooms",
+                    "order": 22,
+                    "symbol": "room-promotion"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 2512,
+                    "name": null
+                  },
+                  {
+                    "id": 2381,
+                    "name": null
+                  },
+                  {
+                    "id": 2380,
+                    "name": null
+                  },
+                  {
+                    "id": 2575,
+                    "name": null
+                  },
+                  {
+                    "id": 174,
+                    "name": null
+                  },
+                  {
+                    "id": 24,
+                    "name": null
+                  },
+                  {
+                    "id": 357,
+                    "name": null
+                  },
+                  {
+                    "id": 2373,
+                    "name": null
+                  },
+                  {
+                    "id": 2520,
+                    "name": null
+                  },
+                  {
+                    "id": 2540,
+                    "name": null
+                  },
+                  {
+                    "id": 2367,
+                    "name": null
+                  },
+                  {
+                    "id": 2530,
+                    "name": null
+                  },
+                  {
+                    "id": 2371,
+                    "name": null
+                  },
+                  {
+                    "id": 89,
+                    "name": null
+                  },
+                  {
+                    "id": 116,
+                    "name": null
+                  },
+                  {
+                    "id": 2574,
+                    "name": null
+                  },
+                  {
+                    "id": 2541,
+                    "name": null
+                  },
+                  {
+                    "id": 2396,
+                    "name": null
+                  },
+                  {
+                    "id": 97,
+                    "name": null
+                  },
+                  {
+                    "id": 2577,
+                    "name": null
+                  },
+                  {
+                    "id": 169,
+                    "name": null
+                  },
+                  {
+                    "id": 109,
+                    "name": "Free Wi-Fi in all rooms!"
+                  },
+                  {
+                    "id": 2519,
+                    "name": null
+                  },
+                  {
+                    "id": 13,
+                    "name": null
+                  },
+                  {
+                    "id": 2368,
+                    "name": null
+                  },
+                  {
+                    "id": 17,
+                    "name": null
+                  },
+                  {
+                    "id": 2376,
+                    "name": null
+                  },
+                  {
+                    "id": 2398,
+                    "name": null
+                  },
+                  {
+                    "id": 12,
+                    "name": null
+                  },
+                  {
+                    "id": 2573,
+                    "name": null
+                  },
+                  {
+                    "id": 2521,
+                    "name": null
+                  },
+                  {
+                    "id": 81,
+                    "name": null
+                  },
+                  {
+                    "id": 240,
+                    "name": null
+                  },
+                  {
+                    "id": 251,
+                    "name": null
+                  },
+                  {
+                    "id": 2578,
+                    "name": null
+                  },
+                  {
+                    "id": 80,
+                    "name": null
+                  },
+                  {
+                    "id": 123,
+                    "name": null
+                  },
+                  {
+                    "id": 2513,
+                    "name": null
+                  },
+                  {
+                    "id": 18,
+                    "name": null
+                  },
+                  {
+                    "id": 2375,
+                    "name": null
+                  },
+                  {
+                    "id": 2518,
+                    "name": null
+                  },
+                  {
+                    "id": 2511,
+                    "name": null
+                  },
+                  {
+                    "id": 23,
+                    "name": null
+                  },
+                  {
+                    "id": 8,
+                    "name": null
+                  },
+                  {
+                    "id": 119,
+                    "name": null
+                  },
+                  {
+                    "id": 235,
+                    "name": null
+                  },
+                  {
+                    "id": 151,
+                    "name": null
+                  },
+                  {
+                    "id": 2517,
+                    "name": null
+                  },
+                  {
+                    "id": 239,
+                    "name": null
+                  },
+                  {
+                    "id": 79,
+                    "name": null
+                  },
+                  {
+                    "id": 2572,
+                    "name": null
+                  },
+                  {
+                    "id": 2539,
+                    "name": null
+                  },
+                  {
+                    "id": 68,
+                    "name": null
+                  },
+                  {
+                    "id": 90,
+                    "name": null
+                  },
+                  {
+                    "id": 83,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": null
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 109,
+                    "facilityName": "Free Wi-Fi ",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 357,
+                    "facilityName": "Free parking",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 116,
+                    "facilityName": "Front desk [24-hour]",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 17,
+                    "facilityName": "Airport transfer",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 81,
+                    "facilityName": "Family room",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 24,
+                    "facilityName": "Pets allowed",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2572,
+                    "facilityName": "Balcony/terrace",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 68,
+                    "facilityName": "Garden",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "contentTopics": {
+                "topics": [
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/796480032.jpg?k=e54b18ff9e532d59c0d9c4c341bbd4c69c9dc46e57a7f19e8b8193fee39fb243&o=",
+                        "imageId": 1194521439,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//83497656/0/d68f8958878709ad3fe71197563f647e.jpg?ce=3&s=1024x768",
+                        "imageId": 186331759,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//83497656/1297660140/c2c366365c2ea7f7c9629f35110eec24.jpg?ce=3&s=1024x768",
+                        "imageId": 186331197,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//83497656/1297660145/fd357881e70fd2be82f52ce6f84f726b.jpg?ce=3&s=1024x768",
+                        "imageId": 194901563,
+                        "imageSource": "ycs"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Room Comfort"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 0.0,
+                      "neutral": 0.0,
+                      "positive": 100.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "General Services"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 100.0,
+                      "neutral": 0.0,
+                      "positive": 0.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Airport Access"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 0.0,
+                      "neutral": 0.0,
+                      "positive": 100.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Room Cleanliness"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/796497618.jpg?k=c876203d91e9cd26dc391a820e2f44fc2b664017a4feaf8dacbcafb29a30fffc&o=",
+                        "imageId": 1194520053,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://pix8.agoda.net/hotelImages//83497656/1358305495/c14937c4e8160525823e8a46cbb1e772.jpg?ce=3&s=1024x768",
+                        "imageId": 194915473,
+                        "imageSource": "ycs"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/796498008.jpg?k=d7e0286c7b671609130c106b684f47191d864d8af9412e672b090fb119c567d7&o=",
+                        "imageId": 1252184880,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/796483361.jpg?k=5ea9adc4fcf802d1e51058f0476538ef6c765e1a349b91bb46aeb7ebb60abe86&o=",
+                        "imageId": 1194521005,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Bathroom"
+                  }
+                ]
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 7,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 18,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 8,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 83497656,
+      "hotelName": "Utama Kuta Alam Guest House",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "combinedReview": {
+        "isShowCombinedRating": true,
+        "score": {
+          "maxScore": 10,
+          "providerId": -1,
+          "reviewCommentsCount": 3,
+          "reviewCount": 10,
+          "score": 8.3,
+          "demographic": "All guests",
+          "formattedReviewCount": "10",
+          "formattedScore": "8.3",
+          "scoreText": "Excellent"
+        },
+        "providers": [
+          {
+            "providerId": 332,
+            "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+            "logoName": "agoda",
+            "logoAltText": "Agoda"
+          },
+          {
+            "providerId": 3038,
+            "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+            "logoName": "booking",
+            "logoAltText": "Booking.com"
+          }
+        ],
+        "grades": [
+          {
+            "id": "roomComfort",
+            "name": "Room comfort and quality",
+            "score": 8.8,
+            "scoreText": "Excellent",
+            "formattedScore": "8.8"
+          },
+          {
+            "id": "cleanliness",
+            "name": "Cleanliness",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "staffPerformance",
+            "name": "Service",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "valueForMoney",
+            "name": "Value for money",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "overall",
+            "name": "",
+            "score": 8.2,
+            "scoreText": "Excellent",
+            "formattedScore": "8.2"
+          },
+          {
+            "id": "facilities",
+            "name": "Facilities",
+            "score": 7.8,
+            "scoreText": "Very good",
+            "formattedScore": "7.8"
+          },
+          {
+            "id": "location",
+            "name": "Location",
+            "score": 7.8,
+            "scoreText": "Very good",
+            "formattedScore": "7.8"
+          }
+        ]
+      },
+      "commentList": {
+        "reviewPageUrl": "/utama-kuta-alam-hotel/reviews/banda-aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 83497656,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": true,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1117514010,
+            "providerId": 332,
+            "rating": 2.0,
+            "checkInDateMonthAndYear": "May 2026",
+            "encryptedReviewData": "n994SrIsoo+hFbjR6cLmHQ==",
+            "formattedRating": "2.0",
+            "formattedReviewDate": "May 13, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Review score",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "Very bad, I already ordered through the app and when I contacted via WhatsApp or came directly there was no response, don't stay here unless you want to regret it.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Irresponsible",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2026-05-11T00:00:00+07:00",
+            "checkOutDate": "2026-05-12T00:00:00+07:00",
+            "reviewDate": "2026-05-13T08:32:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Kevinaura",
+              "flagName": "id",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "Deluxe Single",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Tidak bertanggung jawab",
+            "originalComment": "Sangat buruk saya sudah memesan melalui aplikasi ketika saya hubungi via WA maupun datang secara langsung tidak ada tanggapan, jangan menginap disini sebelum anda menyesal",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 11,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1114144816,
+            "providerId": 3038,
+            "rating": 9.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "PS3YrMlhmRtGlBa6Eyi7Mg==",
+            "formattedRating": "9.0",
+            "formattedReviewDate": "April 21, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "ru",
+            "reviewComments": "",
+            "reviewNegatives": "Не помешала бы звукоизоляция . Как внутри здания , так и снаружи . И воду погорячее можно организовать в душе .",
+            "reviewPositives": "Соотношение цены и качества прекрасное . Рядом много кафе . В здании чисто , красиво , комфортно, просторно . Место , где находится отель , рядом с центром города.",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "Мне понравилось",
+            "translateSource": "ru",
+            "translateTarget": "en",
+            "reviewDate": "2026-04-21T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "Даниил",
+              "flagName": "",
+              "reviewGroupName": "Business traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 1,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 6,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1101851255,
+            "providerId": 332,
+            "rating": 6.8,
+            "checkInDateMonthAndYear": "March 2026",
+            "encryptedReviewData": "o7mh1htFP0yNkYQlcW+I+g==",
+            "formattedRating": "6.8",
+            "formattedReviewDate": "April 02, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Good",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "ja",
+            "reviewComments": "The room is clean, and the staff is friendly. There is a shared refrigerator where you can enjoy delicious drinks and fruits. However, there was no staff around during the day, and I couldn't call a taxi. I asked a kind local person nearby for help, and I successfully made it to the airport.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Best cost performance.",
+            "translateSource": "ja",
+            "translateTarget": "en",
+            "checkInDate": "2026-03-26T00:00:00+07:00",
+            "checkOutDate": "2026-03-28T00:00:00+07:00",
+            "reviewDate": "2026-04-02T12:47:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Japan",
+              "displayMemberName": "TAKASHI",
+              "flagName": "jp",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "Deluxe Single",
+              "countryId": 3,
+              "lengthOfStay": 2,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "コスパ最高",
+            "originalComment": "部屋もきれいだし、スタッフも親切。共有の冷蔵庫もあり飲料・果物が美味しくいただける。ただ、昼にスカッフがおらずタクシーが呼べなかった。ちかくの親切なアバさんにお願いして無事空港にたどりついた。",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1073600460,
+            "providerId": 3038,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "mn0Khpfx1Ck6RhBxPAcrGA==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "January 27, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "It was all fine but the prayer from the mosque is really loud and woke me up.",
+            "reviewPositives": "Very friendly owner and very nice location.",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "I liked it",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-01-27T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "Lasse",
+              "flagName": "",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1096331668,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "March 2026",
+            "encryptedReviewData": "0b5xrTsV+4ml2l7n0Q/lcQ==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "March 29, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "The room is wide enough, and the staff were all hospitable. ",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Great stay ",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2026-03-24T00:00:00+07:00",
+            "checkOutDate": "2026-03-26T00:00:00+07:00",
+            "reviewDate": "2026-03-29T07:43:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Japan",
+              "displayMemberName": "KEN",
+              "flagName": "jp",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "Deluxe Single",
+              "countryId": 3,
+              "lengthOfStay": 2,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1066891252,
+            "providerId": 3038,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "IMSwoMoUnijF2ogkI2pVMg==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "January 10, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "",
+            "reviewPositives": "I loved this property so much! The location is perfect with many food choices, and coffee shops nearby. \n\nThe guest house is quiet, clean and always smells so fresh. \nThe best thing for me was the host Hadian he’s really the best host I’ve ever had we spent so much time together exploring the city and even his family treated me very well. \n\nThe WiFi was fast and always working which is good for me as I used it for business.\n\nI will definitely book this guest house again and stay for much longer next time.",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "The Best Stay I’ve Ever Had!",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-01-10T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "lewis",
+              "flagName": "",
+              "reviewGroupName": "Business traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 1,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": true,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 1,
+                    "key": "1",
+                    "name": "English",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 6,
+                    "key": "6",
+                    "name": "日本語",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 1297660145,
+                    "key": "1297660145",
+                    "name": "Deluxe Single",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 3,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "providerId": 3038,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": false,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": true,
+            "totalIndex": 3
+          },
+          {
+            "id": 3038,
+            "isDefaultProvider": false,
+            "totalIndex": 3
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/utama-kuta-alam-hotel/reviews/banda-aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 83497656,
+        "hotelName": "Utama Kuta Alam Guest House",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 332,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 7.9,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 6,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "7.9",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "8.0",
+              "text": "Excellent cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.0-8",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.6,
+                "formattedScore": "7.6",
+                "scale": 10.0,
+                "percentage": 76.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "76.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.6-25",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 7.6,
+                "formattedScore": "7.6",
+                "scale": 10.0,
+                "percentage": 76.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "76.0",
+                "cityAverage": 0.0,
+                "uid": "location-7.6-27",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 7.6,
+                "formattedScore": "7.6",
+                "scale": 10.0,
+                "percentage": 76.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "76.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-7.6-10",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 2
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 7.2,
+            "maxScore": 10.0,
+            "id": 3,
+            "count": 4,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "7.2",
+            "name": "Solo travelers",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "7.5",
+              "text": "Very good cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.5-25",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "location-7.0-11",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-7.5-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-7.0-26",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 2
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 10.0,
+            "maxScore": 10.0,
+            "id": 6,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "10.0",
+            "name": "Groups",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-10.0-16",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-10.0-23",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-21",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-17",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-2",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 8.9,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 4,
+            "providerId": 3038,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "8.9",
+            "name": "All guests",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.4-25",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.1-15",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.1-27",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-8.8-10",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.4-5",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-21",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 8.9,
+            "maxScore": 10.0,
+            "id": 3,
+            "count": 4,
+            "providerId": 3038,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "8.9",
+            "name": "Solo travelers",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.4-4",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.1-26",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.1-19",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-8.8-16",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.4-16",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-17",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 6,
+            "tabName": "Agoda Reviews (6)",
+            "ratingViaProvider": "Rating via Agoda"
+          },
+          {
+            "providerId": 3038,
+            "reviewCount": 4,
+            "tabName": "Booking.com Reviews (4)",
+            "ratingViaProvider": "Rating via Booking.com"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "reviewTagsV2": [
+          {
+            "tagId": 36,
+            "tagName": "Service",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 2,
+            "tagName": "Airport access",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          },
+          {
+            "tagId": 13,
+            "tagName": "Cleanliness",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          }
+        ],
+        "hasReviewTagsV2": true
+      }
+    },
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 83497656,
+      "hotelName": "Utama Kuta Alam Guest House",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "combinedReview": {
+        "isShowCombinedRating": true,
+        "score": {
+          "maxScore": 10,
+          "providerId": -1,
+          "reviewCommentsCount": 3,
+          "reviewCount": 10,
+          "score": 8.3,
+          "demographic": "All guests",
+          "formattedReviewCount": "10",
+          "formattedScore": "8.3",
+          "scoreText": "Excellent"
+        },
+        "providers": [
+          {
+            "providerId": 332,
+            "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+            "logoName": "agoda",
+            "logoAltText": "Agoda"
+          },
+          {
+            "providerId": 3038,
+            "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+            "logoName": "booking",
+            "logoAltText": "Booking.com"
+          }
+        ],
+        "grades": [
+          {
+            "id": "roomComfort",
+            "name": "Room comfort and quality",
+            "score": 8.8,
+            "scoreText": "Excellent",
+            "formattedScore": "8.8"
+          },
+          {
+            "id": "cleanliness",
+            "name": "Cleanliness",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "staffPerformance",
+            "name": "Service",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "valueForMoney",
+            "name": "Value for money",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "overall",
+            "name": "",
+            "score": 8.2,
+            "scoreText": "Excellent",
+            "formattedScore": "8.2"
+          },
+          {
+            "id": "facilities",
+            "name": "Facilities",
+            "score": 7.8,
+            "scoreText": "Very good",
+            "formattedScore": "7.8"
+          },
+          {
+            "id": "location",
+            "name": "Location",
+            "score": 7.8,
+            "scoreText": "Very good",
+            "formattedScore": "7.8"
+          }
+        ]
+      },
+      "commentList": {
+        "reviewPageUrl": "/utama-kuta-alam-hotel/reviews/banda-aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 83497656,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": true,
+        "isCrawlablePage": true,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1117514010,
+            "providerId": 332,
+            "rating": 2.0,
+            "checkInDateMonthAndYear": "May 2026",
+            "encryptedReviewData": "n994SrIsoo+hFbjR6cLmHQ==",
+            "formattedRating": "2.0",
+            "formattedReviewDate": "May 13, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Review score",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "Very bad, I already ordered through the app and when I contacted via WhatsApp or came directly there was no response, don't stay here unless you want to regret it.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Irresponsible",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2026-05-11T00:00:00+07:00",
+            "checkOutDate": "2026-05-12T00:00:00+07:00",
+            "reviewDate": "2026-05-13T08:32:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Kevinaura",
+              "flagName": "id",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "Deluxe Single",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Tidak bertanggung jawab",
+            "originalComment": "Sangat buruk saya sudah memesan melalui aplikasi ketika saya hubungi via WA maupun datang secara langsung tidak ada tanggapan, jangan menginap disini sebelum anda menyesal",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 11,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1114144816,
+            "providerId": 3038,
+            "rating": 9.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "PS3YrMlhmRtGlBa6Eyi7Mg==",
+            "formattedRating": "9.0",
+            "formattedReviewDate": "April 21, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "ru",
+            "reviewComments": "",
+            "reviewNegatives": "Не помешала бы звукоизоляция . Как внутри здания , так и снаружи . И воду погорячее можно организовать в душе .",
+            "reviewPositives": "Соотношение цены и качества прекрасное . Рядом много кафе . В здании чисто , красиво , комфортно, просторно . Место , где находится отель , рядом с центром города.",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "Мне понравилось",
+            "translateSource": "ru",
+            "translateTarget": "en",
+            "reviewDate": "2026-04-21T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "Даниил",
+              "flagName": "",
+              "reviewGroupName": "Business traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 1,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 6,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1101851255,
+            "providerId": 332,
+            "rating": 6.8,
+            "checkInDateMonthAndYear": "March 2026",
+            "encryptedReviewData": "o7mh1htFP0yNkYQlcW+I+g==",
+            "formattedRating": "6.8",
+            "formattedReviewDate": "April 02, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Good",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "ja",
+            "reviewComments": "The room is clean, and the staff is friendly. There is a shared refrigerator where you can enjoy delicious drinks and fruits. However, there was no staff around during the day, and I couldn't call a taxi. I asked a kind local person nearby for help, and I successfully made it to the airport.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Best cost performance.",
+            "translateSource": "ja",
+            "translateTarget": "en",
+            "checkInDate": "2026-03-26T00:00:00+07:00",
+            "checkOutDate": "2026-03-28T00:00:00+07:00",
+            "reviewDate": "2026-04-02T12:47:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Japan",
+              "displayMemberName": "TAKASHI",
+              "flagName": "jp",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "Deluxe Single",
+              "countryId": 3,
+              "lengthOfStay": 2,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "コスパ最高",
+            "originalComment": "部屋もきれいだし、スタッフも親切。共有の冷蔵庫もあり飲料・果物が美味しくいただける。ただ、昼にスカッフがおらずタクシーが呼べなかった。ちかくの親切なアバさんにお願いして無事空港にたどりついた。",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1073600460,
+            "providerId": 3038,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "mn0Khpfx1Ck6RhBxPAcrGA==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "January 27, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "It was all fine but the prayer from the mosque is really loud and woke me up.",
+            "reviewPositives": "Very friendly owner and very nice location.",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "I liked it",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-01-27T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "Lasse",
+              "flagName": "",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1096331668,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "March 2026",
+            "encryptedReviewData": "0b5xrTsV+4ml2l7n0Q/lcQ==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "March 29, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "The room is wide enough, and the staff were all hospitable. ",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Great stay ",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2026-03-24T00:00:00+07:00",
+            "checkOutDate": "2026-03-26T00:00:00+07:00",
+            "reviewDate": "2026-03-29T07:43:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Japan",
+              "displayMemberName": "KEN",
+              "flagName": "jp",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "Deluxe Single",
+              "countryId": 3,
+              "lengthOfStay": 2,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1066891252,
+            "providerId": 3038,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "IMSwoMoUnijF2ogkI2pVMg==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "January 10, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Utama Kuta Alam Guest House",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "",
+            "reviewPositives": "I loved this property so much! The location is perfect with many food choices, and coffee shops nearby. \n\nThe guest house is quiet, clean and always smells so fresh. \nThe best thing for me was the host Hadian he’s really the best host I’ve ever had we spent so much time together exploring the city and even his family treated me very well. \n\nThe WiFi was fast and always working which is good for me as I used it for business.\n\nI will definitely book this guest house again and stay for much longer next time.",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "The Best Stay I’ve Ever Had!",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-01-10T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "lewis",
+              "flagName": "",
+              "reviewGroupName": "Business traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 1,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": true,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 1,
+                    "key": "1",
+                    "name": "English",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 6,
+                    "key": "6",
+                    "name": "日本語",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 1297660145,
+                    "key": "1297660145",
+                    "name": "Deluxe Single",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 3,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "providerId": 3038,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": false,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": true,
+            "totalIndex": 3
+          },
+          {
+            "id": 3038,
+            "isDefaultProvider": false,
+            "totalIndex": 3
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/utama-kuta-alam-hotel/reviews/banda-aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 83497656,
+        "hotelName": "Utama Kuta Alam Guest House",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 332,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 7.9,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 6,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "7.9",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "8.0",
+              "text": "Excellent cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.0-15",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.6,
+                "formattedScore": "7.6",
+                "scale": 10.0,
+                "percentage": 76.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "76.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.6-3",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 7.6,
+                "formattedScore": "7.6",
+                "scale": 10.0,
+                "percentage": 76.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "76.0",
+                "cityAverage": 0.0,
+                "uid": "location-7.6-17",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.0-12",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 7.6,
+                "formattedScore": "7.6",
+                "scale": 10.0,
+                "percentage": 76.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "76.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-7.6-0",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 2
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 7.2,
+            "maxScore": 10.0,
+            "id": 3,
+            "count": 4,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "7.2",
+            "name": "Solo travelers",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "7.5",
+              "text": "Very good cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.5-1",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.0-4",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "location-7.0-27",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-7.5-29",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-7.0-24",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 2
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 10.0,
+            "maxScore": 10.0,
+            "id": 6,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "10.0",
+            "name": "Groups",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-10.0-23",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-10.0-29",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-24",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-27",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-17",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 8.9,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 4,
+            "providerId": 3038,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "8.9",
+            "name": "All guests",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.4-18",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.1-28",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.1-25",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-8.8-11",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.4-18",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-19",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 8.9,
+            "maxScore": 10.0,
+            "id": 3,
+            "count": 4,
+            "providerId": 3038,
+            "cityAverageText": "Average rating for 5 star properties in Aceh",
+            "formattedScore": "8.9",
+            "name": "Solo travelers",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.4-28",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.1-11",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.1,
+                "formattedScore": "8.1",
+                "scale": 10.0,
+                "percentage": 81.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "81.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.1-21",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-8.8-13",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.4,
+                "formattedScore": "9.4",
+                "scale": 10.0,
+                "percentage": 94.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "94.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.4-19",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-2",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 6,
+            "tabName": "Agoda Reviews (6)",
+            "ratingViaProvider": "Rating via Agoda"
+          },
+          {
+            "providerId": 3038,
+            "reviewCount": 4,
+            "tabName": "Booking.com Reviews (4)",
+            "ratingViaProvider": "Rating via Booking.com"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "reviewTagsV2": [
+          {
+            "tagId": 36,
+            "tagName": "Service",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 2,
+            "tagName": "Airport access",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          },
+          {
+            "tagId": 13,
+            "tagName": "Cleanliness",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          }
+        ],
+        "hasReviewTagsV2": true
+      }
+    }
+  ]
+}

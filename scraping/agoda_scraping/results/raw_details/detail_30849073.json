@@ -1,0 +1,3943 @@
+{
+  "propertyId": 30849073,
+  "name": "Pintu Waluh Homestay",
+  "propertyPage": "/pintu-waluh-homestay/hotel/all/aceh-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 30849073,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": {
+                "numberOfProperty": 176,
+                "metrics": [
+                  {
+                    "metricName": "rating_average_all_type",
+                    "rank": 80,
+                    "absoluteValue": 8.0
+                  },
+                  {
+                    "metricName": "hotel_no_of_facilities",
+                    "rank": 48,
+                    "absoluteValue": 5.0
+                  },
+                  {
+                    "metricName": "room_no_of_facilities",
+                    "rank": 40,
+                    "absoluteValue": 4.0
+                  }
+                ]
+              }
+            },
+            "contentDetail": {
+              "propertyId": 30849073,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 876477741,
+                    "providerId": 3038,
+                    "typeId": 6,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901001.jpg?k=2ab37c08b5c6d3280f0849c7aee97dd4043c92e46a606696769b4f922b69d5fd&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901001.jpg?k=2ab37c08b5c6d3280f0849c7aee97dd4043c92e46a606696769b4f922b69d5fd&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901001.jpg?k=2ab37c08b5c6d3280f0849c7aee97dd4043c92e46a606696769b4f922b69d5fd&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901001.jpg?k=2ab37c08b5c6d3280f0849c7aee97dd4043c92e46a606696769b4f922b69d5fd&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 876477645,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901019.jpg?k=c9e179380698b1a4beb2d459537d3ae01edea23396ccb550a4a874b624960dd2&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901019.jpg?k=c9e179380698b1a4beb2d459537d3ae01edea23396ccb550a4a874b624960dd2&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901019.jpg?k=c9e179380698b1a4beb2d459537d3ae01edea23396ccb550a4a874b624960dd2&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901019.jpg?k=c9e179380698b1a4beb2d459537d3ae01edea23396ccb550a4a874b624960dd2&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 876477642,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901027.jpg?k=2d252be01144aed86fb0e82e8d397da7259682cafffa344f379ed70b87c2847a&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901027.jpg?k=2d252be01144aed86fb0e82e8d397da7259682cafffa344f379ed70b87c2847a&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901027.jpg?k=2d252be01144aed86fb0e82e8d397da7259682cafffa344f379ed70b87c2847a&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901027.jpg?k=2d252be01144aed86fb0e82e8d397da7259682cafffa344f379ed70b87c2847a&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 876477641,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901023.jpg?k=8dd10f954704c856b1b565354fe558a5d43d71e9edae809033b3190d2e7711b9&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901023.jpg?k=8dd10f954704c856b1b565354fe558a5d43d71e9edae809033b3190d2e7711b9&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901023.jpg?k=8dd10f954704c856b1b565354fe558a5d43d71e9edae809033b3190d2e7711b9&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901023.jpg?k=8dd10f954704c856b1b565354fe558a5d43d71e9edae809033b3190d2e7711b9&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 876477644,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901050.jpg?k=e14054b106e014b26bb6d8783a96e34b5f93b31bbd244a081adb01c0d252c5a9&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901050.jpg?k=e14054b106e014b26bb6d8783a96e34b5f93b31bbd244a081adb01c0d252c5a9&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901050.jpg?k=e14054b106e014b26bb6d8783a96e34b5f93b31bbd244a081adb01c0d252c5a9&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901050.jpg?k=e14054b106e014b26bb6d8783a96e34b5f93b31bbd244a081adb01c0d252c5a9&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 876477643,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901037.jpg?k=9a7dbe8fe98384a1540344577e4472d8436dd3cba9b10ebc2988f94b1349d50c&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901037.jpg?k=9a7dbe8fe98384a1540344577e4472d8436dd3cba9b10ebc2988f94b1349d50c&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901037.jpg?k=9a7dbe8fe98384a1540344577e4472d8436dd3cba9b10ebc2988f94b1349d50c&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901037.jpg?k=9a7dbe8fe98384a1540344577e4472d8436dd3cba9b10ebc2988f94b1349d50c&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 876477649,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901008.jpg?k=900a79376aa336a5b5b0eaf130338462e90e64b1699e28d8b0b2536e5f7cd273&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901008.jpg?k=900a79376aa336a5b5b0eaf130338462e90e64b1699e28d8b0b2536e5f7cd273&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901008.jpg?k=900a79376aa336a5b5b0eaf130338462e90e64b1699e28d8b0b2536e5f7cd273&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901008.jpg?k=900a79376aa336a5b5b0eaf130338462e90e64b1699e28d8b0b2536e5f7cd273&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Kitchen",
+                    "groupEntityId": 288,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1047030446,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-08-17T01:40:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/732601104.jpg?k=47c61f6c86b98f3097822e671975649984830fd6688d9ba82a5e66fde76d383e&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/732601104.jpg?k=47c61f6c86b98f3097822e671975649984830fd6688d9ba82a5e66fde76d383e&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/732601104.jpg?k=47c61f6c86b98f3097822e671975649984830fd6688d9ba82a5e66fde76d383e&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/732601104.jpg?k=47c61f6c86b98f3097822e671975649984830fd6688d9ba82a5e66fde76d383e&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 876477647,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901033.jpg?k=c6e3f1b63874bf03b6ae7e40f963527819fca405b36f74b16a5d7f4fbb7f6895&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901033.jpg?k=c6e3f1b63874bf03b6ae7e40f963527819fca405b36f74b16a5d7f4fbb7f6895&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901033.jpg?k=c6e3f1b63874bf03b6ae7e40f963527819fca405b36f74b16a5d7f4fbb7f6895&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901033.jpg?k=c6e3f1b63874bf03b6ae7e40f963527819fca405b36f74b16a5d7f4fbb7f6895&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 876477650,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901042.jpg?k=2a0af8bc09ed4e354a29d5708db33d098f53e927fda64c627743ec1a63e2502e&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901042.jpg?k=2a0af8bc09ed4e354a29d5708db33d098f53e927fda64c627743ec1a63e2502e&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901042.jpg?k=2a0af8bc09ed4e354a29d5708db33d098f53e927fda64c627743ec1a63e2502e&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901042.jpg?k=2a0af8bc09ed4e354a29d5708db33d098f53e927fda64c627743ec1a63e2502e&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 876477646,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901014.jpg?k=bb44c920f551e347cd3c1aa355117232c0781324294a75b9ff239624cb244b93&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901014.jpg?k=bb44c920f551e347cd3c1aa355117232c0781324294a75b9ff239624cb244b93&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901014.jpg?k=bb44c920f551e347cd3c1aa355117232c0781324294a75b9ff239624cb244b93&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901014.jpg?k=bb44c920f551e347cd3c1aa355117232c0781324294a75b9ff239624cb244b93&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 876477648,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-06-03T04:52:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901046.jpg?k=e8bc1bb35c9c00641962b497996a4e97933846aeb6773e27b8aea9ed05af1ffc&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901046.jpg?k=e8bc1bb35c9c00641962b497996a4e97933846aeb6773e27b8aea9ed05af1ffc&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901046.jpg?k=e8bc1bb35c9c00641962b497996a4e97933846aeb6773e27b8aea9ed05af1ffc&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/342901046.jpg?k=e8bc1bb35c9c00641962b497996a4e97933846aeb6773e27b8aea9ed05af1ffc&o="
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [
+                  {
+                    "snippetId": 1759471893003241843,
+                    "countryCode": "ID",
+                    "countryId": 192,
+                    "countryName": "Indonesia",
+                    "date": "2025-06-26T08:11:00.000+07:00",
+                    "demographicId": 6,
+                    "demographicName": "Group",
+                    "reviewer": "Endang",
+                    "reviewRating": 9.2,
+                    "snippet": "Clean new place everything okay..",
+                    "topics": null
+                  }
+                ],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": {
+                    "maxScore": 10,
+                    "reviewCount": 14,
+                    "score": 8.6
+                  },
+                  "cumulativeForHost": {
+                    "reviewCount": 0
+                  }
+                },
+                "providerReviewScore": [
+                  {
+                    "isDefault": false,
+                    "providerId": 332,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 14,
+                      "score": 8.6
+                    },
+                    "demographics": null
+                  },
+                  {
+                    "isDefault": true,
+                    "providerId": 3038,
+                    "trendingScore": null,
+                    "cumulative": null,
+                    "demographics": null
+                  }
+                ],
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 30849073,
+                "displayName": "Pintu Waluh Homestay",
+                "defaultName": "Pintu Waluh Homestay",
+                "localeName": "Pintu Waluh Homestay",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 29,
+                  "accommodationName": "Apartment/Flat"
+                },
+                "propertyType": "SingleRoom",
+                "address": {
+                  "address1": "Jalan Bengkel Tris Desa umah opat kecamatan Bebesen Takengon Aceh Tengah",
+                  "address2": "",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 483954,
+                    "name": "Takengon"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "24552",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": true,
+                "geoInfo": {
+                  "latitude": 4.637718200683594,
+                  "longitude": 96.84243774414062
+                },
+                "rating": 2.5,
+                "isInfantCotAvailable": false
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "property-facility",
+                    "id": 68,
+                    "images": [],
+                    "name": "Garden",
+                    "symbol": "garden",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "room-facility",
+                    "id": 43,
+                    "images": [],
+                    "name": "Balcony/terrace",
+                    "symbol": "balcony-terrace",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 80,
+                    "images": [],
+                    "name": "Car park",
+                    "symbol": "car-park",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": null,
+                "locationHighlights": [],
+                "locations": [],
+                "atfPropertyHighlights": [
+                  {
+                    "id": null,
+                    "name": "Excellent room comfort & quality",
+                    "symbol": "bedKing.svg",
+                    "icon": null,
+                    "category": "topic-highlight",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Room Comfort"
+                  },
+                  {
+                    "id": null,
+                    "name": "Sparkling clean",
+                    "symbol": "spray.svg",
+                    "icon": null,
+                    "category": "topic-highlight",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Room Cleanliness"
+                  },
+                  {
+                    "id": 68,
+                    "name": "Garden",
+                    "symbol": "like.svg",
+                    "icon": "fill.activity.forest",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 43,
+                    "name": "Balcony/terrace",
+                    "symbol": "like.svg",
+                    "icon": "fill.facility.balcony",
+                    "category": "room-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 80,
+                    "name": "Car park",
+                    "symbol": "like.svg",
+                    "icon": "fill.transportation.car-park",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": {
+                  "airportScore": 6.9,
+                  "poiScore": 4.4,
+                  "transportationScore": 0.0
+                },
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.03,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6363029,
+                      "longitude": 96.8515929,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004137,
+                    "name": "Rumah Sakit Datu Beru",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 1.59,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6234643,
+                      "longitude": 96.84319328109129,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004131,
+                    "name": "Musara Alun",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 2.44,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6170267,
+                      "longitude": 96.84980612100219,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004138,
+                    "name": "Lapangan Bola Voli",
+                    "typeId": 128,
+                    "typeName": "Sport Centers and Swimming Pools",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.09,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6122083,
+                      "longitude": 96.8534082,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004139,
+                    "name": "gaya highland sign hollywood style",
+                    "typeId": 20,
+                    "typeName": "Things to do",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 4.36,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6449,
+                      "longitude": 96.8038,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004133,
+                    "name": "Bur Pepanyi",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 4.61,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6577,
+                      "longitude": 96.806,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004136,
+                    "name": "Bur Salahnama",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 7.02,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.5751,
+                      "longitude": 96.8506,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004134,
+                    "name": "Bur Mulo",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.03,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.629,
+                      "longitude": 96.7705,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004132,
+                    "name": "Bur Bies",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 8.88,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.6151,
+                      "longitude": 96.919279,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 280496,
+                    "name": "Lake Laut Tawar",
+                    "typeId": 16,
+                    "typeName": "Rivers, Reservoirs, and Lakes",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 9.46,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 4.5807,
+                      "longitude": 96.7791,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004135,
+                    "name": "Bur Nikalapegaseng",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [],
+                "popularLandmarkNumber": 0,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 1,
+                    "name": "Check-in/Check-out",
+                    "usefulInfo": [
+                      {
+                        "id": 8,
+                        "name": "Check-in from",
+                        "description": "12:00"
+                      },
+                      {
+                        "id": 9,
+                        "name": "Check-out until",
+                        "description": "12:00"
+                      },
+                      {
+                        "id": 44,
+                        "name": "Check-out from",
+                        "description": "08:00"
+                      },
+                      {
+                        "id": 45,
+                        "name": "Check-in until",
+                        "description": "00:00"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": null
+                },
+                "description": {
+                  "short": "Conveniently situated in the Takengon part of Aceh, this property puts you close to attractions and interesting dining options. This 3-star property is packed with in-house facilities to improve the quality and joy of your stay."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": null,
+                  "minAge": [],
+                  "adult": [],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "childAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": false
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Indonesian",
+                        "featureNameLocalizationList": null,
+                        "id": 169,
+                        "order": 21,
+                        "symbol": "flag-id",
+                        "images": []
+                      }
+                    ],
+                    "id": 12,
+                    "name": "Languages spoken",
+                    "order": 1,
+                    "symbol": "global"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "TV",
+                        "featureNameLocalizationList": null,
+                        "id": 36,
+                        "order": 13,
+                        "symbol": "tv-flat-screen",
+                        "images": []
+                      }
+                    ],
+                    "id": 26,
+                    "name": "Entertainment ",
+                    "order": 2,
+                    "symbol": "inhouse-movies"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Kitchen",
+                        "featureNameLocalizationList": null,
+                        "id": 275,
+                        "order": 161,
+                        "symbol": "kitchen",
+                        "images": []
+                      }
+                    ],
+                    "id": 47,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 4,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Pets allowed",
+                        "featureNameLocalizationList": null,
+                        "id": 24,
+                        "order": 141,
+                        "symbol": "pets-allowed",
+                        "images": []
+                      }
+                    ],
+                    "id": 37,
+                    "name": "Access",
+                    "order": 5,
+                    "symbol": "number-of-rooms"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Free parking",
+                        "featureNameLocalizationList": null,
+                        "id": 357,
+                        "order": 166,
+                        "symbol": "car-park-free-charge",
+                        "images": []
+                      }
+                    ],
+                    "id": 39,
+                    "name": "Getting around",
+                    "order": 6,
+                    "symbol": "car-hire"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 24,
+                    "name": null
+                  },
+                  {
+                    "id": 357,
+                    "name": null
+                  },
+                  {
+                    "id": 169,
+                    "name": null
+                  },
+                  {
+                    "id": 80,
+                    "name": null
+                  },
+                  {
+                    "id": 2572,
+                    "name": null
+                  },
+                  {
+                    "id": 68,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": {
+                    "healthAndMedical": [],
+                    "safetyFeature": [],
+                    "preventiveEquipment": []
+                  }
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 357,
+                    "facilityName": "Free parking",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 24,
+                    "facilityName": "Pets allowed",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 2572,
+                    "facilityName": "Balcony/terrace",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 68,
+                    "facilityName": "Garden",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 169,
+                    "facilityName": "Indonesian",
+                    "images": []
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "enrichment": {
+                "bookingHistory": {
+                  "bookingCount": {
+                    "count": 0,
+                    "timeFrame": "PastTwentyFourHours"
+                  }
+                }
+              },
+              "contentTopics": {
+                "topics": [
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 0.0,
+                      "neutral": 0.0,
+                      "positive": 100.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Family Travelers"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901037.jpg?k=9a7dbe8fe98384a1540344577e4472d8436dd3cba9b10ebc2988f94b1349d50c&o=",
+                        "imageId": 876477643,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Kitchen"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901042.jpg?k=2a0af8bc09ed4e354a29d5708db33d098f53e927fda64c627743ec1a63e2502e&o=",
+                        "imageId": 876477650,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901014.jpg?k=bb44c920f551e347cd3c1aa355117232c0781324294a75b9ff239624cb244b93&o=",
+                        "imageId": 876477646,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901046.jpg?k=e8bc1bb35c9c00641962b497996a4e97933846aeb6773e27b8aea9ed05af1ffc&o=",
+                        "imageId": 876477648,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Bathroom"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 0.0,
+                      "neutral": 0.0,
+                      "positive": 100.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Location"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 100.0,
+                      "neutral": 0.0,
+                      "positive": 0.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Parking"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901001.jpg?k=2ab37c08b5c6d3280f0849c7aee97dd4043c92e46a606696769b4f922b69d5fd&o=",
+                        "imageId": 876479338,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Luxury"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901019.jpg?k=c9e179380698b1a4beb2d459537d3ae01edea23396ccb550a4a874b624960dd2&o=",
+                        "imageId": 876477645,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901008.jpg?k=900a79376aa336a5b5b0eaf130338462e90e64b1699e28d8b0b2536e5f7cd273&o=",
+                        "imageId": 876479336,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/342901033.jpg?k=c6e3f1b63874bf03b6ae7e40f963527819fca405b36f74b16a5d7f4fbb7f6895&o=",
+                        "imageId": 876479337,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": {
+                      "negative": 0.0,
+                      "neutral": 0.0,
+                      "positive": 100.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Room Comfort"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 0.0,
+                      "neutral": 0.0,
+                      "positive": 100.0
+                    },
+                    "reviewSnippets": [
+                      "Clean new place everything okay.."
+                    ],
+                    "topic": "Room Cleanliness"
+                  }
+                ]
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 7,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 18,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 30849073,
+      "hotelName": "Pintu Waluh Homestay",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/pintu-waluh-homestay/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 30849073,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": true,
+        "isCrawlablePage": false,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 983153998,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "June 2025",
+            "encryptedReviewData": "B+gbONIH1B8sT48GQKvEAw==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "June 29, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "I really enjoyed staying at this homestay... clean and comfortable.. no regrets.. I highly recommend this homestay when traveling to Takengon.. an amazing experience.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "The homestay is nice and clean.",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2025-06-28T00:00:00+07:00",
+            "checkOutDate": "2025-06-29T00:00:00+07:00",
+            "reviewDate": "2025-06-29T08:47:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Erni",
+              "flagName": "id",
+              "reviewGroupName": "Family with teens",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 5,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Home stay bagus dan bersih",
+            "originalComment": "Suka sekali nginap di homestay ini...bersih dan nyaman..gak nyesal..saya sangat merekomendasikan homestay ini bila bepergian ke takengon..pengalaman luar biasa",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 981518755,
+            "providerId": 332,
+            "rating": 9.2,
+            "checkInDateMonthAndYear": "June 2025",
+            "encryptedReviewData": "ap/uDSmbu2YpOBGZRktE2w==",
+            "formattedRating": "9.2",
+            "formattedReviewDate": "June 26, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "Clean new place everything okay.. ",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Ok good place the new ",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2025-06-22T00:00:00+07:00",
+            "checkOutDate": "2025-06-23T00:00:00+07:00",
+            "reviewDate": "2025-06-26T08:11:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Endang",
+              "flagName": "id",
+              "reviewGroupName": "Group",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 6,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 967259222,
+            "providerId": 332,
+            "rating": 5.2,
+            "checkInDateMonthAndYear": "May 2025",
+            "encryptedReviewData": "bKlCBEyzmlXduYVSmfbvHw==",
+            "formattedRating": "5.2",
+            "formattedReviewDate": "May 22, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Review score",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "The first time I went to Takengon, I saw on Agoda there was a homestay called Pintu Waluh. The homestay is clean, with a new building, and has facilities like 1 gallon of water, spoons, plates, and glasses, with 2 bedrooms and 2 bathrooms. The spring beds and beddings are still new. The homestay is not far from Lake Laut Tawar. I really like this homestay, recommended for those who bring a large family. Thank you, Agoda.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "The most comfortable accommodation when bringing the family.",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2025-05-11T00:00:00+07:00",
+            "checkOutDate": "2025-05-12T00:00:00+07:00",
+            "reviewDate": "2025-05-22T07:56:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "DYLLA",
+              "flagName": "id",
+              "reviewGroupName": "Family with teens",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 5,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Penginapan paling nyaman kalo bawa keluarga",
+            "originalComment": "Pertama kalinya saya ke takengon, liat di agoda ada homestay pintu waluh, \nHomestaynya bersih bangunan baru, dpt fasilitas air 1 galon, sendok piring gelas, kamar 2 kamar mandi 2, springbednyaa dan spreinya masih baruu\nHomestaynya gak jauh dari danau laut tawar\nPokoknya syuka sama homestay ini, recomended utk yg bawa keluarga besar\nTerimakasih agoda ",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 967095838,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "May 2025",
+            "encryptedReviewData": "Vj5/EU8539ao8+uwHF1s9A==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "May 22, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "rekomendasi penginapan untuk keluarga, semuanya bets deh pokoknyaaa",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "keren bangettt",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2025-05-16T00:00:00+07:00",
+            "checkOutDate": "2025-05-17T00:00:00+07:00",
+            "reviewDate": "2025-05-22T01:03:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Selvi",
+              "flagName": "id",
+              "reviewGroupName": "Family with young children",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 4,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 888817990,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "November 2024",
+            "encryptedReviewData": "wDqvEugbvg51wchZZpaXiQ==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "November 03, 2024",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "Recommendations for those looking for affordable, clean, and comfortable homestays.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Very comfortable",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2024-11-02T00:00:00+07:00",
+            "checkOutDate": "2024-11-03T00:00:00+07:00",
+            "reviewDate": "2024-11-03T11:48:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Siti",
+              "flagName": "id",
+              "reviewGroupName": "Family with young children",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 4,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Sangat nyaman",
+            "originalComment": "Rekomendasi buat yg cari homestay harga terjangkau, bersih dan nyaman",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": true,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": true,
+            "shouldShowReviewFilters": true,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 1,
+                    "key": "1",
+                    "name": "English",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 16,
+                    "key": "16",
+                    "name": "English / United Kingdom",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 23,
+                    "key": "23",
+                    "name": "Bahasa Malaysia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 486317793,
+                    "key": "486317793",
+                    "name": "Two-Bedroom Apartment",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 5,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 2,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 5,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": true,
+            "totalIndex": 9
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/pintu-waluh-homestay/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+        "hotelId": 30849073,
+        "hotelName": "Pintu Waluh Homestay",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 3038,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.6,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 14,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "8.6",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "8.9",
+              "text": "Excellent service",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.6,
+                "formattedScore": "8.6",
+                "scale": 10.0,
+                "percentage": 86.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "86.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.6-26",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.4,
+                "formattedScore": "8.4",
+                "scale": 10.0,
+                "percentage": 84.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "84.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.4-13",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.4,
+                "formattedScore": "8.4",
+                "scale": 10.0,
+                "percentage": 84.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "84.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.4-27",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.9,
+                "formattedScore": "8.9",
+                "scale": 10.0,
+                "percentage": 89.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "89.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.9-12",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.6,
+                "formattedScore": "8.6",
+                "scale": 10.0,
+                "percentage": 86.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "86.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.6-26",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 9
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 2
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 4.0,
+            "maxScore": 10.0,
+            "id": 2,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "4.0",
+            "name": "Couples",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Review score",
+            "subReview": {
+              "score": "4.0",
+              "text": "",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-4.0-13",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-4.0-26",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "location-4.0-4",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-4.0-7",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-4.0-14",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 9.0,
+            "maxScore": 10.0,
+            "id": 4,
+            "count": 5,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "9.0",
+            "name": "Families with young children",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "9.6",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.6,
+                "formattedScore": "9.6",
+                "scale": 10.0,
+                "percentage": 96.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "96.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.6-13",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 9.2,
+                "formattedScore": "9.2",
+                "scale": 10.0,
+                "percentage": 92.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "92.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-9.2-26",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.4,
+                "formattedScore": "8.4",
+                "scale": 10.0,
+                "percentage": 84.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "84.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.4-21",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.8-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.8-19",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 3
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.5,
+            "maxScore": 10.0,
+            "id": 5,
+            "count": 4,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "8.5",
+            "name": "Families with teens",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional service",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.0-16",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.5-21",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "location-9.0-11",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.0-15",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 3
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 9.3,
+            "maxScore": 10.0,
+            "id": 6,
+            "count": 4,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "9.3",
+            "name": "Groups",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 9.5,
+                "formattedScore": "9.5",
+                "scale": 10.0,
+                "percentage": 95.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "95.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-9.5-19",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "location-9.0-2",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.0-15",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-24",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 3
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 14,
+            "tabName": "Agoda Reviews (14)",
+            "ratingViaProvider": "Rating via Agoda"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 3038
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "reviewTagsV2": [
+          {
+            "tagId": 13,
+            "tagName": "Cleanliness",
+            "mentionedNumber": 3,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 16,
+            "tagName": "Family",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 31,
+            "tagName": "Room comfort",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 24,
+            "tagName": "Location",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 33,
+            "tagName": "Room size",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 27,
+            "tagName": "Parking",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          }
+        ],
+        "hasReviewTagsV2": true
+      }
+    },
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 30849073,
+      "hotelName": "Pintu Waluh Homestay",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "commentList": {
+        "reviewPageUrl": "/pintu-waluh-homestay/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 30849073,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": true,
+        "isCrawlablePage": false,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 983153998,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "June 2025",
+            "encryptedReviewData": "B+gbONIH1B8sT48GQKvEAw==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "June 29, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "I really enjoyed staying at this homestay... clean and comfortable.. no regrets.. I highly recommend this homestay when traveling to Takengon.. an amazing experience.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "The homestay is nice and clean.",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2025-06-28T00:00:00+07:00",
+            "checkOutDate": "2025-06-29T00:00:00+07:00",
+            "reviewDate": "2025-06-29T08:47:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Erni",
+              "flagName": "id",
+              "reviewGroupName": "Family with teens",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 5,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Home stay bagus dan bersih",
+            "originalComment": "Suka sekali nginap di homestay ini...bersih dan nyaman..gak nyesal..saya sangat merekomendasikan homestay ini bila bepergian ke takengon..pengalaman luar biasa",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 981518755,
+            "providerId": 332,
+            "rating": 9.2,
+            "checkInDateMonthAndYear": "June 2025",
+            "encryptedReviewData": "ap/uDSmbu2YpOBGZRktE2w==",
+            "formattedRating": "9.2",
+            "formattedReviewDate": "June 26, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "Clean new place everything okay.. ",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Ok good place the new ",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2025-06-22T00:00:00+07:00",
+            "checkOutDate": "2025-06-23T00:00:00+07:00",
+            "reviewDate": "2025-06-26T08:11:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Endang",
+              "flagName": "id",
+              "reviewGroupName": "Group",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 6,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 967259222,
+            "providerId": 332,
+            "rating": 5.2,
+            "checkInDateMonthAndYear": "May 2025",
+            "encryptedReviewData": "bKlCBEyzmlXduYVSmfbvHw==",
+            "formattedRating": "5.2",
+            "formattedReviewDate": "May 22, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Review score",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "The first time I went to Takengon, I saw on Agoda there was a homestay called Pintu Waluh. The homestay is clean, with a new building, and has facilities like 1 gallon of water, spoons, plates, and glasses, with 2 bedrooms and 2 bathrooms. The spring beds and beddings are still new. The homestay is not far from Lake Laut Tawar. I really like this homestay, recommended for those who bring a large family. Thank you, Agoda.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "The most comfortable accommodation when bringing the family.",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2025-05-11T00:00:00+07:00",
+            "checkOutDate": "2025-05-12T00:00:00+07:00",
+            "reviewDate": "2025-05-22T07:56:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "DYLLA",
+              "flagName": "id",
+              "reviewGroupName": "Family with teens",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 5,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Penginapan paling nyaman kalo bawa keluarga",
+            "originalComment": "Pertama kalinya saya ke takengon, liat di agoda ada homestay pintu waluh, \nHomestaynya bersih bangunan baru, dpt fasilitas air 1 galon, sendok piring gelas, kamar 2 kamar mandi 2, springbednyaa dan spreinya masih baruu\nHomestaynya gak jauh dari danau laut tawar\nPokoknya syuka sama homestay ini, recomended utk yg bawa keluarga besar\nTerimakasih agoda ",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 967095838,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "May 2025",
+            "encryptedReviewData": "Vj5/EU8539ao8+uwHF1s9A==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "May 22, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "rekomendasi penginapan untuk keluarga, semuanya bets deh pokoknyaaa",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "keren bangettt",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2025-05-16T00:00:00+07:00",
+            "checkOutDate": "2025-05-17T00:00:00+07:00",
+            "reviewDate": "2025-05-22T01:03:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Selvi",
+              "flagName": "id",
+              "reviewGroupName": "Family with young children",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 4,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 888817990,
+            "providerId": 332,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "November 2024",
+            "encryptedReviewData": "wDqvEugbvg51wchZZpaXiQ==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "November 03, 2024",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Pintu Waluh Homestay",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "Recommendations for those looking for affordable, clean, and comfortable homestays.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Very comfortable",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2024-11-02T00:00:00+07:00",
+            "checkOutDate": "2024-11-03T00:00:00+07:00",
+            "reviewDate": "2024-11-03T11:48:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Siti",
+              "flagName": "id",
+              "reviewGroupName": "Family with young children",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 4,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Sangat nyaman",
+            "originalComment": "Rekomendasi buat yg cari homestay harga terjangkau, bersih dan nyaman",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": true,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": true,
+            "shouldShowReviewFilters": true,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 1,
+                    "key": "1",
+                    "name": "English",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 16,
+                    "key": "16",
+                    "name": "English / United Kingdom",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 23,
+                    "key": "23",
+                    "name": "Bahasa Malaysia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 486317793,
+                    "key": "486317793",
+                    "name": "Two-Bedroom Apartment",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 5,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 2,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 5,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": true,
+            "totalIndex": 9
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/pintu-waluh-homestay/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+        "hotelId": 30849073,
+        "hotelName": "Pintu Waluh Homestay",
+        "providerIdForSeoReviewScore": 332,
+        "providerId": 3038,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.6,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 14,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "8.6",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "8.9",
+              "text": "Excellent service",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.6,
+                "formattedScore": "8.6",
+                "scale": 10.0,
+                "percentage": 86.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "86.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.6-14",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.4,
+                "formattedScore": "8.4",
+                "scale": 10.0,
+                "percentage": 84.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "84.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.4-3",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.4,
+                "formattedScore": "8.4",
+                "scale": 10.0,
+                "percentage": 84.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "84.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.4-11",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.9,
+                "formattedScore": "8.9",
+                "scale": 10.0,
+                "percentage": 89.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "89.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.9-1",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.6,
+                "formattedScore": "8.6",
+                "scale": 10.0,
+                "percentage": 86.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "86.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.6-11",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 9
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 2
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 2
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 4.0,
+            "maxScore": 10.0,
+            "id": 2,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "4.0",
+            "name": "Couples",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Review score",
+            "subReview": {
+              "score": "4.0",
+              "text": "",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-4.0-22",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-4.0-17",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "location-4.0-11",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-4.0-22",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 4.0,
+                "formattedScore": "4.0",
+                "scale": 10.0,
+                "percentage": 40.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "40.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-4.0-13",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 9.0,
+            "maxScore": 10.0,
+            "id": 4,
+            "count": 5,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "9.0",
+            "name": "Families with young children",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "9.6",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.6,
+                "formattedScore": "9.6",
+                "scale": 10.0,
+                "percentage": 96.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "96.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.6-26",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 9.2,
+                "formattedScore": "9.2",
+                "scale": 10.0,
+                "percentage": 92.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "92.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-9.2-27",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 8.4,
+                "formattedScore": "8.4",
+                "scale": 10.0,
+                "percentage": 84.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "84.0",
+                "cityAverage": 0.0,
+                "uid": "location-8.4-23",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.8-2",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.8,
+                "formattedScore": "8.8",
+                "scale": 10.0,
+                "percentage": 88.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "88.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.8-20",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 3
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 1
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.5,
+            "maxScore": 10.0,
+            "id": 5,
+            "count": 4,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "8.5",
+            "name": "Families with teens",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional service",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.0-28",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.5-13",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "location-9.0-29",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-0",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.0-26",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 3
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 0
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 1
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 9.3,
+            "maxScore": 10.0,
+            "id": 6,
+            "count": 4,
+            "providerId": 332,
+            "cityAverageText": "Average rating for 3 star properties in Aceh",
+            "formattedScore": "9.3",
+            "name": "Groups",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional value for money",
+              "name": "Value for money"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.0-0",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 9.5,
+                "formattedScore": "9.5",
+                "scale": 10.0,
+                "percentage": 95.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "95.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-9.5-18",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "location-9.0-8",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.0-14",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-16",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 3
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 14,
+            "tabName": "Agoda Reviews (14)",
+            "ratingViaProvider": "Rating via Agoda"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 3038
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "reviewTagsV2": [
+          {
+            "tagId": 13,
+            "tagName": "Cleanliness",
+            "mentionedNumber": 3,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 16,
+            "tagName": "Family",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 31,
+            "tagName": "Room comfort",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 24,
+            "tagName": "Location",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 33,
+            "tagName": "Room size",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 100.0,
+            "negativePercentage": 0.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 27,
+            "tagName": "Parking",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          }
+        ],
+        "hasReviewTagsV2": true
+      }
+    },
+    {
+      "reviewPageUrl": "/pintu-waluh-homestay/reviews/aceh-id.html",
+      "currentPage": 2,
+      "hotelID": 30849073,
+      "pageSize": 5,
+      "selectedSortOption": 1,
+      "haveMoreThanOneComments": true,
+      "isCrawlablePage": false,
+      "isCurated": false,
+      "isReviewPage": false,
+      "shouldShowProminentLink": false,
+      "pageNumberToPageUrl": {},
+      "reviewsSortOptions": {
+        "1": "Most recent",
+        "2": "Rating, high to low",
+        "3": "Rating, low to high",
+        "7": "Most helpful"
+      },
+      "comments": [
+        {
+          "isHelpfulComment": false,
+          "isReviewVoted": false,
+          "isShowReviewResponse": false,
+          "isShowReviewResponseTranslateButton": false,
+          "isShowReviewTranslateButton": false,
+          "helpfulVotes": 0,
+          "responseLanguageId": 1,
+          "unHelpfulVotes": 0,
+          "hotelReviewId": 847692786,
+          "providerId": 332,
+          "rating": 10.0,
+          "checkInDateMonthAndYear": "June 2024",
+          "encryptedReviewData": "mtgiumTViBCuGiv44And4Q==",
+          "formattedRating": "10.0",
+          "formattedReviewDate": "August 20, 2024",
+          "formattedReviewHelpfulText": "Did you find this review helpful?",
+          "ratingText": "Exceptional",
+          "responderName": "Pintu Waluh Homestay",
+          "responseDateText": "",
+          "responseTranslateSource": "en",
+          "reviewComments": "Letak rumah yang tidak terlalu jauh dari pusat kota. Jalan menuju rumah cukup kecil tapi pas pasan untuk 2 mobil. areanya cukup tenang. tapi parkiran tidak ada atapnya dan kemarin sempat cukup lama mati lampu karena pemadaman kota. tapi secara umum tempat ini cukup nyaman untuk didatangi dengan keluarga atau sahabat",
+          "reviewNegatives": "",
+          "reviewPositives": "",
+          "reviewProviderLogo": "",
+          "reviewProviderText": "Agoda",
+          "reviewTitle": "DIREKOMENDASIKAN",
+          "translateSource": "en",
+          "translateTarget": "en",
+          "checkInDate": "2024-06-04T00:00:00+07:00",
+          "checkOutDate": "2024-06-05T00:00:00+07:00",
+          "reviewDate": "2024-08-20T01:12:00+07:00",
+          "reviewerInfo": {
+            "countryName": "Indonesia",
+            "displayMemberName": "Hamdi",
+            "flagName": "id",
+            "reviewGroupName": "Group",
+            "roomTypeName": "Two-Bedroom Apartment",
+            "countryId": 192,
+            "lengthOfStay": 1,
+            "reviewGroupId": 6,
+            "roomTypeId": 0,
+            "reviewerReviewedCount": 0,
+            "isExpertReviewer": false,
+            "isShowGlobalIcon": false,
+            "isShowReviewedCount": false
+          },
+          "originalTitle": "",
+          "originalComment": "",
+          "ugcImages": [],
+          "formattedResponseDate": ""
+        },
+        {
+          "isHelpfulComment": false,
+          "isReviewVoted": false,
+          "isShowReviewResponse": false,
+          "isShowReviewResponseTranslateButton": false,
+          "isShowReviewTranslateButton": true,
+          "helpfulVotes": 0,
+          "responseLanguageId": 23,
+          "unHelpfulVotes": 0,
+          "hotelReviewId": 595398652,
+          "providerId": 332,
+          "rating": 4.0,
+          "checkInDateMonthAndYear": "June 2022",
+          "encryptedReviewData": "VIb/ehYCAa8h9Z6XgRyoWw==",
+          "formattedRating": "4.0",
+          "formattedReviewDate": "February 10, 2023",
+          "formattedReviewHelpfulText": "Did you find this review helpful?",
+          "ratingText": "Review score",
+          "responderName": "Pintu Waluh Homestay",
+          "responseDateText": "",
+          "responseTranslateSource": "ms",
+          "reviewComments": "Lupa",
+          "reviewNegatives": "",
+          "reviewPositives": "",
+          "reviewProviderLogo": "",
+          "reviewProviderText": "Agoda",
+          "reviewTitle": "Lupa udh lama",
+          "translateSource": "ms",
+          "translateTarget": "en",
+          "checkInDate": "2022-06-08T00:00:00+07:00",
+          "checkOutDate": "2022-06-09T00:00:00+07:00",
+          "reviewDate": "2023-02-10T03:14:00+07:00",
+          "reviewerInfo": {
+            "countryName": "Indonesia",
+            "displayMemberName": "zuriati",
+            "flagName": "id",
+            "reviewGroupName": "Couple",
+            "roomTypeName": "Two-Bedroom Apartment",
+            "countryId": 192,
+            "lengthOfStay": 1,
+            "reviewGroupId": 2,
+            "roomTypeId": 0,
+            "reviewerReviewedCount": 0,
+            "isExpertReviewer": false,
+            "isShowGlobalIcon": false,
+            "isShowReviewedCount": false
+          },
+          "originalTitle": "",
+          "originalComment": "",
+          "ugcImages": [],
+          "formattedResponseDate": ""
+        },
+        {
+          "isHelpfulComment": false,
+          "isReviewVoted": false,
+          "isShowReviewResponse": false,
+          "isShowReviewResponseTranslateButton": false,
+          "isShowReviewTranslateButton": true,
+          "helpfulVotes": 0,
+          "responseLanguageId": 26,
+          "unHelpfulVotes": 0,
+          "hotelReviewId": 867228062,
+          "providerId": 332,
+          "rating": 8.0,
+          "checkInDateMonthAndYear": "September 2024",
+          "encryptedReviewData": "FwXWAQcuUq74bK4n0xm1Ow==",
+          "formattedRating": "8.0",
+          "formattedReviewDate": "September 17, 2024",
+          "formattedReviewHelpfulText": "Did you find this review helpful?",
+          "ratingText": "Excellent",
+          "responderName": "Pintu Waluh Homestay",
+          "responseDateText": "",
+          "responseTranslateSource": "id",
+          "reviewComments": "-",
+          "reviewNegatives": "",
+          "reviewPositives": "",
+          "reviewProviderLogo": "",
+          "reviewProviderText": "Agoda",
+          "reviewTitle": "Very good",
+          "translateSource": "id",
+          "translateTarget": "en",
+          "checkInDate": "2024-09-15T00:00:00+07:00",
+          "checkOutDate": "2024-09-16T00:00:00+07:00",
+          "reviewDate": "2024-09-17T12:40:00+07:00",
+          "reviewerInfo": {
+            "countryName": "Indonesia",
+            "displayMemberName": "wahyudi",
+            "flagName": "id",
+            "reviewGroupName": "Family with young children",
+            "roomTypeName": "Two-Bedroom Apartment",
+            "countryId": 192,
+            "lengthOfStay": 1,
+            "reviewGroupId": 4,
+            "roomTypeId": 0,
+            "reviewerReviewedCount": 0,
+            "isExpertReviewer": false,
+            "isShowGlobalIcon": false,
+            "isShowReviewedCount": false
+          },
+          "originalTitle": "",
+          "originalComment": "",
+          "ugcImages": [],
+          "formattedResponseDate": ""
+        },
+        {
+          "isHelpfulComment": false,
+          "isReviewVoted": false,
+          "isShowReviewResponse": false,
+          "isShowReviewResponseTranslateButton": false,
+          "isShowReviewTranslateButton": false,
+          "helpfulVotes": 0,
+          "responseLanguageId": 16,
+          "unHelpfulVotes": 0,
+          "hotelReviewId": 675805877,
+          "providerId": 332,
+          "rating": 6.8,
+          "checkInDateMonthAndYear": "July 2023",
+          "encryptedReviewData": "gEMyrb2p3c/fSDM88duuPw==",
+          "formattedRating": "6.8",
+          "formattedReviewDate": "July 10, 2023",
+          "formattedReviewHelpfulText": "Did you find this review helpful?",
+          "ratingText": "Good",
+          "responderName": "Pintu Waluh Homestay",
+          "responseDateText": "",
+          "responseTranslateSource": "",
+          "reviewComments": "Great homestay for family (July 2023)",
+          "reviewNegatives": "",
+          "reviewPositives": "",
+          "reviewProviderLogo": "",
+          "reviewProviderText": "Agoda",
+          "reviewTitle": "Cool place",
+          "translateSource": "en",
+          "translateTarget": "en",
+          "checkInDate": "2023-07-01T00:00:00+07:00",
+          "checkOutDate": "2023-07-02T00:00:00+07:00",
+          "reviewDate": "2023-07-10T03:34:00+07:00",
+          "reviewerInfo": {
+            "countryName": "Indonesia",
+            "displayMemberName": "Yulian",
+            "flagName": "id",
+            "reviewGroupName": "Family with young children",
+            "roomTypeName": "Two-Bedroom Apartment",
+            "countryId": 192,
+            "lengthOfStay": 1,
+            "reviewGroupId": 4,
+            "roomTypeId": 0,
+            "reviewerReviewedCount": 0,
+            "isExpertReviewer": false,
+            "isShowGlobalIcon": false,
+            "isShowReviewedCount": false
+          },
+          "originalTitle": "",
+          "originalComment": "",
+          "ugcImages": [],
+          "formattedResponseDate": ""
+        }
+      ],
+      "reviewFilterAndSort": [
+        {
+          "providerId": 332,
+          "selectedSortingOption": 1,
+          "hasSelectedFilters": false,
+          "showLanguageFilter": true,
+          "showRoomTypeFilter": false,
+          "hasCommentsMoreThanOnePage": true,
+          "shouldShowReviewFilters": true,
+          "sortings": [
+            {
+              "sortId": 1,
+              "sortText": "Most recent"
+            },
+            {
+              "sortId": 2,
+              "sortText": "Rating, high to low"
+            },
+            {
+              "sortId": 3,
+              "sortText": "Rating, low to high"
+            },
+            {
+              "sortId": 7,
+              "sortText": "Most helpful"
+            }
+          ],
+          "filters": [
+            {
+              "name": "Language",
+              "filterItemsPerRow": 4,
+              "displayShowMore": false,
+              "type": 2,
+              "filterItems": [
+                {
+                  "id": 26,
+                  "key": "26",
+                  "name": "Bahasa Indonesia",
+                  "count": 0,
+                  "isSelected": false
+                },
+                {
+                  "id": 1,
+                  "key": "1",
+                  "name": "English",
+                  "count": 0,
+                  "isSelected": false
+                },
+                {
+                  "id": 16,
+                  "key": "16",
+                  "name": "English / United Kingdom",
+                  "count": 0,
+                  "isSelected": false
+                },
+                {
+                  "id": 23,
+                  "key": "23",
+                  "name": "Bahasa Malaysia",
+                  "count": 0,
+                  "isSelected": false
+                }
+              ]
+            },
+            {
+              "name": "Room type",
+              "filterItemsPerRow": 4,
+              "displayShowMore": false,
+              "type": 3,
+              "filterItems": [
+                {
+                  "id": 486317793,
+                  "key": "486317793",
+                  "name": "Two-Bedroom Apartment",
+                  "count": 0,
+                  "isSelected": false
+                }
+              ]
+            },
+            {
+              "name": "Rating",
+              "filterItemsPerRow": 4,
+              "displayShowMore": true,
+              "type": 4,
+              "filterItems": [
+                {
+                  "id": 0,
+                  "key": "exceptional",
+                  "name": "9+ Exceptional",
+                  "count": 5,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "excellent",
+                  "name": "8-9 Excellent",
+                  "count": 0,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "very_good",
+                  "name": "7-8 Very Good",
+                  "count": 1,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "good",
+                  "name": "6-7 Good",
+                  "count": 1,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "below_expectation",
+                  "name": "<6 Below Expectation",
+                  "count": 2,
+                  "isSelected": false
+                }
+              ]
+            },
+            {
+              "name": "Time of the year",
+              "filterItemsPerRow": 4,
+              "displayShowMore": false,
+              "type": 5,
+              "filterItems": [
+                {
+                  "id": 0,
+                  "key": "mar_to_may",
+                  "name": "Mar - May",
+                  "count": 2,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "jun_to_aug",
+                  "name": "Jun - Aug",
+                  "count": 5,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "sep_to_nov",
+                  "name": "Sep - Nov",
+                  "count": 2,
+                  "isSelected": false
+                },
+                {
+                  "id": 0,
+                  "key": "dec_to_feb",
+                  "name": "Dec - Feb",
+                  "count": 0,
+                  "isSelected": false
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "providerList": [
+        {
+          "id": 332,
+          "isDefaultProvider": true,
+          "totalIndex": 9
+        }
+      ],
+      "provider": 332,
+      "searchReview": {
+        "searchKeyword": ""
+      }
+    }
+  ]
+}

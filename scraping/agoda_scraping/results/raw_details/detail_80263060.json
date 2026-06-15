@@ -1,0 +1,4259 @@
+{
+  "propertyId": 80263060,
+  "name": "Freddies Villas Sabang",
+  "propertyPage": "/freddies-villas-sabang/hotel/all/aceh-id.html",
+  "graphql": {
+    "data": {
+      "propertyDetailsSearch": {
+        "propertyDetails": [
+          {
+            "propertyId": 80263060,
+            "propertyMetaInfo": {
+              "propertyMetaRanking": null
+            },
+            "contentDetail": {
+              "propertyId": 80263060,
+              "contentImages": {
+                "ugcImages": null,
+                "ugcMosaicImages": null,
+                "hotelImages": [
+                  {
+                    "caption": "Surrounding environment",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496345,
+                    "providerId": 3038,
+                    "typeId": 6,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643219.jpg?k=42fb89f8bd9b35a5849d1cbbf0f68fba75cd5a38f1d02630bb98e984b3c453eb&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643219.jpg?k=42fb89f8bd9b35a5849d1cbbf0f68fba75cd5a38f1d02630bb98e984b3c453eb&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643219.jpg?k=42fb89f8bd9b35a5849d1cbbf0f68fba75cd5a38f1d02630bb98e984b3c453eb&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643219.jpg?k=42fb89f8bd9b35a5849d1cbbf0f68fba75cd5a38f1d02630bb98e984b3c453eb&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Balcony/terrace",
+                    "groupEntityId": 43,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496177,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643238.jpg?k=0ea51e355c5268b67f7a1d46fd72eddd0f7af99b9aac2b4da208b9ea2c8b558d&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643238.jpg?k=0ea51e355c5268b67f7a1d46fd72eddd0f7af99b9aac2b4da208b9ea2c8b558d&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643238.jpg?k=0ea51e355c5268b67f7a1d46fd72eddd0f7af99b9aac2b4da208b9ea2c8b558d&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643238.jpg?k=0ea51e355c5268b67f7a1d46fd72eddd0f7af99b9aac2b4da208b9ea2c8b558d&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "View",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1127496197,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297157.jpg?k=a35aedd4ae875a715356b80eed07b44129889d7867f15bd121b752bcb9858e0f&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297157.jpg?k=a35aedd4ae875a715356b80eed07b44129889d7867f15bd121b752bcb9858e0f&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297157.jpg?k=a35aedd4ae875a715356b80eed07b44129889d7867f15bd121b752bcb9858e0f&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297157.jpg?k=a35aedd4ae875a715356b80eed07b44129889d7867f15bd121b752bcb9858e0f&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Balcony/terrace",
+                    "groupEntityId": 43,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496196,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297195.jpg?k=d58d909a5977e2cd79c60a02770196070355376f3407d6a02fd54dae63ca9d24&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297195.jpg?k=d58d909a5977e2cd79c60a02770196070355376f3407d6a02fd54dae63ca9d24&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297195.jpg?k=d58d909a5977e2cd79c60a02770196070355376f3407d6a02fd54dae63ca9d24&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297195.jpg?k=d58d909a5977e2cd79c60a02770196070355376f3407d6a02fd54dae63ca9d24&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Kitchen",
+                    "groupEntityId": 288,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496183,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643234.jpg?k=6b395e42ce9f540743e36cfe929e59196977dfca79a38d03c9dfc484831c916f&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643234.jpg?k=6b395e42ce9f540743e36cfe929e59196977dfca79a38d03c9dfc484831c916f&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643234.jpg?k=6b395e42ce9f540743e36cfe929e59196977dfca79a38d03c9dfc484831c916f&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643234.jpg?k=6b395e42ce9f540743e36cfe929e59196977dfca79a38d03c9dfc484831c916f&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Facilities",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496187,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753296998.jpg?k=4630677b66f51dc175295f5deec1c7297876b561ed0069acf9b22dfc67179e1e&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753296998.jpg?k=4630677b66f51dc175295f5deec1c7297876b561ed0069acf9b22dfc67179e1e&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753296998.jpg?k=4630677b66f51dc175295f5deec1c7297876b561ed0069acf9b22dfc67179e1e&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753296998.jpg?k=4630677b66f51dc175295f5deec1c7297876b561ed0069acf9b22dfc67179e1e&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Facilities",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496186,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753298982.jpg?k=efd01a171811942e06001482729bbd83416f3122340311ac00ebcf0c8f06fa2b&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298982.jpg?k=efd01a171811942e06001482729bbd83416f3122340311ac00ebcf0c8f06fa2b&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298982.jpg?k=efd01a171811942e06001482729bbd83416f3122340311ac00ebcf0c8f06fa2b&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298982.jpg?k=efd01a171811942e06001482729bbd83416f3122340311ac00ebcf0c8f06fa2b&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Beach",
+                    "groupEntityId": 287,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496202,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753296452.jpg?k=c2e6f6fcd12a97728c60e94d92f266b50a036f625a68feb0055b11fd4be8ed07&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753296452.jpg?k=c2e6f6fcd12a97728c60e94d92f266b50a036f625a68feb0055b11fd4be8ed07&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753296452.jpg?k=c2e6f6fcd12a97728c60e94d92f266b50a036f625a68feb0055b11fd4be8ed07&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753296452.jpg?k=c2e6f6fcd12a97728c60e94d92f266b50a036f625a68feb0055b11fd4be8ed07&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "",
+                    "groupEntityId": null,
+                    "groupId": "room",
+                    "group": "Rooms",
+                    "id": 1127497795,
+                    "providerId": 3038,
+                    "typeId": 7,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643243.jpg?k=8308f73236fa238ebf3fd0b475006eb3561562eb6b4edeedca987f4cef677672&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643243.jpg?k=8308f73236fa238ebf3fd0b475006eb3561562eb6b4edeedca987f4cef677672&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643243.jpg?k=8308f73236fa238ebf3fd0b475006eb3561562eb6b4edeedca987f4cef677672&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643243.jpg?k=8308f73236fa238ebf3fd0b475006eb3561562eb6b4edeedca987f4cef677672&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Exterior view",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1127496176,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753299003.jpg?k=1fcbf91addfb00d63152e6d9d67e6f8de40b08c82061a61655dbdaeb19cef24b&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753299003.jpg?k=1fcbf91addfb00d63152e6d9d67e6f8de40b08c82061a61655dbdaeb19cef24b&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753299003.jpg?k=1fcbf91addfb00d63152e6d9d67e6f8de40b08c82061a61655dbdaeb19cef24b&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753299003.jpg?k=1fcbf91addfb00d63152e6d9d67e6f8de40b08c82061a61655dbdaeb19cef24b&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Shops",
+                    "groupEntityId": 2,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496201,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753298988.jpg?k=ff64090f97307468a94b8eccb6bd2be3299b9dc45fcc0ac7bed226211562dd6c&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298988.jpg?k=ff64090f97307468a94b8eccb6bd2be3299b9dc45fcc0ac7bed226211562dd6c&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298988.jpg?k=ff64090f97307468a94b8eccb6bd2be3299b9dc45fcc0ac7bed226211562dd6c&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298988.jpg?k=ff64090f97307468a94b8eccb6bd2be3299b9dc45fcc0ac7bed226211562dd6c&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Exterior view",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1127496174,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297481.jpg?k=3c925ed78801ecc5ba52fda5327043dca3d8c5de6f5a1190d653f41df28635e4&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297481.jpg?k=3c925ed78801ecc5ba52fda5327043dca3d8c5de6f5a1190d653f41df28635e4&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297481.jpg?k=3c925ed78801ecc5ba52fda5327043dca3d8c5de6f5a1190d653f41df28635e4&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297481.jpg?k=3c925ed78801ecc5ba52fda5327043dca3d8c5de6f5a1190d653f41df28635e4&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Lobby",
+                    "groupEntityId": null,
+                    "groupId": "property",
+                    "group": "Property views",
+                    "id": 1127496198,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753298977.jpg?k=2071e6c6d249b05fa6581d5e590c9d94bf60d7ef869f4cab9699f114f6e8ae99&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298977.jpg?k=2071e6c6d249b05fa6581d5e590c9d94bf60d7ef869f4cab9699f114f6e8ae99&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298977.jpg?k=2071e6c6d249b05fa6581d5e590c9d94bf60d7ef869f4cab9699f114f6e8ae99&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753298977.jpg?k=2071e6c6d249b05fa6581d5e590c9d94bf60d7ef869f4cab9699f114f6e8ae99&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Bar/lounge",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496189,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297009.jpg?k=537cf8b25a159d2e3fb828b51cc82489ba715489fd061c3833cbc75c54040a9c&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297009.jpg?k=537cf8b25a159d2e3fb828b51cc82489ba715489fd061c3833cbc75c54040a9c&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297009.jpg?k=537cf8b25a159d2e3fb828b51cc82489ba715489fd061c3833cbc75c54040a9c&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/753297009.jpg?k=537cf8b25a159d2e3fb828b51cc82489ba715489fd061c3833cbc75c54040a9c&o="
+                      }
+                    ]
+                  },
+                  {
+                    "caption": "Bathroom",
+                    "groupEntityId": null,
+                    "groupId": "facility",
+                    "group": "Facilities",
+                    "id": 1127496190,
+                    "providerId": 3038,
+                    "typeId": 5,
+                    "uploadedDate": "2025-10-15T22:14:00.000+07:00",
+                    "highResolutionSizes": [
+                      "main"
+                    ],
+                    "urls": [
+                      {
+                        "key": "main",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643240.jpg?k=a46952a5b38f32002910bf650d79e341c0e9c377390d64cd7708e683ef4d07d6&o="
+                      },
+                      {
+                        "key": "gallery_preview",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643240.jpg?k=a46952a5b38f32002910bf650d79e341c0e9c377390d64cd7708e683ef4d07d6&o="
+                      },
+                      {
+                        "key": "thumbnail",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643240.jpg?k=a46952a5b38f32002910bf650d79e341c0e9c377390d64cd7708e683ef4d07d6&o="
+                      },
+                      {
+                        "key": "thumbnail-2x",
+                        "value": "//q-xx.bstatic.com/xdata/images/hotel/max300/751643240.jpg?k=a46952a5b38f32002910bf650d79e341c0e9c377390d64cd7708e683ef4d07d6&o="
+                      }
+                    ]
+                  }
+                ],
+                "videos": [],
+                "matterports": []
+              },
+              "contentReviewSummaries": {
+                "snippets": [],
+                "recommendationScores": null,
+                "positiveMentions": {
+                  "categories": [],
+                  "facilityClassesSentiment": [],
+                  "facilityClasses": []
+                },
+                "reviewTags": [],
+                "hotelReviewSummaryFromAi": null
+              },
+              "contentReviewScore": {
+                "combinedReviewScore": {
+                  "cumulative": {
+                    "maxScore": 10,
+                    "reviewCount": 5,
+                    "score": 7.7
+                  },
+                  "cumulativeForHost": {
+                    "reviewCount": 0
+                  }
+                },
+                "providerReviewScore": [
+                  {
+                    "isDefault": true,
+                    "providerId": 332,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 2,
+                      "score": 8.8
+                    },
+                    "demographics": {
+                      "allGuest": {
+                        "id": 0,
+                        "scoreDistribution": [
+                          {
+                            "id": "exceptional",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "excellent",
+                            "reviewCount": 2
+                          },
+                          {
+                            "id": "very_good",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "good",
+                            "reviewCount": 0
+                          },
+                          {
+                            "id": "below_expectation",
+                            "reviewCount": 0
+                          }
+                        ],
+                        "reviewCount": 2,
+                        "grades": [
+                          {
+                            "id": "overall",
+                            "score": 8.8,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "cleanliness",
+                            "score": 9.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "facilities",
+                            "score": 7.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "location",
+                            "score": 10.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "staffPerformance",
+                            "score": 9.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          },
+                          {
+                            "id": "valueForMoney",
+                            "score": 9.0,
+                            "cityAverage": null,
+                            "subGrades": null
+                          }
+                        ]
+                      }
+                    }
+                  },
+                  {
+                    "isDefault": false,
+                    "providerId": 3038,
+                    "trendingScore": null,
+                    "cumulative": {
+                      "maxScore": 10,
+                      "reviewCount": 3,
+                      "score": 7.0
+                    },
+                    "demographics": null
+                  }
+                ],
+                "thirdPartyReviewScore": null
+              },
+              "contentSummary": {
+                "propertyId": 80263060,
+                "displayName": "Freddies Villas Sabang",
+                "defaultName": "Freddies Villas Sabang",
+                "localeName": "Freddies Villas Sabang",
+                "isLuxuryHotel": false,
+                "accommodation": {
+                  "accommodationType": 29,
+                  "accommodationName": "Apartment/Flat"
+                },
+                "propertyType": "SingleRoom",
+                "address": {
+                  "address1": "Jl. Bahagia, Ujung Kareung, Sukujaya Sabang Ie Meulee village",
+                  "address2": "",
+                  "countryCode": "ID",
+                  "area": {
+                    "id": 94665,
+                    "name": "Sabang"
+                  },
+                  "city": {
+                    "id": 19806,
+                    "name": "Aceh"
+                  },
+                  "country": {
+                    "id": 192,
+                    "name": "Indonesia"
+                  },
+                  "postalCode": "23521",
+                  "stateInfo": {
+                    "id": 3159
+                  }
+                },
+                "awardsAndAccolades": {
+                  "goldCircleAward": null,
+                  "advanceGuaranteeProgram": null
+                },
+                "remarks": null,
+                "hasHostExperience": true,
+                "geoInfo": {
+                  "latitude": 5.886364936828613,
+                  "longitude": 95.3466796875
+                },
+                "rating": 4.0,
+                "isInfantCotAvailable": true
+              },
+              "contentEngagement": {
+                "peopleLooking": "",
+                "todayBooking": ""
+              },
+              "contentHighlights": {
+                "favoriteFeatures": [
+                  {
+                    "category": "property-facility",
+                    "id": 17,
+                    "images": [],
+                    "name": "Airport transfer",
+                    "symbol": "airport-transfer",
+                    "tooltip": "Airport transfer available! Additional charges may apply. To request, check the box on the booking form just before the payment page."
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 109,
+                    "images": [],
+                    "name": "Free Wi-Fi in all rooms!",
+                    "symbol": "free-wifi-in-all-rooms",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 68,
+                    "images": [],
+                    "name": "Garden",
+                    "symbol": "garden",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 97,
+                    "images": [],
+                    "name": "Shuttle service",
+                    "symbol": "shuttle-service",
+                    "tooltip": null
+                  },
+                  {
+                    "category": "property-facility",
+                    "id": 12,
+                    "images": [],
+                    "name": "Room service",
+                    "symbol": "room-service",
+                    "tooltip": null
+                  }
+                ],
+                "locationHighlightMessage": null,
+                "locationHighlights": [],
+                "locations": [],
+                "atfPropertyHighlights": [
+                  {
+                    "id": 251,
+                    "name": "Check-in/out [private]",
+                    "symbol": "door.svg",
+                    "icon": null,
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": "Check-in/Out"
+                  },
+                  {
+                    "id": 17,
+                    "name": "Airport transfer",
+                    "symbol": "transfer.svg",
+                    "icon": null,
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": "Airport transfer available! Additional charges may apply. To request, check the box on the booking form just before the payment page.",
+                    "topicName": "Airport Access"
+                  },
+                  {
+                    "id": 109,
+                    "name": "Free Wi-Fi in all rooms!",
+                    "symbol": "like.svg",
+                    "icon": "fill.electrics.wifi",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 68,
+                    "name": "Garden",
+                    "symbol": "like.svg",
+                    "icon": "fill.activity.forest",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  },
+                  {
+                    "id": 97,
+                    "name": "Shuttle service",
+                    "symbol": "like.svg",
+                    "icon": "fill.transportation.shuttle",
+                    "category": "property-facility",
+                    "images": null,
+                    "tooltip": null,
+                    "topicName": null
+                  }
+                ]
+              },
+              "contentLocalInformation": {
+                "walkablePlaces": null,
+                "nearbyProperties": [],
+                "cuisines": null,
+                "locationSubscore": null,
+                "nearbyPlaces": [
+                  {
+                    "abbr": null,
+                    "distanceInKm": 2.47,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.8929752,
+                      "longitude": 95.3253792,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004121,
+                    "name": "RS. Al Jend. Lilipory",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 2.74,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.86812845,
+                      "longitude": 95.3299647380534,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004125,
+                    "name": "Aneuk Laot",
+                    "typeId": 16,
+                    "typeName": "Rivers, Reservoirs, and Lakes",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.21,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.89267165,
+                      "longitude": 95.31836214760798,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004088,
+                    "name": "Taman Ria",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.25,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.859444,
+                      "longitude": 95.335278,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004109,
+                    "name": "Cot Potibang",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.43,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.8976022,
+                      "longitude": 95.3178349344666,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004087,
+                    "name": "Love Beach Park",
+                    "typeId": 39,
+                    "typeName": "Botanical Gardens, and Public Parks",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.57,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.8949322,
+                      "longitude": 95.3156079,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004122,
+                    "name": "General Hospital",
+                    "typeId": 25,
+                    "typeName": "Hospitals and Medical Facilities",
+                    "landMarkGroup": null
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.6,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.854167,
+                      "longitude": 95.343056,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004090,
+                    "name": "Cot Aluto",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.69,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.890833,
+                      "longitude": 95.313611,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004107,
+                    "name": "Peunimpun",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.7,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.855,
+                      "longitude": 95.335556,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004108,
+                    "name": "Cot Bakoe Yoen",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  },
+                  {
+                    "abbr": null,
+                    "distanceInKm": 3.89,
+                    "duration": null,
+                    "durationIcon": null,
+                    "geoInfo": {
+                      "latitude": 5.851389,
+                      "longitude": 95.3475,
+                      "obfuscatedLat": 0.0,
+                      "obfuscatedLong": 0.0
+                    },
+                    "images": null,
+                    "landmarkId": 2004119,
+                    "name": "Cot Anuraya",
+                    "typeId": 134,
+                    "typeName": "Mountains, Hills and Caves",
+                    "landMarkGroup": {
+                      "name": "Outdoors",
+                      "sortOrder": 4
+                    }
+                  }
+                ],
+                "nearbyRestaurants": null,
+                "nearbyShops": [],
+                "popularLandmarkNumber": 1,
+                "topPlaces": []
+              },
+              "contentInformation": {
+                "usefulInfoGroups": [
+                  {
+                    "id": 1,
+                    "name": "Check-in/Check-out",
+                    "usefulInfo": [
+                      {
+                        "id": 8,
+                        "name": "Check-in from",
+                        "description": "13:00"
+                      },
+                      {
+                        "id": 9,
+                        "name": "Check-out until",
+                        "description": "11:00"
+                      },
+                      {
+                        "id": 44,
+                        "name": "Check-out from",
+                        "description": "11:00"
+                      },
+                      {
+                        "id": 45,
+                        "name": "Check-in until",
+                        "description": "22:00"
+                      }
+                    ]
+                  }
+                ],
+                "certificate": null,
+                "staffVaccinationInfo": null,
+                "messaging": {
+                  "responsiveRate": 1.0,
+                  "isAllowedPreBooking": null
+                },
+                "description": {
+                  "short": "Conveniently situated in the Sabang part of Aceh, this property puts you close to attractions and interesting dining options."
+                },
+                "notes": {
+                  "criticalNotes": []
+                },
+                "sustainabilityInfo": {
+                  "isSustainableTravel": false,
+                  "practiceCategories": []
+                },
+                "popularityInfo": null,
+                "policies": {
+                  "children": null,
+                  "minAge": [],
+                  "adult": [],
+                  "extraBed": [
+                    "Extra beds are dependent on the room you choose. Please check the individual room capacity for more details."
+                  ],
+                  "additional": [
+                    "When booking more than 5 rooms, different policies and additional supplements may apply."
+                  ],
+                  "hotelAgePolicy": {
+                    "infantAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "childAges": {
+                      "min": 0,
+                      "max": 0
+                    },
+                    "minGuestAge": 0,
+                    "isChildStayFree": false
+                  }
+                },
+                "companyTraceabilityData": null
+              },
+              "contentFeatures": {
+                "featureGroups": [
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "English",
+                        "featureNameLocalizationList": null,
+                        "id": 151,
+                        "order": 1,
+                        "symbol": "flag-gb",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Dutch",
+                        "featureNameLocalizationList": null,
+                        "id": 160,
+                        "order": 11,
+                        "symbol": "flag-nl",
+                        "images": []
+                      },
+                      {
+                        "available": true,
+                        "featureName": "Indonesian",
+                        "featureNameLocalizationList": null,
+                        "id": 169,
+                        "order": 21,
+                        "symbol": "flag-id",
+                        "images": []
+                      }
+                    ],
+                    "id": 12,
+                    "name": "Languages spoken",
+                    "order": 1,
+                    "symbol": "global"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Wheelchair accessible",
+                        "featureNameLocalizationList": null,
+                        "id": 254,
+                        "order": 116,
+                        "symbol": "wheelchair-accessible",
+                        "images": []
+                      }
+                    ],
+                    "id": 55,
+                    "name": "Accessibility",
+                    "order": 2,
+                    "symbol": "wheelchair-accessible"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Kitchen",
+                        "featureNameLocalizationList": null,
+                        "id": 275,
+                        "order": 161,
+                        "symbol": "kitchen",
+                        "images": []
+                      }
+                    ],
+                    "id": 47,
+                    "name": "Dining, drinking, and snacking",
+                    "order": 4,
+                    "symbol": "restaurant"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Security [24-hour]",
+                        "featureNameLocalizationList": null,
+                        "id": 235,
+                        "order": 100,
+                        "symbol": "24hour-security",
+                        "images": []
+                      }
+                    ],
+                    "id": 37,
+                    "name": "Access",
+                    "order": 5,
+                    "symbol": "number-of-rooms"
+                  },
+                  {
+                    "features": [
+                      {
+                        "available": true,
+                        "featureName": "Free parking",
+                        "featureNameLocalizationList": null,
+                        "id": 357,
+                        "order": 166,
+                        "symbol": "car-park-free-charge",
+                        "images": []
+                      }
+                    ],
+                    "id": 39,
+                    "name": "Getting around",
+                    "order": 6,
+                    "symbol": "car-hire"
+                  }
+                ],
+                "hotelFacilities": [
+                  {
+                    "id": 2512,
+                    "name": null
+                  },
+                  {
+                    "id": 2381,
+                    "name": "Staff trained in safety protocol"
+                  },
+                  {
+                    "id": 120,
+                    "name": null
+                  },
+                  {
+                    "id": 269,
+                    "name": null
+                  },
+                  {
+                    "id": 357,
+                    "name": null
+                  },
+                  {
+                    "id": 2373,
+                    "name": "First aid kit"
+                  },
+                  {
+                    "id": 2540,
+                    "name": null
+                  },
+                  {
+                    "id": 2508,
+                    "name": null
+                  },
+                  {
+                    "id": 2371,
+                    "name": "Doctor/nurse on call"
+                  },
+                  {
+                    "id": 89,
+                    "name": null
+                  },
+                  {
+                    "id": 133,
+                    "name": null
+                  },
+                  {
+                    "id": 2574,
+                    "name": null
+                  },
+                  {
+                    "id": 160,
+                    "name": null
+                  },
+                  {
+                    "id": 97,
+                    "name": null
+                  },
+                  {
+                    "id": 2577,
+                    "name": null
+                  },
+                  {
+                    "id": 2509,
+                    "name": null
+                  },
+                  {
+                    "id": 2537,
+                    "name": null
+                  },
+                  {
+                    "id": 169,
+                    "name": null
+                  },
+                  {
+                    "id": 109,
+                    "name": null
+                  },
+                  {
+                    "id": 124,
+                    "name": null
+                  },
+                  {
+                    "id": 13,
+                    "name": null
+                  },
+                  {
+                    "id": 64,
+                    "name": null
+                  },
+                  {
+                    "id": 17,
+                    "name": null
+                  },
+                  {
+                    "id": 2376,
+                    "name": "Hand sanitizer"
+                  },
+                  {
+                    "id": 2514,
+                    "name": null
+                  },
+                  {
+                    "id": 12,
+                    "name": null
+                  },
+                  {
+                    "id": 2573,
+                    "name": null
+                  },
+                  {
+                    "id": 2521,
+                    "name": null
+                  },
+                  {
+                    "id": 81,
+                    "name": null
+                  },
+                  {
+                    "id": 7,
+                    "name": null
+                  },
+                  {
+                    "id": 240,
+                    "name": null
+                  },
+                  {
+                    "id": 251,
+                    "name": null
+                  },
+                  {
+                    "id": 2578,
+                    "name": null
+                  },
+                  {
+                    "id": 130,
+                    "name": null
+                  },
+                  {
+                    "id": 2535,
+                    "name": null
+                  },
+                  {
+                    "id": 80,
+                    "name": null
+                  },
+                  {
+                    "id": 123,
+                    "name": null
+                  },
+                  {
+                    "id": 2513,
+                    "name": null
+                  },
+                  {
+                    "id": 18,
+                    "name": null
+                  },
+                  {
+                    "id": 2518,
+                    "name": null
+                  },
+                  {
+                    "id": 16,
+                    "name": null
+                  },
+                  {
+                    "id": 2511,
+                    "name": null
+                  },
+                  {
+                    "id": 23,
+                    "name": null
+                  },
+                  {
+                    "id": 8,
+                    "name": null
+                  },
+                  {
+                    "id": 235,
+                    "name": null
+                  },
+                  {
+                    "id": 287,
+                    "name": null
+                  },
+                  {
+                    "id": 151,
+                    "name": null
+                  },
+                  {
+                    "id": 2374,
+                    "name": null
+                  },
+                  {
+                    "id": 2534,
+                    "name": null
+                  },
+                  {
+                    "id": 51,
+                    "name": null
+                  },
+                  {
+                    "id": 239,
+                    "name": null
+                  },
+                  {
+                    "id": 126,
+                    "name": null
+                  },
+                  {
+                    "id": 79,
+                    "name": null
+                  },
+                  {
+                    "id": 2572,
+                    "name": null
+                  },
+                  {
+                    "id": 2507,
+                    "name": null
+                  },
+                  {
+                    "id": 2539,
+                    "name": null
+                  },
+                  {
+                    "id": 68,
+                    "name": null
+                  },
+                  {
+                    "id": 90,
+                    "name": null
+                  },
+                  {
+                    "id": 254,
+                    "name": null
+                  },
+                  {
+                    "id": 122,
+                    "name": null
+                  }
+                ],
+                "summary": {
+                  "chineseFriendly": false,
+                  "staycationFacilityIds": null,
+                  "hygienePlusFacilities": {
+                    "healthAndMedical": [
+                      2371,
+                      2373
+                    ],
+                    "safetyFeature": [
+                      2381
+                    ],
+                    "preventiveEquipment": [
+                      2376
+                    ]
+                  }
+                },
+                "facilityHighlights": [
+                  {
+                    "facilityId": 287,
+                    "facilityName": "Beach",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 109,
+                    "facilityName": "Free Wi-Fi ",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 357,
+                    "facilityName": "Free parking",
+                    "images": []
+                  },
+                  {
+                    "facilityId": 7,
+                    "facilityName": "Bar",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 64,
+                    "facilityName": "Water sports",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 51,
+                    "facilityName": "Massage",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 17,
+                    "facilityName": "Airport transfer",
+                    "images": null
+                  },
+                  {
+                    "facilityId": 81,
+                    "facilityName": "Family room",
+                    "images": null
+                  }
+                ]
+              },
+              "hostProfile": null,
+              "contentTopics": {
+                "topics": [
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297195.jpg?k=d58d909a5977e2cd79c60a02770196070355376f3407d6a02fd54dae63ca9d24&o=",
+                        "imageId": 1127497809,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Luxury"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643234.jpg?k=6b395e42ce9f540743e36cfe929e59196977dfca79a38d03c9dfc484831c916f&o=",
+                        "imageId": 1127496183,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/753296998.jpg?k=4630677b66f51dc175295f5deec1c7297876b561ed0069acf9b22dfc67179e1e&o=",
+                        "imageId": 1127497814,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Kitchen"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297157.jpg?k=a35aedd4ae875a715356b80eed07b44129889d7867f15bd121b752bcb9858e0f&o=",
+                        "imageId": 1127497821,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Room Views"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643238.jpg?k=0ea51e355c5268b67f7a1d46fd72eddd0f7af99b9aac2b4da208b9ea2c8b558d&o=",
+                        "imageId": 1127496177,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297481.jpg?k=3c925ed78801ecc5ba52fda5327043dca3d8c5de6f5a1190d653f41df28635e4&o=",
+                        "imageId": 1127496174,
+                        "imageSource": "cloggy_v3"
+                      },
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/753297009.jpg?k=537cf8b25a159d2e3fb828b51cc82489ba715489fd061c3833cbc75c54040a9c&o=",
+                        "imageId": 1127497792,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Room Comfort"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/753296452.jpg?k=c2e6f6fcd12a97728c60e94d92f266b50a036f625a68feb0055b11fd4be8ed07&o=",
+                        "imageId": 1127497819,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": {
+                      "negative": 50.0,
+                      "neutral": 0.0,
+                      "positive": 50.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "Beach"
+                  },
+                  {
+                    "images": [],
+                    "sentimentScore": {
+                      "negative": 100.0,
+                      "neutral": 0.0,
+                      "positive": 0.0
+                    },
+                    "reviewSnippets": [],
+                    "topic": "WiFi"
+                  },
+                  {
+                    "images": [
+                      {
+                        "url": "https://q-xx.bstatic.com/xdata/images/hotel/max1024x768/751643240.jpg?k=a46952a5b38f32002910bf650d79e341c0e9c377390d64cd7708e683ef4d07d6&o=",
+                        "imageId": 1127496190,
+                        "imageSource": "cloggy_v3"
+                      }
+                    ],
+                    "sentimentScore": null,
+                    "reviewSnippets": [],
+                    "topic": "Bathroom"
+                  }
+                ]
+              }
+            },
+            "growthProgramInfo": {
+              "badges": []
+            },
+            "metaLab": {
+              "propertyAttributes": [
+                {
+                  "attributeId": 2,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                },
+                {
+                  "attributeId": 18,
+                  "dataType": "BOOLEAN",
+                  "value": "false",
+                  "version": "V1"
+                }
+              ]
+            }
+          }
+        ]
+      }
+    }
+  },
+  "reviews": [
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 80263060,
+      "hotelName": "Freddies Villas Sabang",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "combinedReview": {
+        "isShowCombinedRating": true,
+        "score": {
+          "maxScore": 10,
+          "providerId": -1,
+          "reviewCommentsCount": 2,
+          "reviewCount": 5,
+          "score": 7.7,
+          "demographic": "All guests",
+          "formattedReviewCount": "5",
+          "formattedScore": "7.7",
+          "scoreText": "Very good"
+        },
+        "providers": [
+          {
+            "providerId": 332,
+            "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+            "logoName": "agoda",
+            "logoAltText": "Agoda"
+          },
+          {
+            "providerId": 3038,
+            "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+            "logoName": "booking",
+            "logoAltText": "Booking.com"
+          }
+        ],
+        "grades": [
+          {
+            "id": "location",
+            "name": "Location",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "cleanliness",
+            "name": "Cleanliness",
+            "score": 8.1,
+            "scoreText": "Excellent",
+            "formattedScore": "8.1"
+          },
+          {
+            "id": "valueForMoney",
+            "name": "Value for money",
+            "score": 8.1,
+            "scoreText": "Excellent",
+            "formattedScore": "8.1"
+          },
+          {
+            "id": "overall",
+            "name": "",
+            "score": 7.7,
+            "scoreText": "Very good",
+            "formattedScore": "7.7"
+          },
+          {
+            "id": "staffPerformance",
+            "name": "Service",
+            "score": 7.6,
+            "scoreText": "Very good",
+            "formattedScore": "7.6"
+          },
+          {
+            "id": "facilities",
+            "name": "Facilities",
+            "score": 7.3,
+            "scoreText": "Very good",
+            "formattedScore": "7.3"
+          },
+          {
+            "id": "roomComfort",
+            "name": "Room comfort and quality",
+            "score": 6.7,
+            "scoreText": "Good",
+            "formattedScore": "6.7"
+          }
+        ]
+      },
+      "commentList": {
+        "reviewPageUrl": "/freddies-villas-sabang/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 80263060,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": true,
+        "isCrawlablePage": false,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1130011353,
+            "providerId": 332,
+            "rating": 8.8,
+            "checkInDateMonthAndYear": "June 2026",
+            "encryptedReviewData": "hIJ8M+27B2G3SSxnydUEKQ==",
+            "formattedRating": "8.8",
+            "formattedReviewDate": "June 08, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Excellent",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "The villas is good,infront of beach but the refregirator is not working..might be need aircon",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Villas",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2026-06-03T00:00:00+07:00",
+            "checkOutDate": "2026-06-08T00:00:00+07:00",
+            "reviewDate": "2026-06-08T09:07:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Tatap",
+              "flagName": "id",
+              "reviewGroupName": "Couple",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 5,
+              "reviewGroupId": 2,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1126938312,
+            "providerId": 3038,
+            "rating": 5.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "pV7FXe/hL5iiHsDKzWug2Q==",
+            "formattedRating": "5.0",
+            "formattedReviewDate": "May 22, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Review score",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "No airxond. Very hor",
+            "reviewPositives": "The view is stunning",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "Acceptable",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-05-22T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "samsol",
+              "flagName": "",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1062971210,
+            "providerId": 332,
+            "rating": 8.8,
+            "checkInDateMonthAndYear": "December 2025",
+            "encryptedReviewData": "xBIlj9H5CYRt/qmEmJw3Ag==",
+            "formattedRating": "8.8",
+            "formattedReviewDate": "December 31, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Excellent",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "Not suitable for those who need air conditioning. Fredies' characteristic is that it doesn't use AC. But the downstairs room is very hot because there is no ventilation. The wifi also doesn't reach the room. The beach has a lot of coral, not recommended for swimming; it's only shallow but there are many beautiful fish.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Fredies",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2025-12-25T00:00:00+07:00",
+            "checkOutDate": "2025-12-26T00:00:00+07:00",
+            "reviewDate": "2025-12-31T01:55:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Ricky",
+              "flagName": "id",
+              "reviewGroupName": "Family with young children",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 4,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Fredies",
+            "originalComment": "Ga cocok utk yg harus ber AC.. Ciri khas fredies mmg ga pake AC.. Tp kamar bawah sangat panas krn tidak ada fentilasi. \nWifi jg ga nyampe kamar. \nPantainya ful karang tidak rkom utk berenang, cm dangkal aja sdh byk ikan2 cantik",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1073605744,
+            "providerId": 3038,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "2D3rjkvs19NDfONQ+RJ+Yw==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "January 31, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "nothing",
+            "reviewPositives": "This villas are straight on the small amazing beautifull coral beach, you look straihht from the veranda over the water , you have perfect equiped kitchen ,  but the breakfast been coming straight at rhe villa.is small shop equiped with drinks and snacks, beer and wine home,also you can order the time you like,\nwe planned to stay 3 days , but we staied 9 nights, you are close to the city and restourants, same owner rest, close , they have good food and drinks, also you can order take away. In the house you have all time fresh water for drink, 2 bedrooms and 2 bathrooms, big veranda and living room, good wi fi ..we feel like our home  on the beach, thank to all pepple make this vacation so good for us, Thank you Frieddy for your attention and hospitality!",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "Exceptional",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-01-31T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "Daniela",
+              "flagName": "",
+              "reviewGroupName": "Couple",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 2,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": true,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 1,
+                    "key": "1",
+                    "name": "English",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 1262267382,
+                    "key": "1262267382",
+                    "name": "Two-Bedroom Apartment",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "providerId": 3038,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": false,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": false,
+            "totalIndex": 2
+          },
+          {
+            "id": 3038,
+            "isDefaultProvider": true,
+            "totalIndex": 2
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/freddies-villas-sabang/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 80263060,
+        "hotelName": "Freddies Villas Sabang",
+        "providerIdForSeoReviewScore": 3038,
+        "providerId": 332,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.8,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 2,
+            "providerId": 332,
+            "cityAverageText": "City's average",
+            "formattedScore": "8.8",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "9.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.0-15",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.0-5",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-2",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.0-15",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-9.0-17",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 2
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.8,
+            "maxScore": 10.0,
+            "id": 2,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "City's average",
+            "formattedScore": "8.8",
+            "name": "Couples",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional service",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.0-19",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 6.0,
+                "formattedScore": "6.0",
+                "scale": 10.0,
+                "percentage": 60.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "60.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-6.0-2",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-19",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.8,
+            "maxScore": 10.0,
+            "id": 4,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "City's average",
+            "formattedScore": "8.8",
+            "name": "Families with young children",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-10.0-12",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.0-20",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-16",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.0-22",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.0-24",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 7.0,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 3,
+            "providerId": 3038,
+            "cityAverageText": "City's average",
+            "formattedScore": "7.0",
+            "name": "All guests",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "7.5",
+              "text": "Very good cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.5-24",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.5-10",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "location-7.5-11",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 6.7,
+                "formattedScore": "6.7",
+                "scale": 10.0,
+                "percentage": 67.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "67.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-6.7-1",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 6.7,
+                "formattedScore": "6.7",
+                "scale": 10.0,
+                "percentage": 67.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "67.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-6.7-20",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-7.5-17",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 9.6,
+            "maxScore": 10.0,
+            "id": 2,
+            "count": 1,
+            "providerId": 3038,
+            "cityAverageText": "City's average",
+            "formattedScore": "9.6",
+            "name": "Couples",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-10.0-15",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-10.0-13",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-15",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-7.5-17",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-2",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-23",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 5.7,
+            "maxScore": 10.0,
+            "id": 3,
+            "count": 2,
+            "providerId": 3038,
+            "cityAverageText": "City's average",
+            "formattedScore": "5.7",
+            "name": "Solo travelers",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Review score",
+            "subReview": {
+              "score": "6.3",
+              "text": "",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-6.3-15",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-6.3-6",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "location-6.3-15",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-6.3-1",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 5.0,
+                "formattedScore": "5.0",
+                "scale": 10.0,
+                "percentage": 50.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "50.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-5.0-27",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-6.3-0",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 2,
+            "tabName": "Agoda Reviews (2)",
+            "ratingViaProvider": "Rating via Agoda"
+          },
+          {
+            "providerId": 3038,
+            "reviewCount": 3,
+            "tabName": "Booking.com Reviews (3)",
+            "ratingViaProvider": "Rating via Booking.com"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "reviewTagsV2": [
+          {
+            "tagId": 7,
+            "tagName": "Beach",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 50.0,
+            "negativePercentage": 50.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 1,
+            "tagName": "Air conditioning",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          },
+          {
+            "tagId": 45,
+            "tagName": "Wi-Fi",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          }
+        ],
+        "hasReviewTagsV2": true
+      }
+    },
+    {
+      "hasReviewsData": true,
+      "pageSize": 5,
+      "hotelId": 80263060,
+      "hotelName": "Freddies Villas Sabang",
+      "additionalReviewProviders": [
+        27901,
+        28999,
+        27989
+      ],
+      "recentReviewScores": [],
+      "combinedReview": {
+        "isShowCombinedRating": true,
+        "score": {
+          "maxScore": 10,
+          "providerId": -1,
+          "reviewCommentsCount": 2,
+          "reviewCount": 5,
+          "score": 7.7,
+          "demographic": "All guests",
+          "formattedReviewCount": "5",
+          "formattedScore": "7.7",
+          "scoreText": "Very good"
+        },
+        "providers": [
+          {
+            "providerId": 332,
+            "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+            "logoName": "agoda",
+            "logoAltText": "Agoda"
+          },
+          {
+            "providerId": 3038,
+            "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+            "logoName": "booking",
+            "logoAltText": "Booking.com"
+          }
+        ],
+        "grades": [
+          {
+            "id": "location",
+            "name": "Location",
+            "score": 8.5,
+            "scoreText": "Excellent",
+            "formattedScore": "8.5"
+          },
+          {
+            "id": "cleanliness",
+            "name": "Cleanliness",
+            "score": 8.1,
+            "scoreText": "Excellent",
+            "formattedScore": "8.1"
+          },
+          {
+            "id": "valueForMoney",
+            "name": "Value for money",
+            "score": 8.1,
+            "scoreText": "Excellent",
+            "formattedScore": "8.1"
+          },
+          {
+            "id": "overall",
+            "name": "",
+            "score": 7.7,
+            "scoreText": "Very good",
+            "formattedScore": "7.7"
+          },
+          {
+            "id": "staffPerformance",
+            "name": "Service",
+            "score": 7.6,
+            "scoreText": "Very good",
+            "formattedScore": "7.6"
+          },
+          {
+            "id": "facilities",
+            "name": "Facilities",
+            "score": 7.3,
+            "scoreText": "Very good",
+            "formattedScore": "7.3"
+          },
+          {
+            "id": "roomComfort",
+            "name": "Room comfort and quality",
+            "score": 6.7,
+            "scoreText": "Good",
+            "formattedScore": "6.7"
+          }
+        ]
+      },
+      "commentList": {
+        "reviewPageUrl": "/freddies-villas-sabang/reviews/aceh-id.html",
+        "currentPage": 1,
+        "hotelID": 80263060,
+        "pageSize": 5,
+        "selectedSortOption": 1,
+        "haveMoreThanOneComments": true,
+        "isCrawlablePage": false,
+        "isCurated": false,
+        "isReviewPage": false,
+        "shouldShowProminentLink": false,
+        "pageNumberToPageUrl": {},
+        "reviewsSortOptions": {
+          "1": "Most recent",
+          "2": "Rating, high to low",
+          "3": "Rating, low to high",
+          "7": "Most helpful"
+        },
+        "comments": [
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 1,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1130011353,
+            "providerId": 332,
+            "rating": 8.8,
+            "checkInDateMonthAndYear": "June 2026",
+            "encryptedReviewData": "hIJ8M+27B2G3SSxnydUEKQ==",
+            "formattedRating": "8.8",
+            "formattedReviewDate": "June 08, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Excellent",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "en",
+            "reviewComments": "The villas is good,infront of beach but the refregirator is not working..might be need aircon",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Villas",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "checkInDate": "2026-06-03T00:00:00+07:00",
+            "checkOutDate": "2026-06-08T00:00:00+07:00",
+            "reviewDate": "2026-06-08T09:07:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Tatap",
+              "flagName": "id",
+              "reviewGroupName": "Couple",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 5,
+              "reviewGroupId": 2,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1126938312,
+            "providerId": 3038,
+            "rating": 5.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "pV7FXe/hL5iiHsDKzWug2Q==",
+            "formattedRating": "5.0",
+            "formattedReviewDate": "May 22, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Review score",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "No airxond. Very hor",
+            "reviewPositives": "The view is stunning",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "Acceptable",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-05-22T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "samsol",
+              "flagName": "",
+              "reviewGroupName": "Solo traveler",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 3,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": true,
+            "helpfulVotes": 0,
+            "responseLanguageId": 26,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1062971210,
+            "providerId": 332,
+            "rating": 8.8,
+            "checkInDateMonthAndYear": "December 2025",
+            "encryptedReviewData": "xBIlj9H5CYRt/qmEmJw3Ag==",
+            "formattedRating": "8.8",
+            "formattedReviewDate": "December 31, 2025",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Excellent",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "id",
+            "reviewComments": "Not suitable for those who need air conditioning. Fredies' characteristic is that it doesn't use AC. But the downstairs room is very hot because there is no ventilation. The wifi also doesn't reach the room. The beach has a lot of coral, not recommended for swimming; it's only shallow but there are many beautiful fish.",
+            "reviewNegatives": "",
+            "reviewPositives": "",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Agoda",
+            "reviewTitle": "Fredies",
+            "translateSource": "id",
+            "translateTarget": "en",
+            "checkInDate": "2025-12-25T00:00:00+07:00",
+            "checkOutDate": "2025-12-26T00:00:00+07:00",
+            "reviewDate": "2025-12-31T01:55:00+07:00",
+            "reviewerInfo": {
+              "countryName": "Indonesia",
+              "displayMemberName": "Ricky",
+              "flagName": "id",
+              "reviewGroupName": "Family with young children",
+              "roomTypeName": "Two-Bedroom Apartment",
+              "countryId": 192,
+              "lengthOfStay": 1,
+              "reviewGroupId": 4,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": false,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "Fredies",
+            "originalComment": "Ga cocok utk yg harus ber AC.. Ciri khas fredies mmg ga pake AC.. Tp kamar bawah sangat panas krn tidak ada fentilasi. \nWifi jg ga nyampe kamar. \nPantainya ful karang tidak rkom utk berenang, cm dangkal aja sdh byk ikan2 cantik",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          },
+          {
+            "isHelpfulComment": false,
+            "isReviewVoted": false,
+            "isShowReviewResponse": false,
+            "isShowReviewResponseTranslateButton": false,
+            "isShowReviewTranslateButton": false,
+            "helpfulVotes": 0,
+            "responseLanguageId": 16,
+            "unHelpfulVotes": 0,
+            "hotelReviewId": 1073605744,
+            "providerId": 3038,
+            "rating": 10.0,
+            "checkInDateMonthAndYear": "",
+            "encryptedReviewData": "2D3rjkvs19NDfONQ+RJ+Yw==",
+            "formattedRating": "10.0",
+            "formattedReviewDate": "January 31, 2026",
+            "formattedReviewHelpfulText": "Did you find this review helpful?",
+            "ratingText": "Exceptional",
+            "responderName": "Freddies Villas Sabang",
+            "responseDateText": "",
+            "responseTranslateSource": "",
+            "reviewComments": "",
+            "reviewNegatives": "nothing",
+            "reviewPositives": "This villas are straight on the small amazing beautifull coral beach, you look straihht from the veranda over the water , you have perfect equiped kitchen ,  but the breakfast been coming straight at rhe villa.is small shop equiped with drinks and snacks, beer and wine home,also you can order the time you like,\nwe planned to stay 3 days , but we staied 9 nights, you are close to the city and restourants, same owner rest, close , they have good food and drinks, also you can order take away. In the house you have all time fresh water for drink, 2 bedrooms and 2 bathrooms, big veranda and living room, good wi fi ..we feel like our home  on the beach, thank to all pepple make this vacation so good for us, Thank you Frieddy for your attention and hospitality!",
+            "reviewProviderLogo": "",
+            "reviewProviderText": "Booking.com",
+            "reviewTitle": "Exceptional",
+            "translateSource": "en",
+            "translateTarget": "en",
+            "reviewDate": "2026-01-31T00:00:00+07:00",
+            "reviewerInfo": {
+              "countryName": "",
+              "displayMemberName": "Daniela",
+              "flagName": "",
+              "reviewGroupName": "Couple",
+              "roomTypeName": "",
+              "countryId": 0,
+              "lengthOfStay": 0,
+              "reviewGroupId": 2,
+              "roomTypeId": 0,
+              "reviewerReviewedCount": 0,
+              "isExpertReviewer": false,
+              "isShowGlobalIcon": true,
+              "isShowReviewedCount": false
+            },
+            "originalTitle": "",
+            "originalComment": "",
+            "ugcImages": [],
+            "formattedResponseDate": ""
+          }
+        ],
+        "reviewFilterAndSort": [
+          {
+            "providerId": 332,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": true,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Language",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 2,
+                "filterItems": [
+                  {
+                    "id": 1,
+                    "key": "1",
+                    "name": "English",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 26,
+                    "key": "26",
+                    "name": "Bahasa Indonesia",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Room type",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 3,
+                "filterItems": [
+                  {
+                    "id": 1262267382,
+                    "key": "1262267382",
+                    "name": "Two-Bedroom Apartment",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 2,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 0,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "providerId": 3038,
+            "selectedSortingOption": 1,
+            "hasSelectedFilters": false,
+            "showLanguageFilter": false,
+            "showRoomTypeFilter": false,
+            "hasCommentsMoreThanOnePage": false,
+            "shouldShowReviewFilters": false,
+            "sortings": [
+              {
+                "sortId": 1,
+                "sortText": "Most recent"
+              },
+              {
+                "sortId": 2,
+                "sortText": "Rating, high to low"
+              },
+              {
+                "sortId": 3,
+                "sortText": "Rating, low to high"
+              },
+              {
+                "sortId": 7,
+                "sortText": "Most helpful"
+              }
+            ],
+            "filters": [
+              {
+                "name": "Rating",
+                "filterItemsPerRow": 4,
+                "displayShowMore": true,
+                "type": 4,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "exceptional",
+                    "name": "9+ Exceptional",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "excellent",
+                    "name": "8-9 Excellent",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "very_good",
+                    "name": "7-8 Very Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "good",
+                    "name": "6-7 Good",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "below_expectation",
+                    "name": "<6 Below Expectation",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              },
+              {
+                "name": "Time of the year",
+                "filterItemsPerRow": 4,
+                "displayShowMore": false,
+                "type": 5,
+                "filterItems": [
+                  {
+                    "id": 0,
+                    "key": "mar_to_may",
+                    "name": "Mar - May",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "jun_to_aug",
+                    "name": "Jun - Aug",
+                    "count": 1,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "sep_to_nov",
+                    "name": "Sep - Nov",
+                    "count": 0,
+                    "isSelected": false
+                  },
+                  {
+                    "id": 0,
+                    "key": "dec_to_feb",
+                    "name": "Dec - Feb",
+                    "count": 1,
+                    "isSelected": false
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "providerList": [
+          {
+            "id": 332,
+            "isDefaultProvider": false,
+            "totalIndex": 2
+          },
+          {
+            "id": 3038,
+            "isDefaultProvider": true,
+            "totalIndex": 2
+          }
+        ],
+        "provider": 332,
+        "searchReview": {
+          "searchKeyword": ""
+        }
+      },
+      "score": {
+        "reviewPageUrl": "/freddies-villas-sabang/reviews/aceh-id.html",
+        "reviewProviderLogo": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+        "hotelId": 80263060,
+        "hotelName": "Freddies Villas Sabang",
+        "providerIdForSeoReviewScore": 3038,
+        "providerId": 332,
+        "demographics": [
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.8,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 2,
+            "providerId": 332,
+            "cityAverageText": "City's average",
+            "formattedScore": "8.8",
+            "name": "All guests",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "9.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-9.0-16",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.0,
+                "formattedScore": "7.0",
+                "scale": 10.0,
+                "percentage": 70.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "70.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.0-4",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-11",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-9.0-25",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 9.0,
+                "formattedScore": "9.0",
+                "scale": 10.0,
+                "percentage": 90.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "90.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-9.0-6",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 2
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.8,
+            "maxScore": 10.0,
+            "id": 2,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "City's average",
+            "formattedScore": "8.8",
+            "name": "Couples",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional service",
+              "name": "Service"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-8.0-0",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 6.0,
+                "formattedScore": "6.0",
+                "scale": 10.0,
+                "percentage": 60.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "60.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-6.0-10",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-13",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-16",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-24",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 332,
+                "logoUrl": "https://cdn6.agoda.net/images/default/agoda-logo-review.png",
+                "logoName": "agoda",
+                "logoAltText": "Agoda"
+              }
+            ],
+            "score": 8.8,
+            "maxScore": 10.0,
+            "id": 4,
+            "count": 1,
+            "providerId": 332,
+            "cityAverageText": "City's average",
+            "formattedScore": "8.8",
+            "name": "Families with young children",
+            "reviewProviderLogoText": "Provided by verified guests of",
+            "scoreText": "Excellent",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-10.0-17",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-8.0-19",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-21",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-8.0-14",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 8.0,
+                "formattedScore": "8.0",
+                "scale": 10.0,
+                "percentage": 80.0,
+                "scoreText": "Excellent",
+                "progressBarScoreStyle": "80.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-8.0-2",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": [
+              {
+                "id": "exceptional",
+                "scoreText": "9+ Exceptional",
+                "count": 0
+              },
+              {
+                "id": "excellent",
+                "scoreText": "8-9 Excellent",
+                "count": 1
+              },
+              {
+                "id": "very_good",
+                "scoreText": "7-8 Very Good",
+                "count": 0
+              },
+              {
+                "id": "good",
+                "scoreText": "6-7 Good",
+                "count": 0
+              },
+              {
+                "id": "below_expectation",
+                "scoreText": "<6 Below Expectation",
+                "count": 0
+              }
+            ]
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 7.0,
+            "maxScore": 10.0,
+            "id": 0,
+            "count": 3,
+            "providerId": 3038,
+            "cityAverageText": "City's average",
+            "formattedScore": "7.0",
+            "name": "All guests",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Very good",
+            "subReview": {
+              "score": "7.5",
+              "text": "Very good cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-7.5-26",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-7.5-17",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "location-7.5-28",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 6.7,
+                "formattedScore": "6.7",
+                "scale": 10.0,
+                "percentage": 67.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "67.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-6.7-1",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 6.7,
+                "formattedScore": "6.7",
+                "scale": 10.0,
+                "percentage": 67.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "67.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-6.7-7",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-7.5-2",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 9.6,
+            "maxScore": 10.0,
+            "id": 2,
+            "count": 1,
+            "providerId": 3038,
+            "cityAverageText": "City's average",
+            "formattedScore": "9.6",
+            "name": "Couples",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Exceptional",
+            "subReview": {
+              "score": "10.0",
+              "text": "Exceptional cleanliness",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-10.0-8",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-10.0-23",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "location-10.0-1",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 7.5,
+                "formattedScore": "7.5",
+                "scale": 10.0,
+                "percentage": 75.0,
+                "scoreText": "Very good",
+                "progressBarScoreStyle": "75.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-7.5-23",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-10.0-24",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 10.0,
+                "formattedScore": "10.0",
+                "scale": 10.0,
+                "percentage": 100.0,
+                "scoreText": "Exceptional",
+                "progressBarScoreStyle": "100.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-10.0-2",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          },
+          {
+            "reviewProviderLogos": [
+              {
+                "providerId": 3038,
+                "logoUrl": "https://cdn6.agoda.net/images/default/b-com-logo.png",
+                "logoName": "booking",
+                "logoAltText": "Booking.com"
+              }
+            ],
+            "score": 5.7,
+            "maxScore": 10.0,
+            "id": 3,
+            "count": 2,
+            "providerId": 3038,
+            "cityAverageText": "City's average",
+            "formattedScore": "5.7",
+            "name": "Solo travelers",
+            "reviewProviderLogoText": "Verified reviews provided by",
+            "scoreText": "Review score",
+            "subReview": {
+              "score": "6.3",
+              "text": "",
+              "name": "Cleanliness"
+            },
+            "grades": [
+              {
+                "id": "cleanliness",
+                "name": "Cleanliness",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "cleanliness-6.3-15",
+                "subGrades": []
+              },
+              {
+                "id": "facilities",
+                "name": "Facilities",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "facilities-6.3-23",
+                "subGrades": []
+              },
+              {
+                "id": "location",
+                "name": "Location",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "location-6.3-22",
+                "subGrades": []
+              },
+              {
+                "id": "roomComfort",
+                "name": "Room comfort and quality",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "roomComfort-6.3-23",
+                "subGrades": []
+              },
+              {
+                "id": "staffPerformance",
+                "name": "Service",
+                "score": 5.0,
+                "formattedScore": "5.0",
+                "scale": 10.0,
+                "percentage": 50.0,
+                "scoreText": "Review score",
+                "progressBarScoreStyle": "50.0",
+                "cityAverage": 0.0,
+                "uid": "staffPerformance-5.0-3",
+                "subGrades": []
+              },
+              {
+                "id": "valueForMoney",
+                "name": "Value for money",
+                "score": 6.3,
+                "formattedScore": "6.3",
+                "scale": 10.0,
+                "percentage": 63.0,
+                "scoreText": "Good",
+                "progressBarScoreStyle": "63.0",
+                "cityAverage": 0.0,
+                "uid": "valueForMoney-6.3-23",
+                "subGrades": []
+              }
+            ],
+            "scoreDistribution": []
+          }
+        ],
+        "priceRange": ""
+      },
+      "reviewTabs": {
+        "reviewTabs": [
+          {
+            "providerId": 332,
+            "reviewCount": 2,
+            "tabName": "Agoda Reviews (2)",
+            "ratingViaProvider": "Rating via Agoda"
+          },
+          {
+            "providerId": 3038,
+            "reviewCount": 3,
+            "tabName": "Booking.com Reviews (3)",
+            "ratingViaProvider": "Rating via Booking.com"
+          }
+        ],
+        "defaultProviderId": 332,
+        "showBComAsLink": true,
+        "originalProvider": 332
+      },
+      "reviewWordCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "facilityClassWordsCloud": {
+        "reviewWordCloud": [],
+        "hasReviewWordCloud": false
+      },
+      "reviewTagsV2": {
+        "reviewTagsV2": [
+          {
+            "tagId": 7,
+            "tagName": "Beach",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 50.0,
+            "negativePercentage": 50.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "Excellent"
+          },
+          {
+            "tagId": 1,
+            "tagName": "Air conditioning",
+            "mentionedNumber": 2,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          },
+          {
+            "tagId": 45,
+            "tagName": "Wi-Fi",
+            "mentionedNumber": 1,
+            "positiveNumber": 0,
+            "negativeNumber": 0,
+            "neutralNumber": 0,
+            "positivePercentage": 0.0,
+            "negativePercentage": 100.0,
+            "neutralPercentage": 0.0,
+            "ratingType": "None"
+          }
+        ],
+        "hasReviewTagsV2": true
+      }
+    }
+  ]
+}

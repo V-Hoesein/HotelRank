@@ -1,0 +1,43 @@
+{
+  "data": {
+    "propertyDetailsSearch": {
+      "propertyDetails": [
+        {
+          "propertyId": 30849073,
+          "contentDetail": {
+            "propertyId": 30849073,
+            "contentReviewScore": {
+              "providerReviewScore": [
+                {
+                  "isDefault": false,
+                  "providerId": 332,
+                  "cumulative": {
+                    "maxScore": 10
+                  },
+                  "demographics": null
+                },
+                {
+                  "isDefault": true,
+                  "providerId": 3038,
+                  "cumulative": null,
+                  "demographics": null
+                }
+              ]
+            },
+            "contentSummary": {
+              "rating": 2.5,
+              "address": {
+                "city": {
+                  "name": "Aceh"
+                },
+                "country": {
+                  "id": 192
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}

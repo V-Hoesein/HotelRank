@@ -1,0 +1,74 @@
+{
+  "data": {
+    "propertyDetailsSearch": {
+      "propertyDetails": [
+        {
+          "propertyId": 86204760,
+          "contentDetail": {
+            "propertyId": 86204760,
+            "contentReviewScore": {
+              "providerReviewScore": [
+                {
+                  "isDefault": true,
+                  "providerId": 332,
+                  "cumulative": {
+                    "maxScore": 10
+                  },
+                  "demographics": {
+                    "allGuest": {
+                      "id": 0,
+                      "reviewCount": 1,
+                      "grades": [
+                        {
+                          "id": "overall",
+                          "score": 10.0,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "cleanliness",
+                          "score": 10.0,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "facilities",
+                          "score": 10.0,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "location",
+                          "score": 10.0,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "staffPerformance",
+                          "score": 10.0,
+                          "cityAverage": null
+                        },
+                        {
+                          "id": "valueForMoney",
+                          "score": 10.0,
+                          "cityAverage": null
+                        }
+                      ]
+                    }
+                  }
+                }
+              ]
+            },
+            "contentSummary": {
+              "rating": 1.5,
+              "address": {
+                "city": {
+                  "name": "Aceh"
+                },
+                "country": {
+                  "id": 192
+                }
+              }
+            }
+          }
+        }
+      ]
+    }
+  }
+}
