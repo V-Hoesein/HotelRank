@@ -8,5 +8,70 @@
     "Car park",
     "Linens"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 653529594,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2023-05-22T12:32:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Terbaik",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "Superior Room",
+      "lengthOfStay": 2
+    },
+    {
+      "hotelReviewId": 578584904,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2022-12-26T11:39:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Hotel terbaik",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "Superior Room",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 653529594,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2023-05-22T12:32:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Terbaik",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "Superior Room",
+      "lengthOfStay": 2
+    },
+    {
+      "hotelReviewId": 578584904,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2022-12-26T11:39:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Hotel terbaik",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "Superior Room",
+      "lengthOfStay": 1
+    }
+  ]
 }

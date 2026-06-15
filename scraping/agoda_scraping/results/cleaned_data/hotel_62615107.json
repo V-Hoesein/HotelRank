@@ -4,5 +4,70 @@
   "favoriteFeatures": [
     "Car park"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 988453784,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2025-07-11T04:26:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Very nice ",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Group",
+      "roomTypeName": "home ",
+      "lengthOfStay": 3
+    },
+    {
+      "hotelReviewId": 990717740,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2025-07-15T02:59:00+07:00",
+      "reviewTitle": "Mantaf",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Bagus,smping mesjid..jd lebih nyaman",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "home ",
+      "lengthOfStay": 3
+    },
+    {
+      "hotelReviewId": 988453784,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2025-07-11T04:26:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Very nice ",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Group",
+      "roomTypeName": "home ",
+      "lengthOfStay": 3
+    },
+    {
+      "hotelReviewId": 990717740,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2025-07-15T02:59:00+07:00",
+      "reviewTitle": "Mantaf",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Bagus,smping mesjid..jd lebih nyaman",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "home ",
+      "lengthOfStay": 3
+    }
+  ]
 }

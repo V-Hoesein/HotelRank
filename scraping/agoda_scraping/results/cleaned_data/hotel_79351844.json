@@ -8,5 +8,38 @@
     "Air conditioning",
     "Balcony/terrace"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 1127374239,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-06-03T06:32:00+07:00",
+      "reviewTitle": "Beautiful ",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "The view was so good",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "Deluxe Room",
+      "lengthOfStay": 2
+    },
+    {
+      "hotelReviewId": 1127374239,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-06-03T06:32:00+07:00",
+      "reviewTitle": "Beautiful ",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "The view was so good",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "Deluxe Room",
+      "lengthOfStay": 2
+    }
+  ]
 }

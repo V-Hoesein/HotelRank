@@ -5,5 +5,38 @@
     "Breakfast [free]",
     "Car park"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 637415407,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2023-04-24T01:00:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "staff sangat ramah dan tempat bersih jg dekat kemana mana ",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "Bungalow",
+      "lengthOfStay": 2
+    },
+    {
+      "hotelReviewId": 637415407,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2023-04-24T01:00:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "staff sangat ramah dan tempat bersih jg dekat kemana mana ",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "Bungalow",
+      "lengthOfStay": 2
+    }
+  ]
 }

@@ -8,5 +8,70 @@
     "Balcony/terrace",
     "Car park"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 1118930690,
+      "rating": 2.0,
+      "ratingText": "Review score",
+      "reviewDate": "2026-05-16T06:51:00+07:00",
+      "reviewTitle": "bad reservation ",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "all ready payment but last minute cannot check in",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "One-Bedroom House",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1047480322,
+      "rating": 6.0,
+      "ratingText": "Good",
+      "reviewDate": "2025-10-26T00:00:00+07:00",
+      "reviewTitle": "Banda Aceh 2 malam",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "",
+      "reviewPositives": "Dekat dgn town. Owner baik, membantu saat kita dlm kesukaran cari jalan ke homestay.",
+      "reviewNegatives": "Jalan agak sempit, waze tidak dpt locate exact place, makanya kami sesat berpusing hampir 7x mencari homestay. \nHot shower tiada. \nTowel mandi tidak disediakan tapi setelah kami mohon, owner terus belikan kami towel mandi.",
+      "reviewerCountry": "",
+      "reviewGroupName": "Group",
+      "roomTypeName": "",
+      "lengthOfStay": 0
+    },
+    {
+      "hotelReviewId": 1118930690,
+      "rating": 2.0,
+      "ratingText": "Review score",
+      "reviewDate": "2026-05-16T06:51:00+07:00",
+      "reviewTitle": "bad reservation ",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "all ready payment but last minute cannot check in",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Family with young children",
+      "roomTypeName": "One-Bedroom House",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1047480322,
+      "rating": 6.0,
+      "ratingText": "Good",
+      "reviewDate": "2025-10-26T00:00:00+07:00",
+      "reviewTitle": "Banda Aceh 2 malam",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "",
+      "reviewPositives": "Dekat dgn town. Owner baik, membantu saat kita dlm kesukaran cari jalan ke homestay.",
+      "reviewNegatives": "Jalan agak sempit, waze tidak dpt locate exact place, makanya kami sesat berpusing hampir 7x mencari homestay. \nHot shower tiada. \nTowel mandi tidak disediakan tapi setelah kami mohon, owner terus belikan kami towel mandi.",
+      "reviewerCountry": "",
+      "reviewGroupName": "Group",
+      "roomTypeName": "",
+      "lengthOfStay": 0
+    }
+  ]
 }

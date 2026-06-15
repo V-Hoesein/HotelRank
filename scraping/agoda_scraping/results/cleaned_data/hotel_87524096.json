@@ -6,5 +6,38 @@
     "Smoking area",
     "Car park"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 1117436024,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-05-14T07:20:00+07:00",
+      "reviewTitle": "⭐️⭐️⭐️⭐️⭐️",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "sangat worth the money karena kamar dan kamar mandinya sangat bersih, didukung staf yang sigap membantu serta lokasi strategis dekat kota yang memudahkan akses mencari makanan",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "Superior",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1117436024,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-05-14T07:20:00+07:00",
+      "reviewTitle": "⭐️⭐️⭐️⭐️⭐️",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "sangat worth the money karena kamar dan kamar mandinya sangat bersih, didukung staf yang sigap membantu serta lokasi strategis dekat kota yang memudahkan akses mencari makanan",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "Superior",
+      "lengthOfStay": 1
+    }
+  ]
 }

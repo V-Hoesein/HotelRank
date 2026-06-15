@@ -8,5 +8,38 @@
     "Daily housekeeping",
     "Balcony/terrace"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 578255308,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2022-12-20T07:34:00+07:00",
+      "reviewTitle": "ok",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "ok",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Family with teens",
+      "roomTypeName": "Standard Double B",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 578255308,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2022-12-20T07:34:00+07:00",
+      "reviewTitle": "ok",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "ok",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Family with teens",
+      "roomTypeName": "Standard Double B",
+      "lengthOfStay": 1
+    }
+  ]
 }

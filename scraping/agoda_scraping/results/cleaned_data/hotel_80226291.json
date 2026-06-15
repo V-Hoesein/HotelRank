@@ -4,5 +4,70 @@
   "favoriteFeatures": [
     "Laundry service"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 1042261572,
+      "rating": 8.4,
+      "ratingText": "Excellent",
+      "reviewDate": "2025-10-23T06:05:00+07:00",
+      "reviewTitle": "Excellent",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "+ The owner was helpful & friendly\n+ Near the lake\n+ Clean room, facilities are perfect\n+ Green scenery with rice fields \n\n- Prepare yourself as it's no wifi",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Solo traveler",
+      "roomTypeName": "Double Room with Private Bathroom",
+      "lengthOfStay": 2
+    },
+    {
+      "hotelReviewId": 1037329640,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2025-10-09T12:14:00+07:00",
+      "reviewTitle": "Baik",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Baik",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Group",
+      "roomTypeName": "Twin Room",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1042261572,
+      "rating": 8.4,
+      "ratingText": "Excellent",
+      "reviewDate": "2025-10-23T06:05:00+07:00",
+      "reviewTitle": "Excellent",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "+ The owner was helpful & friendly\n+ Near the lake\n+ Clean room, facilities are perfect\n+ Green scenery with rice fields \n\n- Prepare yourself as it's no wifi",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Solo traveler",
+      "roomTypeName": "Double Room with Private Bathroom",
+      "lengthOfStay": 2
+    },
+    {
+      "hotelReviewId": 1037329640,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2025-10-09T12:14:00+07:00",
+      "reviewTitle": "Baik",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Baik",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Group",
+      "roomTypeName": "Twin Room",
+      "lengthOfStay": 1
+    }
+  ]
 }

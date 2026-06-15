@@ -5,5 +5,70 @@
     "Free Wi-Fi in all rooms!",
     "Car park"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 1104599479,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-04-09T05:40:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Sangat bagus",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1071539895,
+      "rating": 9.2,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-01-31T06:40:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Rekomendasi ",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1104599479,
+      "rating": 10.0,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-04-09T05:40:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Sangat bagus",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1071539895,
+      "rating": 9.2,
+      "ratingText": "Exceptional",
+      "reviewDate": "2026-01-31T06:40:00+07:00",
+      "reviewTitle": "Exceptional",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "Rekomendasi ",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "",
+      "lengthOfStay": 1
+    }
+  ]
 }

@@ -41,34 +41,50 @@ def extract_favorite_features(graphql: dict) -> list[str]:
         return []
 
 
-def extract_reviews(reviews_data: dict) -> list[dict]:
+def extract_reviews(reviews_data) -> list[dict]:
     result = []
-    try:
-        comments = (
-            reviews_data.get("commentList", {})
-                        .get("comments", [])
-        )
-    except Exception:
+    
+    # Karena reviews_data sekarang bisa berupa list (hasil tangkapan multi-page)
+    # atau dict (jika format lama), kita standarkan menjadi list
+    if isinstance(reviews_data, dict):
+        reviews_list = [reviews_data]
+    elif isinstance(reviews_data, list):
+        reviews_list = reviews_data
+    else:
         return result
 
-    for c in comments:
-        reviewer = c.get("reviewerInfo") or {}
-        result.append({
-            "hotelReviewId":   c.get("hotelReviewId"),
-            "rating":          c.get("rating"),
-            "ratingText":      c.get("ratingText"),
-            "reviewDate":      c.get("reviewDate"),
-            "reviewTitle":     c.get("reviewTitle"),
-            "originalTitle":   c.get("originalTitle"),
-            "originalComment": c.get("originalComment"),
-            "reviewComments":  c.get("reviewComments"),
-            "reviewPositives": c.get("reviewPositives"),
-            "reviewNegatives": c.get("reviewNegatives"),
-            "reviewerCountry": reviewer.get("countryName"),
-            "reviewGroupName": reviewer.get("reviewGroupName"),
-            "roomTypeName":    reviewer.get("roomTypeName"),
-            "lengthOfStay":    reviewer.get("lengthOfStay"),
-        })
+    for page_data in reviews_list:
+        try:
+            # Format 1: HotelReviews API
+            comments = page_data.get("commentList", {}).get("comments")
+            
+            # Format 2: ReviewComments API (biasanya saat pagination via JS)
+            if comments is None:
+                comments = page_data.get("comments", [])
+                
+            if not comments:
+                continue
+        except Exception:
+            continue
+
+        for c in comments:
+            reviewer = c.get("reviewerInfo") or {}
+            result.append({
+                "hotelReviewId":   c.get("hotelReviewId"),
+                "rating":          c.get("rating"),
+                "ratingText":      c.get("ratingText"),
+                "reviewDate":      c.get("reviewDate"),
+                "reviewTitle":     c.get("reviewTitle"),
+                "originalTitle":   c.get("originalTitle"),
+                "originalComment": c.get("originalComment"),
+                "reviewComments":  c.get("reviewComments"),
+                "reviewPositives": c.get("reviewPositives"),
+                "reviewNegatives": c.get("reviewNegatives"),
+                "reviewerCountry": reviewer.get("countryName"),
+                "reviewGroupName": reviewer.get("reviewGroupName"),
+                "roomTypeName":    reviewer.get("roomTypeName"),
+                "lengthOfStay":    reviewer.get("lengthOfStay"),
+            })
 
     return result
 

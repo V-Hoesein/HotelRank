@@ -6,5 +6,38 @@
     "Car park",
     "Mini bar"
   ],
-  "reviews": []
+  "reviews": [
+    {
+      "hotelReviewId": 1062860502,
+      "rating": 2.0,
+      "ratingText": "Review score",
+      "reviewDate": "2025-12-30T04:05:00+07:00",
+      "reviewTitle": "Info sewa tidak jelas",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "ditulis diiklan entire house..sesampai disana hanya 1bilik dan biliknya disewa lg..tanggal3-7hb 2bilik disewa sama yg lain dan harus duduk serumah sama bkn muhrim..rumahnya kecil..sesampinya disana harus ditunggu lama...tidak bisa dicancel dan duit ngak bakal dipulangkan..owner tidak bertolak ansur..sikap juga tidak baik..mahal..jauh dri bandar..suasana tidak bagus...duit saya diambil tidak akan sy halalkn buat ibu sekeluarga jmpa di akhirat sana...",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "Standard Family Room",
+      "lengthOfStay": 1
+    },
+    {
+      "hotelReviewId": 1062860502,
+      "rating": 2.0,
+      "ratingText": "Review score",
+      "reviewDate": "2025-12-30T04:05:00+07:00",
+      "reviewTitle": "Info sewa tidak jelas",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "ditulis diiklan entire house..sesampai disana hanya 1bilik dan biliknya disewa lg..tanggal3-7hb 2bilik disewa sama yg lain dan harus duduk serumah sama bkn muhrim..rumahnya kecil..sesampinya disana harus ditunggu lama...tidak bisa dicancel dan duit ngak bakal dipulangkan..owner tidak bertolak ansur..sikap juga tidak baik..mahal..jauh dri bandar..suasana tidak bagus...duit saya diambil tidak akan sy halalkn buat ibu sekeluarga jmpa di akhirat sana...",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Malaysia",
+      "reviewGroupName": "Couple",
+      "roomTypeName": "Standard Family Room",
+      "lengthOfStay": 1
+    }
+  ]
 }
