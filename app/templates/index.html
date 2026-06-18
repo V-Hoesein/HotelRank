@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HotelRank Dashboard</title>
+    <!-- Modern Typography -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Main Stylesheet -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/index.css') }}">
+    <!-- Phosphor Icons for UI icons -->
+    <script src="https://unpkg.com/@phosphor-icons/web"></script>
+</head>
+<body>
+    <div class="glass-background"></div>
+    
+    <main class="dashboard-container">
+        <!-- Header Section -->
+        <header class="dashboard-header glass-panel">
+            <div class="header-content">
+                <h1>HotelRank <span class="accent-text">AI</span></h1>
+                <p>Analisis Sentimen & Peringkat Hotel</p>
+            </div>
+            
+            <!-- Search Bar -->
+            <div class="search-container">
+                <i class="ph ph-magnifying-glass search-icon"></i>
+                <input type="text" id="hotelSearchInput" placeholder="Cari nama hotel..." autocomplete="off">
+            </div>
+        </header>
+
+        <!-- Stats Overview -->
+        <section class="stats-overview glass-panel">
+            <div class="stat-box">
+                <i class="ph ph-buildings"></i>
+                <div class="stat-info">
+                    <span class="stat-value" id="totalHotels">{{ hotels|length }}</span>
+                    <span class="stat-label">Total Hotel</span>
+                </div>
+            </div>
+            <div class="stat-box">
+                <i class="ph ph-star-half"></i>
+                <div class="stat-info">
+                    <span class="stat-value">Sentimen</span>
+                    <span class="stat-label">Berdasarkan ML</span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Hotel Grid -->
+        <section class="hotel-grid" id="hotelGrid">
+            {% for hotel in hotels %}
+            <article class="hotel-card glass-panel" data-hotel-name="{{ hotel.hotelName|lower }}">
+                <div class="rank-badge rank-{{ loop.index }}">
+                    #{{ hotel.rank }}
+                </div>
+                
+                <div class="card-header">
+                    <h2>{{ hotel.hotelName }}</h2>
+                </div>
+                
+                <div class="sentiment-score-container">
+                    <div class="score-circle {% if hotel.averageSentimentScore >= 70 %}high{% elif hotel.averageSentimentScore >= 40 %}medium{% else %}low{% endif %}" 
+                         style="--score-pct: {{ hotel.averageSentimentScore }}%;">
+                        <div class="score-inner">
+                            <span class="score-text">{{ hotel.averageSentimentScore|round(1) }}</span>
+                        </div>
+                    </div>
+                    <span class="score-label">Skor Sentimen</span>
+                </div>
+
+                <div class="card-details">
+                    <div class="detail-item">
+                        <i class="ph ph-users"></i>
+                        <span>{{ hotel.totalAnalyzedReviews }} Ulasan Dianalisis</span>
+                    </div>
+                    {% if hotel.favoriteFeatures %}
+                    <div class="features-container">
+                        {% for feature in hotel.favoriteFeatures[:3] %}
+                            <span class="feature-tag">{{ feature }}</span>
+                        {% endfor %}
+                        {% if hotel.favoriteFeatures|length > 3 %}
+                            <span class="feature-tag more-tag">+{{ hotel.favoriteFeatures|length - 3 }}</span>
+                        {% endif %}
+                    </div>
+                    {% else %}
+                    <div class="features-container empty">
+                        <span>Belum ada info fitur</span>
+                    </div>
+                    {% endif %}
+                </div>
+            </article>
+            {% endfor %}
+            
+            <!-- Empty State for Search -->
+            <div id="noResultsMessage" class="glass-panel hidden">
+                <i class="ph ph-smiley-sad"></i>
+                <h3>Hotel tidak ditemukan</h3>
+                <p>Coba gunakan kata kunci lain.</p>
+            </div>
+        </section>
+    </main>
+
+    <script src="{{ url_for('static', filename='js/main.js') }}"></script>
+</body>
+</html>
