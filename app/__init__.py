@@ -2,6 +2,7 @@ import os
 import json
 import glob
 from flask import Flask, render_template
+from .saw_algorithm import rank_hotels_with_saw
 
 def create_app():
     app = Flask(__name__)
@@ -25,13 +26,9 @@ def create_app():
                 except Exception as e:
                     print(f"Error reading {file_path}: {e}")
         
-        # Sort hotels by averageSentimentScore in descending order
-        hotels.sort(key=lambda x: x.get('averageSentimentScore', 0), reverse=True)
-        
-        # Add rank based on index
-        for index, hotel in enumerate(hotels):
-            hotel['rank'] = index + 1
+        # Apply SAW Algorithm for ranking
+        ranked_hotels = rank_hotels_with_saw(hotels)
 
-        return render_template('index.html', hotels=hotels)
+        return render_template('index.html', hotels=ranked_hotels)
 
     return app

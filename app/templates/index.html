@@ -60,13 +60,20 @@
                 </div>
                 
                 <div class="sentiment-score-container">
-                    <div class="score-circle {% if hotel.averageSentimentScore >= 70 %}high{% elif hotel.averageSentimentScore >= 40 %}medium{% else %}low{% endif %}" 
-                         style="--score-pct: {{ hotel.averageSentimentScore }}%;">
+                    <div class="score-circle {% if hotel.saw_score >= 80 %}high{% elif hotel.saw_score >= 50 %}medium{% else %}low{% endif %}" 
+                         style="--score-pct: {{ hotel.saw_score }}%;">
                         <div class="score-inner">
-                            <span class="score-text">{{ hotel.averageSentimentScore|round(1) }}</span>
+                            <span class="score-text">{{ hotel.saw_score|round(1) }}</span>
                         </div>
                     </div>
-                    <span class="score-label">Skor Sentimen</span>
+                    <div class="score-labels-container">
+                        <span class="score-label main-label">SAW Rank Score</span>
+                        <div class="sub-criteria">
+                            <span class="sub-crit-item" title="C1 - Fasilitas">🏨 Fasilitas: {{ (hotel.c1_raw / 0.45 * 100)|round(1) }}%</span>
+                            <span class="sub-crit-item" title="C2 - Sentimen">💬 Sentimen: {{ hotel.c2_raw|round(1) }}</span>
+                            <span class="sub-crit-item" title="C3 - Rating">⭐ Rating: {{ hotel.c3_raw|round(1) }}</span>
+                        </div>
+                    </div>
                 </div>
 
                 <div class="card-details">
