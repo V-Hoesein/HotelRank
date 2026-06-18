@@ -1,0 +1,47 @@
+{
+  "propertyId": 25542525,
+  "name": "Hotel Anggrek Banda Aceh",
+  "favoriteFeatures": [
+    "Air conditioning"
+  ],
+  "reviews": [
+    {
+      "hotelReviewId": 454943568,
+      "rating": 5.2,
+      "ratingText": "Review score",
+      "reviewDate": "2021-11-05T12:58:00+07:00",
+      "reviewTitle": "-",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "-",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Solo traveler",
+      "roomTypeName": "Standard",
+      "lengthOfStay": 1,
+      "sentimentScore": null,
+      "sentimentLabel": "Neutral"
+    },
+    {
+      "hotelReviewId": 454943568,
+      "rating": 5.2,
+      "ratingText": "Review score",
+      "reviewDate": "2021-11-05T12:58:00+07:00",
+      "reviewTitle": "-",
+      "originalTitle": "",
+      "originalComment": "",
+      "reviewComments": "-",
+      "reviewPositives": "",
+      "reviewNegatives": "",
+      "reviewerCountry": "Indonesia",
+      "reviewGroupName": "Solo traveler",
+      "roomTypeName": "Standard",
+      "lengthOfStay": 1,
+      "sentimentScore": null,
+      "sentimentLabel": "Neutral"
+    }
+  ],
+  "averageSentimentScore": 0.0,
+  "totalAnalyzedReviews": 0
+}
