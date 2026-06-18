@@ -50,13 +50,13 @@
         <!-- Hotel Grid -->
         <section class="hotel-grid" id="hotelGrid">
             {% for hotel in hotels %}
-            <article class="hotel-card glass-panel" data-hotel-name="{{ hotel.hotelName|lower }}">
+            <article class="hotel-card glass-panel" data-hotel-name="{{ hotel.name|lower }}">
                 <div class="rank-badge rank-{{ loop.index }}">
                     #{{ hotel.rank }}
                 </div>
                 
                 <div class="card-header">
-                    <h2>{{ hotel.hotelName }}</h2>
+                    <h2>{{ hotel.name }}</h2>
                 </div>
                 
                 <div class="sentiment-score-container">
