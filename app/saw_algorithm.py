@@ -97,14 +97,18 @@ def rank_hotels_with_saw(hotels_data):
         r_c2 = hotel['c2_raw'] / max_c2
         r_c3 = hotel['c3_raw'] / max_c3
         
-        # Simpan nilai normalisasi (opsional untuk ditampilkan)
+        # Simpan nilai normalisasi & weighted untuk ditampilkan
         hotel['c1_norm'] = r_c1
         hotel['c2_norm'] = r_c2
         hotel['c3_norm'] = r_c3
         
-        # Hitung Nilai Akhir SAW (V) - Skala 0 s.d 100 untuk tampilan yang bagus
+        hotel['c1_weighted'] = w_c1 * r_c1
+        hotel['c2_weighted'] = w_c2 * r_c2
+        hotel['c3_weighted'] = w_c3 * r_c3
+        
+        # Hitung Nilai Akhir SAW (V) - Skala maksimal 1.0
         v_score = (w_c1 * r_c1) + (w_c2 * r_c2) + (w_c3 * r_c3)
-        hotel['saw_score'] = v_score * 100  
+        hotel['saw_score'] = v_score  
         
     # 4. Urutkan berdasarkan saw_score secara descending
     hotels_data.sort(key=lambda x: x.get('saw_score', 0), reverse=True)
